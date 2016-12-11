@@ -1,0 +1,8 @@
+<h1>Here's your new icon!</h1>
+<% @icons.each do |icon| %>
+  <div class="panel icon-preview"> 
+    <div class="panel-body">
+      <%= icon.svg.html_safe %>
+    </div>
+  </div>
+<% end %>

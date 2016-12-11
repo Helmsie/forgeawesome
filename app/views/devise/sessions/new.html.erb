@@ -1,0 +1,13 @@
+<div class="col-xs-4 col-xs-offset-4">
+  <div class="page-header">
+    <h1><i class="fa fa-sign-in"></i> Sign In</h1>
+  </div>
+  <%= simple_form_for resource, as: resource_name, url: session_path(resource_name) do |f| %>
+    <%= f.input :email, label: false, placeholder: 'Email', input_html: { class: 'input-lg' }, required: true, autofocus: true %>
+    <%= f.input :password, label: false, placeholder: 'Password', input_html: { class: 'input-lg' }, required: true %>
+    <%= f.input :remember_me, as: :boolean %>
+    <button class="btn btn-primary btn-block btn-lg" type="submit" data-disable-with="Signing in...">
+      <i class="fa fa-sign-in"></i> Sign In
+    </button>
+  <% end %>
+</div>

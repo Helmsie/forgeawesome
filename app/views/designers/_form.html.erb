@@ -1,0 +1,14 @@
+<%= simple_form_for @designer, html: { class: "form-horizontal" }, wrapper: :horizontal_form do |f| %>
+  <%= render "shared/errors", model: @designer %>
+  <%= f.input :name %>
+  <%= f.input :email, as: :email %>
+  <%= f.input :website, as: :url %>
+  <div class="form-group">
+    <div class="col-xs-9 col-xs-offset-3">
+      <button type="submit" class="btn btn-primary" data-disable-with="Save...">
+        Save&nbsp; <i class="fa fa-check-circle"></i>
+      </button>
+      <a href="<%= designers_path %>" class="btn btn-default">Cancel</a>
+    </div>
+  </div>
+<% end %>

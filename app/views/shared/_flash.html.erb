@@ -1,0 +1,8 @@
+<% flash.each do |name, message| %>
+  <% unless message.blank? %>
+    <div class="alert alert-<%= bootstrap_alert_class(name) %>">
+      <button type="button" class="close" data-dismiss="alert" aria-hidden="true"><i class="fa fa-times"></i></button>
+      <div><%= message.html_safe %></div>
+    </div>
+  <% end %>
+<% end %>

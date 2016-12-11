@@ -1,0 +1,42 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/">Glyphery</a>
+    </div>
+    <div class="collapse navbar-collapse">
+      <% if user_signed_in? %>
+        <ul class="nav navbar-nav">
+          <li>
+            <%= link_to 'Icon Sets', icon_sets_path %>
+          </li>
+          <li>
+            <%= link_to 'Designers', designers_path %>
+          </li>
+          <li>
+            <%= link_to 'Import Tool', new_import_tool_path %>
+          </li>
+        </ul>
+      <% end %>
+      <ul class="nav navbar-nav navbar-right">
+      <% if user_signed_in? %>
+        <li>
+          <a href="">
+            <i class="icon icon-profile"></i>&nbsp; <%= current_user.name %>
+          </a>
+        </li>
+        <li>
+          <%= link_to destroy_user_session_path, method: :delete do %>
+            Sign Out &nbsp;<i class="fa fa-sign-out"></i>
+          <% end %>
+        </li>
+      <% else %>
+        <li>
+          <%= link_to new_user_session_path do %>
+            Sign In &nbsp;<i class="fa fa-sign-in"></i>
+          <% end %>
+        </li>
+      <% end %>
+      </ul>
+    </div>
+  </div>
+</nav>

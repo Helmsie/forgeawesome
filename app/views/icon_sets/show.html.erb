@@ -1,0 +1,68 @@
+<script src="./path/to/dropzone.js"></script>
+<div class="page-header">
+  <aside class="pull-right">
+    <%= link_to new_icon_set_icon_path(@icon_set), class: "btn btn-primary" do %>
+      <i class="fa fa-plus-circle"></i>&nbsp; New Icon
+    <% end %>
+  </aside>
+  <h1><%= @icon_set.name %></h1>
+</div>
+<dl class="dl-horizontal">
+  <dt>Designer:</dt>
+  <dd><%= @icon_set.designer %></dd>
+  <dt>Designed For:</dt>
+  <dd><%= "#{@icon_set.designed_for}px" %></dd>
+  <dt>CSS Prefix:</dt>
+  <dd><%= @icon_set.css_prefix %></dd>
+  <dt>Icon CSS Prefix:</dt>
+  <dd><%= @icon_set.icon_css_prefix %></dd>
+  <dt>Website:</dt>
+  <dd><%= @icon_set.website %></dd>
+</dl>
+<div class="icons">
+  <h3>Icons</h3>
+  <hr>
+  <% if @icons.any? %>
+    <% @icons.each do |icon| %>
+      <div class="panel icon-preview">
+        <div class="panel-body">
+          <%= icon.svg.html_safe %>
+        </div>
+      </div>
+    <% end %>
+  <% else %>
+    <div class="alert alert-warning">
+      <strong>Missing!</strong> There are no icons for this icon set. <a href="<%= new_icon_set_icon_path(@icon_set) %>" class="alert-link">Create a new one!</a>
+    </div>
+  <% end %>
+</div>
+<div class="panel med left" style="margin-left: 500px;">
+  <div class="col-xs-6">
+    <div class="panel panel-info">
+      <div class="panel-heading">
+        Icon Ceation Box
+      </div>
+      <%= form_tag uploads_path, class: "dropzone", multipart: true do %>
+      <% end %>
+      <div>
+        <p class="size" data-dz-size></p>
+        <div class="dz-progress"><span class="dz-upload" data-dz-uploadprogress></span></div>
+      </div>
+      <div class="dz-preview dz-file-preview">
+        <div class="dz-details">
+          <div class="dz-filename"><span data-dz-name></span></div>
+          <div class="dz-size" data-dz-size></div>
+        </div>
+        <div class="dz-error-message"><span data-dz-errormessage></span></div>
+      </div>
+      <button class="btn btn-primary upload">
+        <i class="fa fa-check-circle"></i>
+        <span>Upload</span>
+      </button>
+      <button data-dz-remove class="btn btn-danger cancel">
+        <i class="fa fa-times-circle"></i>
+        <span>Cancel</span>
+      </button>
+    </div>
+  </div>
+</div>

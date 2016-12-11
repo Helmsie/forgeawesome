@@ -1,0 +1,16 @@
+<%= simple_form_for @icon_set, html: {class: "form-horizontal"}, wrapper: :horizontal_form do |f| %>
+  <%= f.input :name %>
+  <%= f.association :designer, label: "Designer" %>
+  <%= f.input :designed_for, label: "Designed For", collection: IconSet::DESIGN_SIZE, label_method: lambda { |size| "#{size}px" } %>
+  <%= f.input :css_prefix, label: "CSS Prefix" %>
+  <%= f.input :icon_css_prefix, label: "Icon CSS Prefix" %>
+  <%= f.input :website, as: :url %>
+  <div class="form-group">
+    <div class="col-xs-9 col-xs-offset-3">
+      <button type="submit" class="btn btn-primary" data-disable-with="Save...">
+        Save&nbsp; <i class="fa fa-check-circle"></i>
+      </button>
+      <a href="<%= icon_sets_path %>" class="btn btn-danger">Cancel <i class="fa fa-times-circle"></i></a>
+    </div>
+  </div>
+<% end %>

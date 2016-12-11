@@ -11,6 +11,17 @@
 // about supported directives.
 //
 //= require jquery
+//= require jquery.turbolinks
 //= require jquery_ujs
-//= require turbolinks
+//= require bootstrap-sprockets
+//= require dropzone
+//= require select2
 //= require_tree .
+//= require turbolinks
+
+
+$(document).ready(function () {
+    $("select").select2({
+        theme: "bootstrap"
+    });
+});

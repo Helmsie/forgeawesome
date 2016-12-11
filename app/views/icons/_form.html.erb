@@ -1,0 +1,14 @@
+<%= simple_form_for @icon, url: icon_set_icons_path(@icon_set), html: { class: "form-horizontal"}, wrapper: :horizontal_form do |f| %>
+    <%= render 'shared/errors', model: @icon %>
+    <%= f.input :name, label: 'Name'  %>
+    <%= f.input :unicode, label: 'Unicode char', as: :string  %>
+    <%= f.input :svg, label: 'SVG', as: :text, input_html: { rows: 8 }, hint: 'Copy your icon directly from Illustrator CC and paste in the above field. Icon should be a single color vector with non-overlapping paths.' %>
+    <div class="form-group">
+      <div class="col-xs-9 col-xs-offset-3">
+        <button type="submit" class="btn btn-primary" data-disable-with="Save...">
+          Save&nbsp; <i class="fa fa-check-circle"></i>
+        </button>
+        <a href="<%= icon_set_path(@icon_set) %>" class="btn btn-default">Cancel</a>
+      </div>
+    </div>
+<% end %>

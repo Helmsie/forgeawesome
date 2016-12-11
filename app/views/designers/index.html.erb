@@ -1,0 +1,42 @@
+<div class="page-header">
+  <aside class="pull-right">
+    <%= link_to new_designer_path, class: "btn btn-primary" do %>
+      <i class="fa fa-plus-circle"></i>&nbsp; New Designer
+    <% end %>
+  </aside>
+  <h1>Designers</h1>
+</div>
+<%= render "shared/flash" %>
+<% if @designers.any? %>
+  <table class="table table-bordered table-hover">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Website</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <% @designers.each do |designer| %>
+        <tr>
+          <td><%= designer.name %></td>
+          <td><%= designer.email %></td>
+          <td><%= designer.website %></td>
+          <td>
+            <%= link_to edit_designer_path(designer), class: 'btn btn-primary btn-sm' do %>
+              <i class="fa fa-edit"></i> Edit
+            <% end %>
+            <%= link_to designer_path(designer), class: 'btn btn-danger btn-sm',  method: :delete, data: { confirm: "Deleting the designer will also delete all associated icon sets. Are you sure?" } do %>
+              <i class="fa fa-trash"></i> Delete
+            <% end %>
+          </td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+<% else %>
+  <div class="alert alert-warning">
+    <strong>Missing!</strong> There are no designers in the system. <a href="<%= new_designer_path %>" class="alert-link">Create a new one!</a>
+  </div>
+<% end %>

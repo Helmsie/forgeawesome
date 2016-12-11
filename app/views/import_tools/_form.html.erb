@@ -1,0 +1,11 @@
+<%= form_tag({action: :create}, multipart: true) do %>
+  <%= file_field_tag 'SVG' %>
+  <div class="form-group">
+    <div class="col-xs-9 col-xs-offset-3">
+      <button type="submit" class="btn btn-primary" data-disable-with="Save...">
+        Save&nbsp; <i class="fa fa-check-circle"></i>
+      </button>
+      <a href="<%= new_import_tool_path(@import_tool) %>" class="btn btn-default">Cancel</a>
+    </div>
+  </div>
+<% end %>
