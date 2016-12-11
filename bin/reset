@@ -1,0 +1,10 @@
+#!/bin/bash
+
+BIN_PATH=$(dirname $0)
+
+$BIN_PATH/bundle install
+$BIN_PATH/rake db:drop:all
+$BIN_PATH/rake db:create:all
+$BIN_PATH/rake db:migrate
+$BIN_PATH/rake db:migrate RAILS_ENV=test
+$BIN_PATH/rake glyphery:admin:create

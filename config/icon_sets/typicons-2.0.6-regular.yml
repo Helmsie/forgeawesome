@@ -1,0 +1,1038 @@
+token: d9e351be
+name: Typicons
+family: Typicons
+style: Regular
+version: 2.0.6
+filename: Typicons.ttf
+optimized_for: 20px
+css_prefix: typcn
+icon_css_prefix: typcn
+website: http://typicons.com/
+premium: false
+
+designer:
+  first_name: Stephen
+  last_name: Hutchings
+  email: dontations@typicons.com
+
+plans:
+  - basic
+  - pro
+  - owner
+  - business10
+  - business10_annual
+  - business20
+  - business20_annual
+  - business50
+  - business50_annual
+  - business100
+  - business100_annual
+
+icons:
+  - name: 'adjust-brightness'
+    unicode: 'e000'
+
+  - name: 'adjust-contrast'
+    unicode: 'e001'
+
+  - name: 'anchor-outline'
+    unicode: 'e002'
+
+  - name: 'anchor'
+    unicode: 'e003'
+
+  - name: 'archive'
+    unicode: 'e004'
+
+  - name: 'arrow-back-outline'
+    unicode: 'e005'
+
+  - name: 'arrow-back'
+    unicode: 'e006'
+
+  - name: 'arrow-down-outline'
+    unicode: 'e007'
+
+  - name: 'arrow-down-thick'
+    unicode: 'e008'
+
+  - name: 'arrow-down'
+    unicode: 'e009'
+
+  - name: 'arrow-forward-outline'
+    unicode: 'e00a'
+
+  - name: 'arrow-forward'
+    unicode: 'e00b'
+
+  - name: 'arrow-left-outline'
+    unicode: 'e00c'
+
+  - name: 'arrow-left-thick'
+    unicode: 'e00d'
+
+  - name: 'arrow-left'
+    unicode: 'e00e'
+
+  - name: 'arrow-loop-outline'
+    unicode: 'e00f'
+
+  - name: 'arrow-loop'
+    unicode: 'e010'
+
+  - name: 'arrow-maximise-outline'
+    unicode: 'e011'
+
+  - name: 'arrow-maximise'
+    unicode: 'e012'
+
+  - name: 'arrow-minimise-outline'
+    unicode: 'e013'
+
+  - name: 'arrow-minimise'
+    unicode: 'e014'
+
+  - name: 'arrow-move-outline'
+    unicode: 'e015'
+
+  - name: 'arrow-move'
+    unicode: 'e016'
+
+  - name: 'arrow-repeat-outline'
+    unicode: 'e017'
+
+  - name: 'arrow-repeat'
+    unicode: 'e018'
+
+  - name: 'arrow-right-outline'
+    unicode: 'e019'
+
+  - name: 'arrow-right-thick'
+    unicode: 'e01a'
+
+  - name: 'arrow-right'
+    unicode: 'e01b'
+
+  - name: 'arrow-shuffle'
+    unicode: 'e01c'
+
+  - name: 'arrow-sorted-down'
+    unicode: 'e01d'
+
+  - name: 'arrow-sorted-up'
+    unicode: 'e01e'
+
+  - name: 'arrow-sync-outline'
+    unicode: 'e01f'
+
+  - name: 'arrow-sync'
+    unicode: 'e020'
+
+  - name: 'arrow-unsorted'
+    unicode: 'e021'
+
+  - name: 'arrow-up-outline'
+    unicode: 'e022'
+
+  - name: 'arrow-up-thick'
+    unicode: 'e023'
+
+  - name: 'arrow-up'
+    unicode: 'e024'
+
+  - name: 'at'
+    unicode: 'e025'
+
+  - name: 'attachment-outline'
+    unicode: 'e026'
+
+  - name: 'attachment'
+    unicode: 'e027'
+
+  - name: 'backspace-outline'
+    unicode: 'e028'
+
+  - name: 'backspace'
+    unicode: 'e029'
+
+  - name: 'battery-charge'
+    unicode: 'e02a'
+
+  - name: 'battery-full'
+    unicode: 'e02b'
+
+  - name: 'battery-high'
+    unicode: 'e02c'
+
+  - name: 'battery-low'
+    unicode: 'e02d'
+
+  - name: 'battery-mid'
+    unicode: 'e02e'
+
+  - name: 'beaker'
+    unicode: 'e02f'
+
+  - name: 'beer'
+    unicode: 'e030'
+
+  - name: 'bell'
+    unicode: 'e031'
+
+  - name: 'book'
+    unicode: 'e032'
+
+  - name: 'bookmark'
+    unicode: 'e033'
+
+  - name: 'briefcase'
+    unicode: 'e034'
+
+  - name: 'brush'
+    unicode: 'e035'
+
+  - name: 'business-card'
+    unicode: 'e036'
+
+  - name: 'calculator'
+    unicode: 'e037'
+
+  - name: 'calendar-outline'
+    unicode: 'e038'
+
+  - name: 'calendar'
+    unicode: 'e039'
+
+  - name: 'camera-outline'
+    unicode: 'e03a'
+
+  - name: 'camera'
+    unicode: 'e03b'
+
+  - name: 'cancel-outline'
+    unicode: 'e03c'
+
+  - name: 'cancel'
+    unicode: 'e03d'
+
+  - name: 'chart-area-outline'
+    unicode: 'e03e'
+
+  - name: 'chart-area'
+    unicode: 'e03f'
+
+  - name: 'chart-bar-outline'
+    unicode: 'e040'
+
+  - name: 'chart-bar'
+    unicode: 'e041'
+
+  - name: 'chart-line-outline'
+    unicode: 'e042'
+
+  - name: 'chart-line'
+    unicode: 'e043'
+
+  - name: 'chart-pie-outline'
+    unicode: 'e044'
+
+  - name: 'chart-pie'
+    unicode: 'e045'
+
+  - name: 'chevron-left-outline'
+    unicode: 'e046'
+
+  - name: 'chevron-left'
+    unicode: 'e047'
+
+  - name: 'chevron-right-outline'
+    unicode: 'e048'
+
+  - name: 'chevron-right'
+    unicode: 'e049'
+
+  - name: 'clipboard'
+    unicode: 'e04a'
+
+  - name: 'cloud-storage'
+    unicode: 'e04b'
+
+  - name: 'cloud-storage-outline'
+    unicode: 'e054'
+
+  - name: 'code-outline'
+    unicode: 'e04c'
+
+  - name: 'code'
+    unicode: 'e04d'
+
+  - name: 'coffee'
+    unicode: 'e04e'
+
+  - name: 'cog-outline'
+    unicode: 'e04f'
+
+  - name: 'cog'
+    unicode: 'e050'
+
+  - name: 'compass'
+    unicode: 'e051'
+
+  - name: 'contacts'
+    unicode: 'e052'
+
+  - name: 'credit-card'
+    unicode: 'e053'
+
+  - name: 'css3'
+    unicode: 'e055'
+
+  - name: 'database'
+    unicode: 'e056'
+
+  - name: 'delete-outline'
+    unicode: 'e057'
+
+  - name: 'delete'
+    unicode: 'e058'
+
+  - name: 'device-desktop'
+    unicode: 'e059'
+
+  - name: 'device-laptop'
+    unicode: 'e05a'
+
+  - name: 'device-phone'
+    unicode: 'e05b'
+
+  - name: 'device-tablet'
+    unicode: 'e05c'
+
+  - name: 'directions'
+    unicode: 'e05d'
+
+  - name: 'divide-outline'
+    unicode: 'e05e'
+
+  - name: 'divide'
+    unicode: 'e05f'
+
+  - name: 'document-add'
+    unicode: 'e060'
+
+  - name: 'document-delete'
+    unicode: 'e061'
+
+  - name: 'document-text'
+    unicode: 'e062'
+
+  - name: 'document'
+    unicode: 'e063'
+
+  - name: 'download-outline'
+    unicode: 'e064'
+
+  - name: 'download'
+    unicode: 'e065'
+
+  - name: 'dropbox'
+    unicode: 'e066'
+
+  - name: 'edit'
+    unicode: 'e067'
+
+  - name: 'eject-outline'
+    unicode: 'e068'
+
+  - name: 'eject'
+    unicode: 'e069'
+
+  - name: 'equals-outline'
+    unicode: 'e06a'
+
+  - name: 'equals'
+    unicode: 'e06b'
+
+  - name: 'export-outline'
+    unicode: 'e06c'
+
+  - name: 'export'
+    unicode: 'e06d'
+
+  - name: 'eye-outline'
+    unicode: 'e06e'
+
+  - name: 'eye'
+    unicode: 'e06f'
+
+  - name: 'feather'
+    unicode: 'e070'
+
+  - name: 'film'
+    unicode: 'e071'
+
+  - name: 'filter'
+    unicode: 'e072'
+
+  - name: 'flag-outline'
+    unicode: 'e073'
+
+  - name: 'flag'
+    unicode: 'e074'
+
+  - name: 'flash-outline'
+    unicode: 'e075'
+
+  - name: 'flash'
+    unicode: 'e076'
+
+  - name: 'flow-children'
+    unicode: 'e077'
+
+  - name: 'flow-merge'
+    unicode: 'e078'
+
+  - name: 'flow-parallel'
+    unicode: 'e079'
+
+  - name: 'flow-switch'
+    unicode: 'e07a'
+
+  - name: 'folder-add'
+    unicode: 'e07b'
+
+  - name: 'folder-delete'
+    unicode: 'e07c'
+
+  - name: 'folder-open'
+    unicode: 'e07d'
+
+  - name: 'folder'
+    unicode: 'e07e'
+
+  - name: 'gift'
+    unicode: 'e07f'
+
+  - name: 'globe-outline'
+    unicode: 'e080'
+
+  - name: 'globe'
+    unicode: 'e081'
+
+  - name: 'group-outline'
+    unicode: 'e082'
+
+  - name: 'group'
+    unicode: 'e083'
+
+  - name: 'headphones'
+    unicode: 'e084'
+
+  - name: 'heart-full-outline'
+    unicode: 'e085'
+
+  - name: 'heart-half-outline'
+    unicode: 'e086'
+
+  - name: 'heart-outline'
+    unicode: 'e087'
+
+  - name: 'heart'
+    unicode: 'e088'
+
+  - name: 'home-outline'
+    unicode: 'e089'
+
+  - name: 'home'
+    unicode: 'e08a'
+
+  - name: 'html5'
+    unicode: 'e08b'
+
+  - name: 'image-outline'
+    unicode: 'e08c'
+
+  - name: 'image'
+    unicode: 'e08d'
+
+  - name: 'infinity-outline'
+    unicode: 'e08e'
+
+  - name: 'infinity'
+    unicode: 'e08f'
+
+  - name: 'info-large-outline'
+    unicode: 'e090'
+
+  - name: 'info-large'
+    unicode: 'e091'
+
+  - name: 'info-outline'
+    unicode: 'e092'
+
+  - name: 'info'
+    unicode: 'e093'
+
+  - name: 'input-checked-outline'
+    unicode: 'e094'
+
+  - name: 'input-checked'
+    unicode: 'e095'
+
+  - name: 'key-outline'
+    unicode: 'e096'
+
+  - name: 'key'
+    unicode: 'e097'
+
+  - name: 'keyboard'
+    unicode: 'e098'
+
+  - name: 'leaf'
+    unicode: 'e099'
+
+  - name: 'lightbulb'
+    unicode: 'e09a'
+
+  - name: 'link-outline'
+    unicode: 'e09b'
+
+  - name: 'link'
+    unicode: 'e09c'
+
+  - name: 'location-arrow-outline'
+    unicode: 'e09d'
+
+  - name: 'location-arrow'
+    unicode: 'e09e'
+
+  - name: 'location-outline'
+    unicode: 'e09f'
+
+  - name: 'location'
+    unicode: 'e0a0'
+
+  - name: 'lock-closed-outline'
+    unicode: 'e0a1'
+
+  - name: 'lock-closed'
+    unicode: 'e0a2'
+
+  - name: 'lock-open-outline'
+    unicode: 'e0a3'
+
+  - name: 'lock-open'
+    unicode: 'e0a4'
+
+  - name: 'mail'
+    unicode: 'e0a5'
+
+  - name: 'map'
+    unicode: 'e0a6'
+
+  - name: 'media-eject-outline'
+    unicode: 'e0a7'
+
+  - name: 'media-eject'
+    unicode: 'e0a8'
+
+  - name: 'media-fast-forward-outline'
+    unicode: 'e0a9'
+
+  - name: 'media-fast-forward'
+    unicode: 'e0aa'
+
+  - name: 'media-pause-outline'
+    unicode: 'e0ab'
+
+  - name: 'media-pause'
+    unicode: 'e0ac'
+
+  - name: 'media-play-outline'
+    unicode: 'e0ad'
+
+  - name: 'media-play-reverse-outline'
+    unicode: 'e0ae'
+
+  - name: 'media-play-reverse'
+    unicode: 'e0af'
+
+  - name: 'media-play'
+    unicode: 'e0b0'
+
+  - name: 'media-record-outline'
+    unicode: 'e0b1'
+
+  - name: 'media-record'
+    unicode: 'e0b2'
+
+  - name: 'media-rewind-outline'
+    unicode: 'e0b3'
+
+  - name: 'media-rewind'
+    unicode: 'e0b4'
+
+  - name: 'media-stop-outline'
+    unicode: 'e0b5'
+
+  - name: 'media-stop'
+    unicode: 'e0b6'
+
+  - name: 'message-typing'
+    unicode: 'e0b7'
+
+  - name: 'message'
+    unicode: 'e0b8'
+
+  - name: 'messages'
+    unicode: 'e0b9'
+
+  - name: 'microphone-outline'
+    unicode: 'e0ba'
+
+  - name: 'microphone'
+    unicode: 'e0bb'
+
+  - name: 'minus-outline'
+    unicode: 'e0bc'
+
+  - name: 'minus'
+    unicode: 'e0bd'
+
+  - name: 'mortar-board'
+    unicode: 'e0be'
+
+  - name: 'news'
+    unicode: 'e0bf'
+
+  - name: 'notes-outline'
+    unicode: 'e0c0'
+
+  - name: 'notes'
+    unicode: 'e0c1'
+
+  - name: 'pen'
+    unicode: 'e0c2'
+
+  - name: 'pencil'
+    unicode: 'e0c3'
+
+  - name: 'phone-outline'
+    unicode: 'e0c4'
+
+  - name: 'phone'
+    unicode: 'e0c5'
+
+  - name: 'pi-outline'
+    unicode: 'e0c6'
+
+  - name: 'pi'
+    unicode: 'e0c7'
+
+  - name: 'pin-outline'
+    unicode: 'e0c8'
+
+  - name: 'pin'
+    unicode: 'e0c9'
+
+  - name: 'pipette'
+    unicode: 'e0ca'
+
+  - name: 'plane-outline'
+    unicode: 'e0cb'
+
+  - name: 'plane'
+    unicode: 'e0cc'
+
+  - name: 'plug'
+    unicode: 'e0cd'
+
+  - name: 'plus-outline'
+    unicode: 'e0ce'
+
+  - name: 'plus'
+    unicode: 'e0cf'
+
+  - name: 'point-of-interest-outline'
+    unicode: 'e0d0'
+
+  - name: 'point-of-interest'
+    unicode: 'e0d1'
+
+  - name: 'power-outline'
+    unicode: 'e0d2'
+
+  - name: 'power'
+    unicode: 'e0d3'
+
+  - name: 'printer'
+    unicode: 'e0d4'
+
+  - name: 'puzzle-outline'
+    unicode: 'e0d5'
+
+  - name: 'puzzle'
+    unicode: 'e0d6'
+
+  - name: 'radar-outline'
+    unicode: 'e0d7'
+
+  - name: 'radar'
+    unicode: 'e0d8'
+
+  - name: 'refresh-outline'
+    unicode: 'e0d9'
+
+  - name: 'refresh'
+    unicode: 'e0da'
+
+  - name: 'rss-outline'
+    unicode: 'e0db'
+
+  - name: 'rss'
+    unicode: 'e0dc'
+
+  - name: 'scissors-outline'
+    unicode: 'e0dd'
+
+  - name: 'scissors'
+    unicode: 'e0de'
+
+  - name: 'shopping-bag'
+    unicode: 'e0df'
+
+  - name: 'shopping-cart'
+    unicode: 'e0e0'
+
+  - name: 'social-at-circular'
+    unicode: 'e0e1'
+
+  - name: 'social-dribbble-circular'
+    unicode: 'e0e2'
+
+  - name: 'social-dribbble'
+    unicode: 'e0e3'
+
+  - name: 'social-facebook-circular'
+    unicode: 'e0e4'
+
+  - name: 'social-facebook'
+    unicode: 'e0e5'
+
+  - name: 'social-flickr-circular'
+    unicode: 'e0e6'
+
+  - name: 'social-flickr'
+    unicode: 'e0e7'
+
+  - name: 'social-github-circular'
+    unicode: 'e0e8'
+
+  - name: 'social-github'
+    unicode: 'e0e9'
+
+  - name: 'social-google-plus-circular'
+    unicode: 'e0ea'
+
+  - name: 'social-google-plus'
+    unicode: 'e0eb'
+
+  - name: 'social-instagram-circular'
+    unicode: 'e0ec'
+
+  - name: 'social-instagram'
+    unicode: 'e0ed'
+
+  - name: 'social-last-fm-circular'
+    unicode: 'e0ee'
+
+  - name: 'social-last-fm'
+    unicode: 'e0ef'
+
+  - name: 'social-linkedin-circular'
+    unicode: 'e0f0'
+
+  - name: 'social-linkedin'
+    unicode: 'e0f1'
+
+  - name: 'social-pinterest-circular'
+    unicode: 'e0f2'
+
+  - name: 'social-pinterest'
+    unicode: 'e0f3'
+
+  - name: 'social-skype-outline'
+    unicode: 'e0f4'
+
+  - name: 'social-skype'
+    unicode: 'e0f5'
+
+  - name: 'social-tumbler-circular'
+    unicode: 'e0f6'
+
+  - name: 'social-tumbler'
+    unicode: 'e0f7'
+
+  - name: 'social-twitter-circular'
+    unicode: 'e0f8'
+
+  - name: 'social-twitter'
+    unicode: 'e0f9'
+
+  - name: 'social-vimeo-circular'
+    unicode: 'e0fa'
+
+  - name: 'social-vimeo'
+    unicode: 'e0fb'
+
+  - name: 'social-youtube-circular'
+    unicode: 'e0fc'
+
+  - name: 'social-youtube'
+    unicode: 'e0fd'
+
+  - name: 'sort-alphabetically-outline'
+    unicode: 'e0fe'
+
+  - name: 'sort-alphabetically'
+    unicode: 'e0ff'
+
+  - name: 'sort-numerically-outline'
+    unicode: 'e100'
+
+  - name: 'sort-numerically'
+    unicode: 'e101'
+
+  - name: 'spanner-outline'
+    unicode: 'e102'
+
+  - name: 'spanner'
+    unicode: 'e103'
+
+  - name: 'spiral'
+    unicode: 'e104'
+
+  - name: 'star-full-outline'
+    unicode: 'e105'
+
+  - name: 'star-half-outline'
+    unicode: 'e106'
+
+  - name: 'star-half'
+    unicode: 'e107'
+
+  - name: 'star-outline'
+    unicode: 'e108'
+
+  - name: 'star'
+    unicode: 'e109'
+
+  - name: 'starburst-outline'
+    unicode: 'e10a'
+
+  - name: 'starburst'
+    unicode: 'e10b'
+
+  - name: 'stopwatch'
+    unicode: 'e10c'
+
+  - name: 'support'
+    unicode: 'e10d'
+
+  - name: 'tabs-outline'
+    unicode: 'e10e'
+
+  - name: 'tag'
+    unicode: 'e10f'
+
+  - name: 'tags'
+    unicode: 'e110'
+
+  - name: 'th-large-outline'
+    unicode: 'e111'
+
+  - name: 'th-large'
+    unicode: 'e112'
+
+  - name: 'th-list-outline'
+    unicode: 'e113'
+
+  - name: 'th-list'
+    unicode: 'e114'
+
+  - name: 'th-menu-outline'
+    unicode: 'e115'
+
+  - name: 'th-menu'
+    unicode: 'e116'
+
+  - name: 'th-small-outline'
+    unicode: 'e117'
+
+  - name: 'th-small'
+    unicode: 'e118'
+
+  - name: 'thermometer'
+    unicode: 'e119'
+
+  - name: 'thumbs-down'
+    unicode: 'e11a'
+
+  - name: 'thumbs-ok'
+    unicode: 'e11b'
+
+  - name: 'thumbs-up'
+    unicode: 'e11c'
+
+  - name: 'tick-outline'
+    unicode: 'e11d'
+
+  - name: 'tick'
+    unicode: 'e11e'
+
+  - name: 'ticket'
+    unicode: 'e11f'
+
+  - name: 'time'
+    unicode: 'e120'
+
+  - name: 'times-outline'
+    unicode: 'e121'
+
+  - name: 'times'
+    unicode: 'e122'
+
+  - name: 'trash'
+    unicode: 'e123'
+
+  - name: 'tree'
+    unicode: 'e124'
+
+  - name: 'upload-outline'
+    unicode: 'e125'
+
+  - name: 'upload'
+    unicode: 'e126'
+
+  - name: 'user-add-outline'
+    unicode: 'e127'
+
+  - name: 'user-add'
+    unicode: 'e128'
+
+  - name: 'user-delete-outline'
+    unicode: 'e129'
+
+  - name: 'user-delete'
+    unicode: 'e12a'
+
+  - name: 'user-outline'
+    unicode: 'e12b'
+
+  - name: 'user'
+    unicode: 'e12c'
+
+  - name: 'vendor-android'
+    unicode: 'e12d'
+
+  - name: 'vendor-apple'
+    unicode: 'e12e'
+
+  - name: 'vendor-microsoft'
+    unicode: 'e12f'
+
+  - name: 'video-outline'
+    unicode: 'e130'
+
+  - name: 'video'
+    unicode: 'e131'
+
+  - name: 'volume-down'
+    unicode: 'e132'
+
+  - name: 'volume-mute'
+    unicode: 'e133'
+
+  - name: 'volume-up'
+    unicode: 'e134'
+
+  - name: 'volume'
+    unicode: 'e135'
+
+  - name: 'warning-outline'
+    unicode: 'e136'
+
+  - name: 'warning'
+    unicode: 'e137'
+
+  - name: 'watch'
+    unicode: 'e138'
+
+  - name: 'waves-outline'
+    unicode: 'e139'
+
+  - name: 'waves'
+    unicode: 'e13a'
+
+  - name: 'weather-cloudy'
+    unicode: 'e13b'
+
+  - name: 'weather-downpour'
+    unicode: 'e13c'
+
+  - name: 'weather-night'
+    unicode: 'e13d'
+
+  - name: 'weather-partly-sunny'
+    unicode: 'e13e'
+
+  - name: 'weather-shower'
+    unicode: 'e13f'
+
+  - name: 'weather-snow'
+    unicode: 'e140'
+
+  - name: 'weather-stormy'
+    unicode: 'e141'
+
+  - name: 'weather-sunny'
+    unicode: 'e142'
+
+  - name: 'weather-windy-cloudy'
+    unicode: 'e143'
+
+  - name: 'weather-windy'
+    unicode: 'e144'
+
+  - name: 'wi-fi-outline'
+    unicode: 'e145'
+
+  - name: 'wi-fi'
+    unicode: 'e146'
+
+  - name: 'wine'
+    unicode: 'e147'
+
+  - name: 'world-outline'
+    unicode: 'e148'
+
+  - name: 'world'
+    unicode: 'e149'
+
+  - name: 'zoom-in-outline'
+    unicode: 'e14a'
+
+  - name: 'zoom-in'
+    unicode: 'e14b'
+
+  - name: 'zoom-out-outline'
+    unicode: 'e14c'
+
+  - name: 'zoom-out'
+    unicode: 'e14d'
+
+  - name: 'zoom-outline'
+    unicode: 'e14e'
+
+  - name: 'zoom'
+    unicode: 'e14f'

@@ -1,0 +1,174 @@
+token: c039f8c4
+name: Linecons
+family: Linecons
+style: Regular
+version: 1.0.0
+filename: Linecons.ttf
+optimized_for: 16px
+css_prefix: li
+icon_css_prefix: li
+website: http://designmodo.com/linecons-free/
+premium: false
+
+foundry:
+  name: Designmodo
+  email: info@designmodo.com
+  website: http://designmodo.com/
+
+plans:
+  - basic
+  - pro
+  - owner
+  - business10
+  - business10_annual
+  - business20
+  - business20_annual
+  - business50
+  - business50_annual
+  - business100
+  - business100_annual
+
+icons:
+  - name: 'heart'
+    unicode: 'e000'
+
+  - name: 'cloud'
+    unicode: 'e001'
+
+  - name: 'star'
+    unicode: 'e002'
+
+  - name: 'tv'
+    unicode: 'e003'
+
+  - name: 'sound'
+    unicode: 'e004'
+
+  - name: 'video'
+    unicode: 'e005'
+
+  - name: 'trash'
+    unicode: 'e006'
+
+  - name: 'user'
+    unicode: 'e007'
+
+  - name: 'key'
+    unicode: 'e008'
+
+  - name: 'search'
+    unicode: 'e009'
+
+  - name: 'settings'
+    unicode: 'e00a'
+
+  - name: 'camera'
+    unicode: 'e00b'
+
+  - name: 'tag'
+    unicode: 'e00c'
+
+  - name: 'lock'
+    unicode: 'e00d'
+
+  - name: 'bulb'
+    unicode: 'e00e'
+
+  - name: 'pen'
+    unicode: 'e00f'
+
+  - name: 'diamond'
+    unicode: 'e010'
+
+  - name: 'display'
+    unicode: 'e011'
+
+  - name: 'location'
+    unicode: 'e012'
+
+  - name: 'eye'
+    unicode: 'e013'
+
+  - name: 'bubble'
+    unicode: 'e014'
+
+  - name: 'stack'
+    unicode: 'e015'
+
+  - name: 'cup'
+    unicode: 'e016'
+
+  - name: 'phone'
+    unicode: 'e017'
+
+  - name: 'news'
+    unicode: 'e018'
+
+  - name: 'mail'
+    unicode: 'e019'
+
+  - name: 'like'
+    unicode: 'e01a'
+
+  - name: 'photo'
+    unicode: 'e01b'
+
+  - name: 'note'
+    unicode: 'e01c'
+
+  - name: 'clock'
+    unicode: 'e01d'
+
+  - name: 'paperplane'
+    unicode: 'e01e'
+
+  - name: 'params'
+    unicode: 'e01f'
+
+  - name: 'banknote'
+    unicode: 'e020'
+
+  - name: 'data'
+    unicode: 'e021'
+
+  - name: 'music'
+    unicode: 'e022'
+
+  - name: 'megaphone'
+    unicode: 'e023'
+
+  - name: 'study'
+    unicode: 'e024'
+
+  - name: 'lab'
+    unicode: 'e025'
+
+  - name: 'food'
+    unicode: 'e026'
+
+  - name: 't-shirt'
+    unicode: 'e027'
+
+  - name: 'fire'
+    unicode: 'e028'
+
+  - name: 'clip'
+    unicode: 'e029'
+
+  - name: 'shop'
+    unicode: 'e02a'
+
+  - name: 'calendar'
+    unicode: 'e02b'
+
+  - name: 'vallet'
+    unicode: 'e02c'
+
+  - name: 'vynil'
+    unicode: 'e02d'
+
+  - name: 'truck'
+    unicode: 'e02e'
+
+  - name: 'world'
+    unicode: 'e02f'

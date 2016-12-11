@@ -1,0 +1,565 @@
+token: 2818361e
+name: Weather Icons
+family: Weather Icons
+style: Regular
+version: 1.3.0
+filename: WeatherIcons.otf
+optimized_for: 14px
+css_prefix: wi
+icon_css_prefix: wi
+website: http://erikflowers.github.io/weather-icons/
+premium: false
+
+designer:
+  first_name: Erik
+  last_name: Flowers
+  email: erik@helloerik.com
+  website: http://www.helloerik.com/
+
+plans:
+  - basic
+  - pro
+  - owner
+  - business10
+  - business10_annual
+  - business20
+  - business20_annual
+  - business50
+  - business50_annual
+  - business100
+  - business100_annual
+
+icons:
+  - name: 'day-cloudy-gusts'
+    unicode: 'f000'
+
+  - name: 'day-cloudy-windy'
+    unicode: 'f001'
+
+  - name: 'day-cloudy'
+    unicode: 'f002'
+
+  - name: 'day-fog'
+    unicode: 'f003'
+
+  - name: 'day-hail'
+    unicode: 'f004'
+
+  - name: 'day-lightning'
+    unicode: 'f005'
+
+  - name: 'day-rain-mix'
+    unicode: 'f006'
+
+  - name: 'day-rain-wind'
+    unicode: 'f007'
+
+  - name: 'day-rain'
+    unicode: 'f008'
+
+  - name: 'day-showers'
+    unicode: 'f009'
+
+  - name: 'day-snow'
+    unicode: 'f00a'
+
+  - name: 'day-sprinkle'
+    unicode: 'f00b'
+
+  - name: 'day-sunny-overcast'
+    unicode: 'f00c'
+
+  - name: 'day-sunny'
+    unicode: 'f00d'
+
+  - name: 'day-storm-showers'
+    unicode: 'f00e'
+
+  - name: 'day-thunderstorm'
+    unicode: 'f010'
+
+  - name: 'cloudy-gusts'
+    unicode: 'f011'
+
+  - name: 'cloudy-windy'
+    unicode: 'f012'
+
+  - name: 'cloudy'
+    unicode: 'f013'
+
+  - name: 'fog'
+    unicode: 'f014'
+
+  - name: 'hail'
+    unicode: 'f015'
+
+  - name: 'lightning'
+    unicode: 'f016'
+
+  - name: 'rain-mix'
+    unicode: 'f017'
+
+  - name: 'rain-wind'
+    unicode: 'f018'
+
+  - name: 'rain'
+    unicode: 'f019'
+
+  - name: 'showers'
+    unicode: 'f01a'
+
+  - name: 'snow'
+    unicode: 'f01b'
+
+  - name: 'sprinkle'
+    unicode: 'f01c'
+
+  - name: 'storm-showers'
+    unicode: 'f01d'
+
+  - name: 'thunderstorm'
+    unicode: 'f01e'
+
+  - name: 'windy'
+    unicode: 'f021'
+
+  - name: 'night-alt-cloudy-gusts'
+    unicode: 'f022'
+
+  - name: 'night-alt-cloudy-windy'
+    unicode: 'f023'
+
+  - name: 'night-alt-hail'
+    unicode: 'f024'
+
+  - name: 'night-alt-lightning'
+    unicode: 'f025'
+
+  - name: 'night-alt-rain-mix'
+    unicode: 'f026'
+
+  - name: 'night-alt-rain-wind'
+    unicode: 'f027'
+
+  - name: 'night-alt-rain'
+    unicode: 'f028'
+
+  - name: 'night-alt-showers'
+    unicode: 'f029'
+
+  - name: 'night-alt-snow'
+    unicode: 'f02a'
+
+  - name: 'night-alt-sprinkle'
+    unicode: 'f02b'
+
+  - name: 'night-alt-storm-showers'
+    unicode: 'f02c'
+
+  - name: 'night-alt-thunderstorm'
+    unicode: 'f02d'
+
+  - name: 'night-clear'
+    unicode: 'f02e'
+
+  - name: 'night-cloudy-gusts'
+    unicode: 'f02f'
+
+  - name: 'night-cloudy-windy'
+    unicode: 'f030'
+
+  - name: 'night-cloudy'
+    unicode: 'f031'
+
+  - name: 'night-hail'
+    unicode: 'f032'
+
+  - name: 'night-lightning'
+    unicode: 'f033'
+
+  - name: 'night-rain-mix'
+    unicode: 'f034'
+
+  - name: 'night-rain-wind'
+    unicode: 'f035'
+
+  - name: 'night-rain'
+    unicode: 'f036'
+
+  - name: 'night-showers'
+    unicode: 'f037'
+
+  - name: 'night-snow'
+    unicode: 'f038'
+
+  - name: 'night-sprinkle'
+    unicode: 'f039'
+
+  - name: 'night-storm-showers'
+    unicode: 'f03a'
+
+  - name: 'night-thunderstorm'
+    unicode: 'f03b'
+
+  - name: 'celsius'
+    unicode: 'f03c'
+
+  - name: 'cloud-down'
+    unicode: 'f03d'
+
+  - name: 'cloud-refresh'
+    unicode: 'f03e'
+
+  - name: 'cloud-up'
+    unicode: 'f040'
+
+  - name: 'cloud'
+    unicode: 'f041'
+
+  - name: 'degrees'
+    unicode: 'f042'
+
+  - name: 'down-left'
+    unicode: 'f043'
+
+  - name: 'down'
+    unicode: 'f044'
+
+  - name: 'fahrenheit'
+    unicode: 'f045'
+
+  - name: 'horizon-alt'
+    unicode: 'f046'
+
+  - name: 'horizon'
+    unicode: 'f047'
+
+  - name: 'left'
+    unicode: 'f048'
+
+  - name: 'lightning'
+    unicode: 'f016'
+
+  - name: 'night-fog'
+    unicode: 'f04a'
+
+  - name: 'refresh-alt'
+    unicode: 'f04b'
+
+  - name: 'refresh'
+    unicode: 'f04c'
+
+  - name: 'right'
+    unicode: 'f04d'
+
+  - name: 'sprinkles'
+    unicode: 'f04e'
+
+  - name: 'strong-wind'
+    unicode: 'f050'
+
+  - name: 'sunrise'
+    unicode: 'f051'
+
+  - name: 'sunset'
+    unicode: 'f052'
+
+  - name: 'thermometer-exterior'
+    unicode: 'f053'
+
+  - name: 'thermometer-internal'
+    unicode: 'f054'
+
+  - name: 'thermometer'
+    unicode: 'f055'
+
+  - name: 'tornado'
+    unicode: 'f056'
+
+  - name: 'up-right'
+    unicode: 'f057'
+
+  - name: 'up'
+    unicode: 'f058'
+
+  - name: 'wind-west'
+    unicode: 'f059'
+
+  - name: 'wind-south-west'
+    unicode: 'f05a'
+
+  - name: 'wind-south-east'
+    unicode: 'f05b'
+
+  - name: 'wind-south'
+    unicode: 'f05c'
+
+  - name: 'wind-north-west'
+    unicode: 'f05d'
+
+  - name: 'wind-north-east'
+    unicode: 'f05e'
+
+  - name: 'wind-north'
+    unicode: 'f060'
+
+  - name: 'wind-east'
+    unicode: 'f061'
+
+  - name: 'smoke'
+    unicode: 'f062'
+
+  - name: 'dust'
+    unicode: 'f063'
+
+  - name: 'snow-wind'
+    unicode: 'f064'
+
+  - name: 'day-snow-wind'
+    unicode: 'f065'
+
+  - name: 'night-snow-wind'
+    unicode: 'f066'
+
+  - name: 'night-alt-snow-wind'
+    unicode: 'f067'
+
+  - name: 'day-sleet-storm'
+    unicode: 'f068'
+
+  - name: 'night-sleet-storm'
+    unicode: 'f069'
+
+  - name: 'night-alt-sleet-storm'
+    unicode: 'f06a'
+
+  - name: 'day-snow-thunderstorm'
+    unicode: 'f06b'
+
+  - name: 'night-snow-thunderstorm'
+    unicode: 'f06c'
+
+  - name: 'night-alt-snow-thunderstorm'
+    unicode: 'f06d'
+
+  - name: 'solar-eclipse'
+    unicode: 'f06e'
+
+  - name: 'lunar-eclipse'
+    unicode: 'f070'
+
+  - name: 'meteor'
+    unicode: 'f071'
+
+  - name: 'hot'
+    unicode: 'f072'
+
+  - name: 'hurricane'
+    unicode: 'f073'
+
+  - name: 'smog'
+    unicode: 'f074'
+
+  - name: 'alien'
+    unicode: 'f075'
+
+  - name: 'snowflake-cold'
+    unicode: 'f076'
+
+  - name: 'stars'
+    unicode: 'f077'
+
+  - name: 'night-partly-cloudy'
+    unicode: 'f083'
+
+  - name: 'umbrella'
+    unicode: 'f084'
+
+  - name: 'day-windy'
+    unicode: 'f085'
+
+  - name: 'night-alt-cloudy'
+    unicode: 'f086'
+
+  - name: 'up-left'
+    unicode: 'f087'
+
+  - name: 'down-right'
+    unicode: 'f088'
+
+  - name: 'time-12'
+    unicode: 'f089'
+
+  - name: 'time-1'
+    unicode: 'f08a'
+
+  - name: 'time-2'
+    unicode: 'f08b'
+
+  - name: 'time-3'
+    unicode: 'f08c'
+
+  - name: 'time-4'
+    unicode: 'f08d'
+
+  - name: 'time-5'
+    unicode: 'f08e'
+
+  - name: 'time-6'
+    unicode: 'f08f'
+
+  - name: 'time-7'
+    unicode: 'f090'
+
+  - name: 'time-8'
+    unicode: 'f091'
+
+  - name: 'time-9'
+    unicode: 'f092'
+
+  - name: 'time-10'
+    unicode: 'f093'
+
+  - name: 'time-11'
+    unicode: 'f094'
+
+  - name: 'day-sleet'
+    unicode: 'f0b2'
+
+  - name: 'night-sleet'
+    unicode: 'f0b3'
+
+  - name: 'night-alt-sleet'
+    unicode: 'f0b4'
+
+  - name: 'sleet'
+    unicode: 'f0b5'
+
+  - name: 'day-haze'
+    unicode: 'f0b6'
+
+  - name: 'beafort-0'
+    unicode: 'f0b7'
+
+  - name: 'beafort-1'
+    unicode: 'f0b8'
+
+  - name: 'beafort-2'
+    unicode: 'f0b9'
+
+  - name: 'beafort-3'
+    unicode: 'f0ba'
+
+  - name: 'beafort-4'
+    unicode: 'f0bb'
+
+  - name: 'beafort-5'
+    unicode: 'f0bc'
+
+  - name: 'beafort-6'
+    unicode: 'f0bd'
+
+  - name: 'beafort-7'
+    unicode: 'f0be'
+
+  - name: 'beafort-8'
+    unicode: 'f0bf'
+
+  - name: 'beafort-9'
+    unicode: 'f0c0'
+
+  - name: 'beafort-10'
+    unicode: 'f0c1'
+
+  - name: 'beafort-11'
+    unicode: 'f0c2'
+
+  - name: 'beafort-12'
+    unicode: 'f0c3'
+
+  - name: 'wind-default'
+    unicode: 'f0b1'
+
+  - name: 'moon-new'
+    unicode: 'f095'
+
+  - name: 'moon-waxing-cresent-1'
+    unicode: 'f096'
+
+  - name: 'moon-waxing-cresent-2'
+    unicode: 'f097'
+
+  - name: 'moon-waxing-cresent-3'
+    unicode: 'f098'
+
+  - name: 'moon-waxing-cresent-4'
+    unicode: 'f099'
+
+  - name: 'moon-waxing-cresent-5'
+    unicode: 'f09a'
+
+  - name: 'moon-waxing-cresent-6'
+    unicode: 'f09b'
+
+  - name: 'moon-first-quarter'
+    unicode: 'f09c'
+
+  - name: 'moon-waxing-gibbous-1'
+    unicode: 'f09d'
+
+  - name: 'moon-waxing-gibbous-2'
+    unicode: 'f09e'
+
+  - name: 'moon-waxing-gibbous-3'
+    unicode: 'f09f'
+
+  - name: 'moon-waxing-gibbous-4'
+    unicode: 'f0a0'
+
+  - name: 'moon-waxing-gibbous-5'
+    unicode: 'f0a1'
+
+  - name: 'moon-waxing-gibbous-6'
+    unicode: 'f0a2'
+
+  - name: 'moon-full'
+    unicode: 'f0a3'
+
+  - name: 'moon-waning-gibbous-1'
+    unicode: 'f0a4'
+
+  - name: 'moon-waning-gibbous-2'
+    unicode: 'f0a5'
+
+  - name: 'moon-waning-gibbous-3'
+    unicode: 'f0a6'
+
+  - name: 'moon-waning-gibbous-4'
+    unicode: 'f0a7'
+
+  - name: 'moon-waning-gibbous-5'
+    unicode: 'f0a8'
+
+  - name: 'moon-waning-gibbous-6'
+    unicode: 'f0a9'
+
+  - name: 'moon-3rd-quarter'
+    unicode: 'f0aa'
+
+  - name: 'moon-waning-crescent-1'
+    unicode: 'f0ab'
+
+  - name: 'moon-waning-crescent-2'
+    unicode: 'f0ac'
+
+  - name: 'moon-waning-crescent-3'
+    unicode: 'f0ad'
+
+  - name: 'moon-waning-crescent-4'
+    unicode: 'f0ae'
+
+  - name: 'moon-waning-crescent-5'
+    unicode: 'f0af'
+
+  - name: 'moon-waning-crescent-6'
+    unicode: 'f0b0'

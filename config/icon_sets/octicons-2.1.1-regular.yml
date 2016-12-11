@@ -1,0 +1,606 @@
+token: bb96ef9a
+name: Octicons
+family: Octicons
+style: Regular
+version: 2.1.1
+filename: Octicons.ttf
+optimized_for: 16px
+css_prefix: octicon
+icon_css_prefix: octicon
+website: https://octicons.github.com
+premium: false
+
+foundry:
+  name: GitHub, Inc.
+  email: support@github.com
+  website: https://octicons.github.com
+
+plans:
+  - basic
+  - pro
+  - owner
+  - business10
+  - business10_annual
+  - business20
+  - business20_annual
+  - business50
+  - business50_annual
+  - business100
+  - business100_annual
+
+icons:
+  - name: 'alert'
+    unicode: 'f02d'
+
+  - name: 'alignment-align'
+    unicode: 'f08a'
+
+  - name: 'alignment-aligned-to'
+    unicode: 'f08e'
+
+  - name: 'alignment-unalign'
+    unicode: 'f08b'
+
+  - name: 'arrow-down'
+    unicode: 'f03f'
+
+  - name: 'arrow-left'
+    unicode: 'f040'
+
+  - name: 'arrow-right'
+    unicode: 'f03e'
+
+  - name: 'arrow-small-down'
+    unicode: 'f0a0'
+
+  - name: 'arrow-small-left'
+    unicode: 'f0a1'
+
+  - name: 'arrow-small-right'
+    unicode: 'f071'
+
+  - name: 'arrow-small-up'
+    unicode: 'f09f'
+
+  - name: 'arrow-up'
+    unicode: 'f03d'
+
+  - name: 'beer'
+    unicode: 'f069'
+
+  - name: 'book'
+    unicode: 'f007'
+
+  - name: 'bookmark'
+    unicode: 'f07b'
+
+  - name: 'briefcase'
+    unicode: 'f0d3'
+
+  - name: 'broadcast'
+    unicode: 'f048'
+
+  - name: 'browser'
+    unicode: 'f0c5'
+
+  - name: 'bug'
+    unicode: 'f091'
+
+  - name: 'calendar'
+    unicode: 'f068'
+
+  - name: 'check'
+    unicode: 'f03a'
+
+  - name: 'checklist'
+    unicode: 'f076'
+
+  - name: 'chevron-down'
+    unicode: 'f0a3'
+
+  - name: 'chevron-left'
+    unicode: 'f0a4'
+
+  - name: 'chevron-right'
+    unicode: 'f078'
+
+  - name: 'chevron-up'
+    unicode: 'f0a2'
+
+  - name: 'circle-slash'
+    unicode: 'f084'
+
+  - name: 'circuit-board'
+    unicode: 'f0d6'
+
+  - name: 'clippy'
+    unicode: 'f035'
+
+  - name: 'clock'
+    unicode: 'f046'
+
+  - name: 'cloud-download'
+    unicode: 'f00b'
+
+  - name: 'cloud-upload'
+    unicode: 'f00c'
+
+  - name: 'code'
+    unicode: 'f05f'
+
+  - name: 'color-mode'
+    unicode: 'f065'
+
+  - name: 'comment'
+    unicode: 'f02b'
+    aliases:
+      - comment-add
+
+  - name: 'comment-discussion'
+    unicode: 'f04f'
+
+  - name: 'credit-card'
+    unicode: 'f045'
+
+  - name: 'dash'
+    unicode: 'f0ca'
+
+  - name: 'dashboard'
+    unicode: 'f07d'
+
+  - name: 'database'
+    unicode: 'f096'
+
+  - name: 'device-camera'
+    unicode: 'f056'
+
+  - name: 'device-camera-video'
+    unicode: 'f057'
+
+  - name: 'device-desktop'
+    unicode: 'f27c'
+
+  - name: 'device-mobile'
+    unicode: 'f038'
+
+  - name: 'diff'
+    unicode: 'f04d'
+
+  - name: 'diff-added'
+    unicode: 'f06b'
+
+  - name: 'diff-ignored'
+    unicode: 'f099'
+
+  - name: 'diff-modified'
+    unicode: 'f06d'
+
+  - name: 'diff-removed'
+    unicode: 'f06c'
+
+  - name: 'diff-renamed'
+    unicode: 'f06e'
+
+  - name: 'ellipsis'
+    unicode: 'f09a'
+
+  - name: 'eye'
+    unicode: 'f04e'
+    aliases:
+      - eye-unwatch
+      - eye-watch
+
+  - name: 'file-binary'
+    unicode: 'f094'
+
+  - name: 'file-code'
+    unicode: 'f010'
+
+  - name: 'file-directory'
+    unicode: 'f016'
+
+  - name: 'file-media'
+    unicode: 'f012'
+
+  - name: 'file-pdf'
+    unicode: 'f014'
+
+  - name: 'file-submodule'
+    unicode: 'f017'
+
+  - name: 'file-symlink-directory'
+    unicode: 'f0b1'
+
+  - name: 'file-symlink-file'
+    unicode: 'f0b0'
+
+  - name: 'file-text'
+    unicode: 'f011'
+
+  - name: 'file-zip'
+    unicode: 'f013'
+
+  - name: 'flame'
+    unicode: 'f0d2'
+
+  - name: 'fold'
+    unicode: 'f0cc'
+
+  - name: 'gear'
+    unicode: 'f02f'
+
+  - name: 'gift'
+    unicode: 'f042'
+
+  - name: 'gist'
+    unicode: 'f00e'
+
+  - name: 'gist-secret'
+    unicode: 'f08c'
+
+  - name: 'git-branch'
+    unicode: 'f020'
+    aliases:
+      - git-branch-create
+      - git-branch-delete
+
+  - name: 'git-commit'
+    unicode: 'f01f'
+
+  - name: 'git-compare'
+    unicode: 'f0ac'
+
+  - name: 'git-merge'
+    unicode: 'f023'
+
+  - name: 'git-pull-request'
+    unicode: 'f009'
+    aliases:
+      - git-pull-request-abandoned
+
+  - name: 'globe'
+    unicode: 'f0b6'
+
+  - name: 'graph'
+    unicode: 'f043'
+
+  - name: 'heart'
+    unicode: '2665'
+
+  - name: 'history'
+    unicode: 'f07e'
+
+  - name: 'home'
+    unicode: 'f08d'
+
+  - name: 'horizontal-rule'
+    unicode: 'f070'
+
+  - name: 'hourglass'
+    unicode: 'f09e'
+
+  - name: 'hubot'
+    unicode: 'f09d'
+
+  - name: 'inbox'
+    unicode: 'f0cf'
+
+  - name: 'info'
+    unicode: 'f059'
+
+  - name: 'issue-closed'
+    unicode: 'f028'
+
+  - name: 'issue-opened'
+    unicode: 'f026'
+
+  - name: 'issue-reopened'
+    unicode: 'f027'
+
+  - name: 'jersey'
+    unicode: 'f019'
+
+  - name: 'jump-down'
+    unicode: 'f072'
+
+  - name: 'jump-left'
+    unicode: 'f0a5'
+
+  - name: 'jump-right'
+    unicode: 'f0a6'
+
+  - name: 'jump-up'
+    unicode: 'f073'
+
+  - name: 'key'
+    unicode: 'f049'
+
+  - name: 'keyboard'
+    unicode: 'f00d'
+
+  - name: 'law'
+    unicode: 'f0d8'
+
+  - name: 'light-bulb'
+    unicode: 'f000'
+
+  - name: 'link'
+    unicode: 'f05c'
+
+  - name: 'link-external'
+    unicode: 'f07f'
+
+  - name: 'list-ordered'
+    unicode: 'f062'
+
+  - name: 'list-unordered'
+    unicode: 'f061'
+
+  - name: 'location'
+    unicode: 'f060'
+
+  - name: 'lock'
+    unicode: 'f06a'
+    aliases:
+      - gist-private
+      - mirror-private
+      - git-fork-private
+
+  - name: 'logo-github'
+    unicode: 'f092'
+    width_ratio: 2
+
+  - name: 'mail'
+    unicode: 'f03b'
+
+  - name: 'mail-read'
+    unicode: 'f03c'
+
+  - name: 'mail-reply'
+    unicode: 'f051'
+
+  - name: 'mark-github'
+    unicode: 'f00a'
+
+  - name: 'markdown'
+    unicode: 'f0c9'
+
+  - name: 'megaphone'
+    unicode: 'f077'
+
+  - name: 'mention'
+    unicode: 'f0be'
+
+  - name: 'microscope'
+    unicode: 'f089'
+
+  - name: 'milestone'
+    unicode: 'f075'
+
+  - name: 'mirror'
+    unicode: 'f024'
+    aliases:
+      - mirror-public
+
+  - name: 'mortar-board'
+    unicode: 'f0d7'
+
+  - name: 'move-down'
+    unicode: 'f0a8'
+
+  - name: 'move-left'
+    unicode: 'f074'
+
+  - name: 'move-right'
+    unicode: 'f0a9'
+
+  - name: 'move-up'
+    unicode: 'f0a7'
+
+  - name: 'mute'
+    unicode: 'f080'
+
+  - name: 'no-newline'
+    unicode: 'f09c'
+
+  - name: 'octoface'
+    unicode: 'f008'
+
+  - name: 'organization'
+    unicode: 'f037'
+
+  - name: 'package'
+    unicode: 'f0c4'
+
+  - name: 'paintcan'
+    unicode: 'f0d1'
+
+  - name: 'pencil'
+    unicode: 'f058'
+
+  - name: 'person'
+    unicode: 'f018'
+    aliases:
+      - person-add
+      - person-follow
+
+  - name: 'pin'
+    unicode: 'f041'
+
+  - name: 'playback-fast-forward'
+    unicode: 'f0bd'
+
+  - name: 'playback-pause'
+    unicode: 'f0bb'
+
+  - name: 'playback-play'
+    unicode: 'f0bf'
+
+  - name: 'playback-rewind'
+    unicode: 'f0bc'
+
+  - name: 'plug'
+    unicode: 'f0d4'
+
+  - name: 'plus'
+    unicode: 'f05d'
+    aliases:
+      - repo-create
+      - gist-new
+      - file-directory-create
+      - file-add
+
+  - name: 'podium'
+    unicode: 'f0af'
+
+  - name: 'primitive-dot'
+    unicode: 'f052'
+
+  - name: 'primitive-square'
+    unicode: 'f053'
+
+  - name: 'pulse'
+    unicode: 'f085'
+
+  - name: 'puzzle'
+    unicode: 'f0c0'
+
+  - name: 'question'
+    unicode: 'f02c'
+
+  - name: 'quote'
+    unicode: 'f063'
+
+  - name: 'radio-tower'
+    unicode: 'f030'
+
+  - name: 'repo'
+    unicode: 'f001'
+    aliases:
+      - repo-delete
+
+  - name: 'repo-clone'
+    unicode: 'f04c'
+
+  - name: 'repo-force-push'
+    unicode: 'f04a'
+
+  - name: 'repo-forked'
+    unicode: 'f002'
+    aliases:
+      - gist-fork
+
+  - name: 'repo-pull'
+    unicode: 'f006'
+
+  - name: 'repo-push'
+    unicode: 'f005'
+
+  - name: 'rocket'
+    unicode: 'f033'
+
+  - name: 'rss'
+    unicode: 'f034'
+
+  - name: 'ruby'
+    unicode: 'f047'
+
+  - name: 'screen-full'
+    unicode: 'f066'
+
+  - name: 'screen-normal'
+    unicode: 'f067'
+
+  - name: 'search'
+    unicode: 'f02e'
+    aliases:
+      - search-save
+
+  - name: 'server'
+    unicode: 'f097'
+
+  - name: 'settings'
+    unicode: 'f07c'
+
+  - name: 'sign-in'
+    unicode: 'f036'
+    aliases:
+      - login-in
+
+  - name: 'sign-out'
+    unicode: 'f032'
+    aliases:
+      - log-out
+
+  - name: 'split'
+    unicode: 'f0c6'
+
+  - name: 'squirrel'
+    unicode: 'f0b2'
+
+  - name: 'star'
+    unicode: 'f02a'
+    aliases:
+      - star-add
+      - star-delete
+
+  - name: 'steps'
+    unicode: 'f0c7'
+
+  - name: 'stop'
+    unicode: 'f08f'
+
+  - name: 'sync'
+    unicode: 'f087'
+    aliases:
+      - repo-sync
+
+  - name: 'tag'
+    unicode: 'f015'
+    aliases:
+      - tag-remove
+      - teg-add
+
+  - name: 'telescope'
+    unicode: 'f088'
+
+  - name: 'terminal'
+    unicode: 'f0c8'
+
+  - name: 'three-bars'
+    unicode: 'f05e'
+
+  - name: 'tools'
+    unicode: 'f031'
+
+  - name: 'trashcan'
+    unicode: 'f0d0'
+
+  - name: 'triangle-down'
+    unicode: 'f05b'
+
+  - name: 'triangle-left'
+    unicode: 'f044'
+
+  - name: 'triangle-right'
+    unicode: 'f05a'
+
+  - name: 'triangle-up'
+    unicode: 'f0aa'
+
+  - name: 'unfold'
+    unicode: 'f039'
+
+  - name: 'unmute'
+    unicode: 'f0ba'
+
+  - name: 'versions'
+    unicode: 'f064'
+
+  - name: 'x'
+    unicode: 'f081'
+    aliases:
+      - remove-close
+
+  - name: 'zap'
+    unicode: '26A1'

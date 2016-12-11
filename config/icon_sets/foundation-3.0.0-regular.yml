@@ -1,0 +1,879 @@
+token: feb72b50
+name: Foundation
+family: Foundation
+style: Regular
+version: 3.0.0
+filename: Foundation.ttf
+optimized_for: 16px
+css_prefix: fi
+icon_css_prefix: fi
+website: http://zurb.com/playground/foundation-icon-fonts-3
+premium: false
+
+foundry:
+  name: ZURB, Inc.
+  email: getstarted@zurb.com
+  website: http://zurb.com
+
+plans:
+  - basic
+  - pro
+  - owner
+  - business10
+  - business10_annual
+  - business20
+  - business20_annual
+  - business50
+  - business50_annual
+  - business100
+  - business100_annual
+
+icons:
+  - name: 'address-book'
+    unicode: 'f100'
+
+  - name: 'alert'
+    unicode: 'f101'
+
+  - name: 'align-center'
+    unicode: 'f102'
+
+  - name: 'align-justify'
+    unicode: 'f103'
+
+  - name: 'align-left'
+    unicode: 'f104'
+
+  - name: 'align-right'
+    unicode: 'f105'
+
+  - name: 'anchor'
+    unicode: 'f106'
+
+  - name: 'annotate'
+    unicode: 'f107'
+
+  - name: 'archive'
+    unicode: 'f108'
+
+  - name: 'arrow-down'
+    unicode: 'f109'
+
+  - name: 'arrow-left'
+    unicode: 'f10a'
+
+  - name: 'arrow-right'
+    unicode: 'f10b'
+
+  - name: 'arrow-up'
+    unicode: 'f10c'
+
+  - name: 'arrows-compress'
+    unicode: 'f10d'
+
+  - name: 'arrows-expand'
+    unicode: 'f10e'
+
+  - name: 'arrows-in'
+    unicode: 'f10f'
+
+  - name: 'arrows-out'
+    unicode: 'f110'
+
+  - name: 'asl'
+    unicode: 'f111'
+
+  - name: 'asterisk'
+    unicode: 'f112'
+
+  - name: 'at-sign'
+    unicode: 'f113'
+
+  - name: 'background-color'
+    unicode: 'f114'
+
+  - name: 'battery-empty'
+    unicode: 'f115'
+
+  - name: 'battery-full'
+    unicode: 'f116'
+
+  - name: 'battery-half'
+    unicode: 'f117'
+
+  - name: 'bitcoin-circle'
+    unicode: 'f118'
+
+  - name: 'bitcoin'
+    unicode: 'f119'
+
+  - name: 'blind'
+    unicode: 'f11a'
+
+  - name: 'bluetooth'
+    unicode: 'f11b'
+
+  - name: 'bold'
+    unicode: 'f11c'
+
+  - name: 'book-bookmark'
+    unicode: 'f11d'
+
+  - name: 'book'
+    unicode: 'f11e'
+
+  - name: 'bookmark'
+    unicode: 'f11f'
+
+  - name: 'braille'
+    unicode: 'f120'
+
+  - name: 'burst-new'
+    unicode: 'f121'
+
+  - name: 'burst-sale'
+    unicode: 'f122'
+
+  - name: 'burst'
+    unicode: 'f123'
+
+  - name: 'calendar'
+    unicode: 'f124'
+
+  - name: 'camera'
+    unicode: 'f125'
+
+  - name: 'check'
+    unicode: 'f126'
+
+  - name: 'checkbox'
+    unicode: 'f127'
+
+  - name: 'clipboard-notes'
+    unicode: 'f128'
+
+  - name: 'clipboard-pencil'
+    unicode: 'f129'
+
+  - name: 'clipboard'
+    unicode: 'f12a'
+
+  - name: 'clock'
+    unicode: 'f12b'
+
+  - name: 'closed-caption'
+    unicode: 'f12c'
+
+  - name: 'cloud'
+    unicode: 'f12d'
+
+  - name: 'comment-minus'
+    unicode: 'f12e'
+
+  - name: 'comment-quotes'
+    unicode: 'f12f'
+
+  - name: 'comment-video'
+    unicode: 'f130'
+
+  - name: 'comment'
+    unicode: 'f131'
+
+  - name: 'comments'
+    unicode: 'f132'
+
+  - name: 'compass'
+    unicode: 'f133'
+
+  - name: 'contrast'
+    unicode: 'f134'
+
+  - name: 'credit-card'
+    unicode: 'f135'
+
+  - name: 'crop'
+    unicode: 'f136'
+
+  - name: 'crown'
+    unicode: 'f137'
+
+  - name: 'css3'
+    unicode: 'f138'
+
+  - name: 'database'
+    unicode: 'f139'
+
+  - name: 'die-five'
+    unicode: 'f13a'
+
+  - name: 'die-four'
+    unicode: 'f13b'
+
+  - name: 'die-one'
+    unicode: 'f13c'
+
+  - name: 'die-six'
+    unicode: 'f13d'
+
+  - name: 'die-three'
+    unicode: 'f13e'
+
+  - name: 'die-two'
+    unicode: 'f13f'
+
+  - name: 'dislike'
+    unicode: 'f140'
+
+  - name: 'dollar-bill'
+    unicode: 'f141'
+
+  - name: 'dollar'
+    unicode: 'f142'
+
+  - name: 'download'
+    unicode: 'f143'
+
+  - name: 'eject'
+    unicode: 'f144'
+
+  - name: 'elevator'
+    unicode: 'f145'
+
+  - name: 'euro'
+    unicode: 'f146'
+
+  - name: 'eye'
+    unicode: 'f147'
+
+  - name: 'fast-forward'
+    unicode: 'f148'
+
+  - name: 'female-symbol'
+    unicode: 'f149'
+
+  - name: 'female'
+    unicode: 'f14a'
+
+  - name: 'filter'
+    unicode: 'f14b'
+
+  - name: 'first-aid'
+    unicode: 'f14c'
+
+  - name: 'flag'
+    unicode: 'f14d'
+
+  - name: 'folder-add'
+    unicode: 'f14e'
+
+  - name: 'folder-lock'
+    unicode: 'f14f'
+
+  - name: 'folder'
+    unicode: 'f150'
+
+  - name: 'foot'
+    unicode: 'f151'
+
+  - name: 'foundation'
+    unicode: 'f152'
+
+  - name: 'graph-bar'
+    unicode: 'f153'
+
+  - name: 'graph-horizontal'
+    unicode: 'f154'
+
+  - name: 'graph-pie'
+    unicode: 'f155'
+
+  - name: 'graph-trend'
+    unicode: 'f156'
+
+  - name: 'guide-dog'
+    unicode: 'f157'
+
+  - name: 'hearing-aid'
+    unicode: 'f158'
+
+  - name: 'heart'
+    unicode: 'f159'
+
+  - name: 'home'
+    unicode: 'f15a'
+
+  - name: 'html5'
+    unicode: 'f15b'
+
+  - name: 'indent-less'
+    unicode: 'f15c'
+
+  - name: 'indent-more'
+    unicode: 'f15d'
+
+  - name: 'info'
+    unicode: 'f15e'
+
+  - name: 'italic'
+    unicode: 'f15f'
+
+  - name: 'key'
+    unicode: 'f160'
+
+  - name: 'laptop'
+    unicode: 'f161'
+
+  - name: 'layout'
+    unicode: 'f162'
+
+  - name: 'lightbulb'
+    unicode: 'f163'
+
+  - name: 'like'
+    unicode: 'f164'
+
+  - name: 'link'
+    unicode: 'f165'
+
+  - name: 'list-bullet'
+    unicode: 'f166'
+
+  - name: 'list-number'
+    unicode: 'f167'
+
+  - name: 'list-thumbnails'
+    unicode: 'f168'
+
+  - name: 'list'
+    unicode: 'f169'
+
+  - name: 'lock'
+    unicode: 'f16a'
+
+  - name: 'loop'
+    unicode: 'f16b'
+
+  - name: 'magnifying-glass'
+    unicode: 'f16c'
+
+  - name: 'mail'
+    unicode: 'f16d'
+
+  - name: 'male-female'
+    unicode: 'f16e'
+
+  - name: 'male-symbol'
+    unicode: 'f16f'
+
+  - name: 'male'
+    unicode: 'f170'
+
+  - name: 'map'
+    unicode: 'f171'
+
+  - name: 'marker'
+    unicode: 'f172'
+
+  - name: 'megaphone'
+    unicode: 'f173'
+
+  - name: 'microphone'
+    unicode: 'f174'
+
+  - name: 'minus-circle'
+    unicode: 'f175'
+
+  - name: 'minus'
+    unicode: 'f176'
+
+  - name: 'mobile-signal'
+    unicode: 'f177'
+
+  - name: 'mobile'
+    unicode: 'f178'
+
+  - name: 'monitor'
+    unicode: 'f179'
+
+  - name: 'mountains'
+    unicode: 'f17a'
+
+  - name: 'music'
+    unicode: 'f17b'
+
+  - name: 'next'
+    unicode: 'f17c'
+
+  - name: 'no-dogs'
+    unicode: 'f17d'
+
+  - name: 'no-smoking'
+    unicode: 'f17e'
+
+  - name: 'page-add'
+    unicode: 'f17f'
+
+  - name: 'page-copy'
+    unicode: 'f180'
+
+  - name: 'page-csv'
+    unicode: 'f181'
+
+  - name: 'page-delete'
+    unicode: 'f182'
+
+  - name: 'page-doc'
+    unicode: 'f183'
+
+  - name: 'page-edit'
+    unicode: 'f184'
+
+  - name: 'page-export-csv'
+    unicode: 'f185'
+
+  - name: 'page-export-doc'
+    unicode: 'f186'
+
+  - name: 'page-export-pdf'
+    unicode: 'f187'
+
+  - name: 'page-export'
+    unicode: 'f188'
+
+  - name: 'page-filled'
+    unicode: 'f189'
+
+  - name: 'page-multiple'
+    unicode: 'f18a'
+
+  - name: 'page-pdf'
+    unicode: 'f18b'
+
+  - name: 'page-remove'
+    unicode: 'f18c'
+
+  - name: 'page-search'
+    unicode: 'f18d'
+
+  - name: 'page'
+    unicode: 'f18e'
+
+  - name: 'paint-bucket'
+    unicode: 'f18f'
+
+  - name: 'paperclip'
+    unicode: 'f190'
+
+  - name: 'pause'
+    unicode: 'f191'
+
+  - name: 'paw'
+    unicode: 'f192'
+
+  - name: 'paypal'
+    unicode: 'f193'
+
+  - name: 'pencil'
+    unicode: 'f194'
+
+  - name: 'photo'
+    unicode: 'f195'
+
+  - name: 'play-circle'
+    unicode: 'f196'
+
+  - name: 'play-video'
+    unicode: 'f197'
+
+  - name: 'play'
+    unicode: 'f198'
+
+  - name: 'plus'
+    unicode: 'f199'
+
+  - name: 'pound'
+    unicode: 'f19a'
+
+  - name: 'power'
+    unicode: 'f19b'
+
+  - name: 'previous'
+    unicode: 'f19c'
+
+  - name: 'price-tag'
+    unicode: 'f19d'
+
+  - name: 'pricetag-multiple'
+    unicode: 'f19e'
+
+  - name: 'print'
+    unicode: 'f19f'
+
+  - name: 'prohibited'
+    unicode: 'f1a0'
+
+  - name: 'projection-screen'
+    unicode: 'f1a1'
+
+  - name: 'puzzle'
+    unicode: 'f1a2'
+
+  - name: 'quote'
+    unicode: 'f1a3'
+
+  - name: 'record'
+    unicode: 'f1a4'
+
+  - name: 'refresh'
+    unicode: 'f1a5'
+
+  - name: 'results-demographics'
+    unicode: 'f1a6'
+
+  - name: 'results'
+    unicode: 'f1a7'
+
+  - name: 'rewind-ten'
+    unicode: 'f1a8'
+
+  - name: 'rewind'
+    unicode: 'f1a9'
+
+  - name: 'rss'
+    unicode: 'f1aa'
+
+  - name: 'safety-cone'
+    unicode: 'f1ab'
+
+  - name: 'save'
+    unicode: 'f1ac'
+
+  - name: 'share'
+    unicode: 'f1ad'
+
+  - name: 'sheriff-badge'
+    unicode: 'f1ae'
+
+  - name: 'shield'
+    unicode: 'f1af'
+
+  - name: 'shopping-bag'
+    unicode: 'f1b0'
+
+  - name: 'shopping-cart'
+    unicode: 'f1b1'
+
+  - name: 'shuffle'
+    unicode: 'f1b2'
+
+  - name: 'skull'
+    unicode: 'f1b3'
+
+  - name: 'social-500px'
+    unicode: 'f1b4'
+
+  - name: 'social-adobe'
+    unicode: 'f1b5'
+
+  - name: 'social-amazon'
+    unicode: 'f1b6'
+
+  - name: 'social-android'
+    unicode: 'f1b7'
+
+  - name: 'social-apple'
+    unicode: 'f1b8'
+
+  - name: 'social-behance'
+    unicode: 'f1b9'
+
+  - name: 'social-bing'
+    unicode: 'f1ba'
+
+  - name: 'social-blogger'
+    unicode: 'f1bb'
+
+  - name: 'social-delicious'
+    unicode: 'f1bc'
+
+  - name: 'social-designer-news'
+    unicode: 'f1bd'
+
+  - name: 'social-deviant-art'
+    unicode: 'f1be'
+
+  - name: 'social-digg'
+    unicode: 'f1bf'
+
+  - name: 'social-dribbble'
+    unicode: 'f1c0'
+
+  - name: 'social-drive'
+    unicode: 'f1c1'
+
+  - name: 'social-dropbox'
+    unicode: 'f1c2'
+
+  - name: 'social-evernote'
+    unicode: 'f1c3'
+
+  - name: 'social-facebook'
+    unicode: 'f1c4'
+
+  - name: 'social-flickr'
+    unicode: 'f1c5'
+
+  - name: 'social-forrst'
+    unicode: 'f1c6'
+
+  - name: 'social-foursquare'
+    unicode: 'f1c7'
+
+  - name: 'social-game-center'
+    unicode: 'f1c8'
+
+  - name: 'social-github'
+    unicode: 'f1c9'
+
+  - name: 'social-google-plus'
+    unicode: 'f1ca'
+
+  - name: 'social-hacker-news'
+    unicode: 'f1cb'
+
+  - name: 'social-hi5'
+    unicode: 'f1cc'
+
+  - name: 'social-instagram'
+    unicode: 'f1cd'
+
+  - name: 'social-joomla'
+    unicode: 'f1ce'
+
+  - name: 'social-lastfm'
+    unicode: 'f1cf'
+
+  - name: 'social-linkedin'
+    unicode: 'f1d0'
+
+  - name: 'social-medium'
+    unicode: 'f1d1'
+
+  - name: 'social-myspace'
+    unicode: 'f1d2'
+
+  - name: 'social-orkut'
+    unicode: 'f1d3'
+
+  - name: 'social-path'
+    unicode: 'f1d4'
+
+  - name: 'social-picasa'
+    unicode: 'f1d5'
+
+  - name: 'social-pinterest'
+    unicode: 'f1d6'
+
+  - name: 'social-rdio'
+    unicode: 'f1d7'
+
+  - name: 'social-reddit'
+    unicode: 'f1d8'
+
+  - name: 'social-skillshare'
+    unicode: 'f1d9'
+
+  - name: 'social-skype'
+    unicode: 'f1da'
+
+  - name: 'social-smashing-mag'
+    unicode: 'f1db'
+
+  - name: 'social-snapchat'
+    unicode: 'f1dc'
+
+  - name: 'social-spotify'
+    unicode: 'f1dd'
+
+  - name: 'social-squidoo'
+    unicode: 'f1de'
+
+  - name: 'social-stack-overflow'
+    unicode: 'f1df'
+
+  - name: 'social-steam'
+    unicode: 'f1e0'
+
+  - name: 'social-stumbleupon'
+    unicode: 'f1e1'
+
+  - name: 'social-treehouse'
+    unicode: 'f1e2'
+
+  - name: 'social-tumblr'
+    unicode: 'f1e3'
+
+  - name: 'social-twitter'
+    unicode: 'f1e4'
+
+  - name: 'social-vimeo'
+    unicode: 'f1e5'
+
+  - name: 'social-windows'
+    unicode: 'f1e6'
+
+  - name: 'social-xbox'
+    unicode: 'f1e7'
+
+  - name: 'social-yahoo'
+    unicode: 'f1e8'
+
+  - name: 'social-yelp'
+    unicode: 'f1e9'
+
+  - name: 'social-youtube'
+    unicode: 'f1ea'
+
+  - name: 'social-zerply'
+    unicode: 'f1eb'
+
+  - name: 'social-zurb'
+    unicode: 'f1ec'
+
+  - name: 'sound'
+    unicode: 'f1ed'
+
+  - name: 'star'
+    unicode: 'f1ee'
+
+  - name: 'stop'
+    unicode: 'f1ef'
+
+  - name: 'strikethrough'
+    unicode: 'f1f0'
+
+  - name: 'subscript'
+    unicode: 'f1f1'
+
+  - name: 'superscript'
+    unicode: 'f1f2'
+
+  - name: 'tablet-landscape'
+    unicode: 'f1f3'
+
+  - name: 'tablet-portrait'
+    unicode: 'f1f4'
+
+  - name: 'target-two'
+    unicode: 'f1f5'
+
+  - name: 'target'
+    unicode: 'f1f6'
+
+  - name: 'telephone-accessible'
+    unicode: 'f1f7'
+
+  - name: 'telephone'
+    unicode: 'f1f8'
+
+  - name: 'text-color'
+    unicode: 'f1f9'
+
+  - name: 'thumbnails'
+    unicode: 'f1fa'
+
+  - name: 'ticket'
+    unicode: 'f1fb'
+
+  - name: 'torso-business'
+    unicode: 'f1fc'
+
+  - name: 'torso-female'
+    unicode: 'f1fd'
+
+  - name: 'torso'
+    unicode: 'f1fe'
+
+  - name: 'torsos-all-female'
+    unicode: 'f1ff'
+
+  - name: 'torsos-all'
+    unicode: 'f200'
+
+  - name: 'torsos-female-male'
+    unicode: 'f201'
+
+  - name: 'torsos-male-female'
+    unicode: 'f202'
+
+  - name: 'torsos'
+    unicode: 'f203'
+
+  - name: 'trash'
+    unicode: 'f204'
+
+  - name: 'trees'
+    unicode: 'f205'
+
+  - name: 'trophy'
+    unicode: 'f206'
+
+  - name: 'underline'
+    unicode: 'f207'
+
+  - name: 'universal-access'
+    unicode: 'f208'
+
+  - name: 'unlink'
+    unicode: 'f209'
+
+  - name: 'unlock'
+    unicode: 'f20a'
+
+  - name: 'upload-cloud'
+    unicode: 'f20b'
+
+  - name: 'upload'
+    unicode: 'f20c'
+
+  - name: 'usb'
+    unicode: 'f20d'
+
+  - name: 'video'
+    unicode: 'f20e'
+
+  - name: 'volume-none'
+    unicode: 'f20f'
+
+  - name: 'volume-strike'
+    unicode: 'f210'
+
+  - name: 'volume'
+    unicode: 'f211'
+
+  - name: 'web'
+    unicode: 'f212'
+
+  - name: 'wheelchair'
+    unicode: 'f213'
+
+  - name: 'widget'
+    unicode: 'f214'
+
+  - name: 'wrench'
+    unicode: 'f215'
+
+  - name: 'x-circle'
+    unicode: 'f216'
+
+  - name: 'x'
+    unicode: 'f217'
+
+  - name: 'yen'
+    unicode: 'f218'
+
+  - name: 'zoom-in'
+    unicode: 'f219'
+
+  - name: 'zoom-out'
+    unicode: 'f21a'

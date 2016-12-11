@@ -1,0 +1,3114 @@
+token: e4f255b7
+name: Font Awesome
+family: Font Awesome
+style: Regular
+version: 4.5.0
+filename: FontAwesome.ttf
+optimized_for: 14px
+css_prefix: fa
+icon_css_prefix: fa
+website: http://fontawesome.io
+premium: false
+
+designer:
+  first_name: Dave
+  last_name: Gandy
+  email: dave@davegandy.com
+  website: http://davegandy.com
+
+plans:
+  - free
+  - basic
+  - pro
+  - owner
+  - business10
+  - business10_annual
+  - business20
+  - business20_annual
+  - business50
+  - business50_annual
+  - business100
+  - business100_annual
+
+icons:
+  - name: 'glass'
+    unicode: 'f000'
+    categories:
+      - Web Application
+
+  - name: 'music'
+    unicode: 'f001'
+    categories:
+      - Web Application
+
+  - name: 'search'
+    unicode: 'f002'
+    categories:
+      - Web Application
+
+  - name: 'envelope-o'
+    unicode: 'f003'
+    categories:
+      - Web Application
+
+  - name: 'heart'
+    unicode: 'f004'
+    categories:
+      - Web Application
+
+  - name: 'star'
+    unicode: 'f005'
+    categories:
+      - Web Application
+
+  - name: 'star-o'
+    unicode: 'f006'
+    categories:
+      - Web Application
+
+  - name: 'user'
+    unicode: 'f007'
+    categories:
+      - Web Application
+
+  - name: 'film'
+    unicode: 'f008'
+    categories:
+      - Web Application
+
+  - name: 'th-large'
+    unicode: 'f009'
+    categories:
+      - Text Editor
+
+  - name: 'th'
+    unicode: 'f00a'
+    categories:
+      - Text Editor
+
+  - name: 'th-list'
+    unicode: 'f00b'
+    categories:
+      - Text Editor
+
+  - name: 'check'
+    unicode: 'f00c'
+    categories:
+      - Web Application
+
+  - name: 'times'
+    unicode: 'f00d'
+    aliases:
+      - remove
+      - close
+    categories:
+      - Web Application
+
+  - name: 'search-plus'
+    unicode: 'f00e'
+    categories:
+      - Web Application
+
+  - name: 'search-minus'
+    unicode: 'f010'
+    categories:
+      - Web Application
+
+  - name: 'power-off'
+    unicode: 'f011'
+    categories:
+      - Web Application
+
+  - name: 'signal'
+    unicode: 'f012'
+    categories:
+      - Web Application
+
+  - name: 'cog'
+    unicode: 'f013'
+    aliases:
+      - gear
+    categories:
+      - Web Application
+      - Spinner
+
+  - name: 'trash-o'
+    unicode: 'f014'
+    categories:
+      - Web Application
+
+  - name: 'home'
+    unicode: 'f015'
+    categories:
+      - Web Application
+
+  - name: 'file-o'
+    unicode: 'f016'
+    categories:
+      - Text Editor
+      - File Type
+
+  - name: 'clock-o'
+    unicode: 'f017'
+    categories:
+      - Web Application
+
+  - name: 'road'
+    unicode: 'f018'
+    categories:
+      - Web Application
+
+  - name: 'download'
+    unicode: 'f019'
+    categories:
+      - Web Application
+
+  - name: 'arrow-circle-o-down'
+    unicode: 'f01a'
+    categories:
+      - Directional
+
+  - name: 'arrow-circle-o-up'
+    unicode: 'f01b'
+    categories:
+      - Directional
+
+  - name: 'inbox'
+    unicode: 'f01c'
+    categories:
+      - Web Application
+
+  - name: 'play-circle-o'
+    unicode: 'f01d'
+    categories:
+      - Video Player
+
+  - name: 'repeat'
+    unicode: 'f01e'
+    aliases:
+      - rotate-right
+    categories:
+      - Text Editor
+
+  - name: 'refresh'
+    unicode: 'f021'
+    categories:
+      - Web Application
+      - Spinner
+
+  - name: 'list-alt'
+    unicode: 'f022'
+    categories:
+      - Text Editor
+
+  - name: 'lock'
+    unicode: 'f023'
+    categories:
+      - Web Application
+
+  - name: 'flag'
+    unicode: 'f024'
+    categories:
+      - Web Application
+
+  - name: 'headphones'
+    unicode: 'f025'
+    categories:
+      - Web Application
+
+  - name: 'volume-off'
+    unicode: 'f026'
+    categories:
+      - Web Application
+
+  - name: 'volume-down'
+    unicode: 'f027'
+    categories:
+      - Web Application
+
+  - name: 'volume-up'
+    unicode: 'f028'
+    categories:
+      - Web Application
+
+  - name: 'qrcode'
+    unicode: 'f029'
+    categories:
+      - Web Application
+
+  - name: 'barcode'
+    unicode: 'f02a'
+    categories:
+      - Web Application
+
+  - name: 'tag'
+    unicode: 'f02b'
+    categories:
+      - Web Application
+
+  - name: 'tags'
+    unicode: 'f02c'
+    categories:
+      - Web Application
+
+  - name: 'book'
+    unicode: 'f02d'
+    categories:
+      - Web Application
+
+  - name: 'bookmark'
+    unicode: 'f02e'
+    categories:
+      - Web Application
+
+  - name: 'print'
+    unicode: 'f02f'
+    categories:
+      - Web Application
+
+  - name: 'camera'
+    unicode: 'f030'
+    categories:
+      - Web Application
+
+  - name: 'font'
+    unicode: 'f031'
+    categories:
+      - Text Editor
+
+  - name: 'bold'
+    unicode: 'f032'
+    categories:
+      - Text Editor
+
+  - name: 'italic'
+    unicode: 'f033'
+    categories:
+      - Text Editor
+
+  - name: 'text-height'
+    unicode: 'f034'
+    categories:
+      - Text Editor
+
+  - name: 'text-width'
+    unicode: 'f035'
+    categories:
+      - Text Editor
+
+  - name: 'align-left'
+    unicode: 'f036'
+    categories:
+      - Text Editor
+
+  - name: 'align-center'
+    unicode: 'f037'
+    categories:
+      - Text Editor
+
+  - name: 'align-right'
+    unicode: 'f038'
+    categories:
+      - Text Editor
+
+  - name: 'align-justify'
+    unicode: 'f039'
+    categories:
+      - Text Editor
+
+  - name: 'list'
+    unicode: 'f03a'
+    categories:
+      - Text Editor
+
+  - name: 'outdent'
+    unicode: 'f03b'
+    aliases:
+      - dedent
+    categories:
+      - Text Editor
+
+  - name: 'indent'
+    unicode: 'f03c'
+    categories:
+      - Text Editor
+
+  - name: 'video-camera'
+    unicode: 'f03d'
+    categories:
+      - Web Application
+
+  - name: 'picture-o'
+    unicode: 'f03e'
+    aliases:
+      - photo
+      - image
+    categories:
+      - Web Application
+
+  - name: 'pencil'
+    unicode: 'f040'
+    categories:
+      - Web Application
+
+  - name: 'map-marker'
+    unicode: 'f041'
+    categories:
+      - Web Application
+
+  - name: 'adjust'
+    unicode: 'f042'
+    categories:
+      - Web Application
+
+  - name: 'tint'
+    unicode: 'f043'
+    categories:
+      - Web Application
+
+  - name: 'pencil-square-o'
+    unicode: 'f044'
+    aliases:
+      - edit
+    categories:
+      - Web Application
+
+  - name: 'share-square-o'
+    unicode: 'f045'
+    categories:
+      - Web Application
+
+  - name: 'check-square-o'
+    unicode: 'f046'
+    categories:
+      - Web Application
+      - Form Control
+
+  - name: 'arrows'
+    unicode: 'f047'
+    categories:
+      - Web Application
+      - Directional
+
+  - name: 'step-backward'
+    unicode: 'f048'
+    categories:
+      - Video Player
+
+  - name: 'fast-backward'
+    unicode: 'f049'
+    categories:
+      - Video Player
+
+  - name: 'backward'
+    unicode: 'f04a'
+    categories:
+      - Video Player
+
+  - name: 'play'
+    unicode: 'f04b'
+    categories:
+      - Video Player
+
+  - name: 'pause'
+    unicode: 'f04c'
+    categories:
+      - Video Player
+
+  - name: 'stop'
+    unicode: 'f04d'
+    categories:
+      - Video Player
+
+  - name: 'forward'
+    unicode: 'f04e'
+    categories:
+      - Video Player
+
+  - name: 'fast-forward'
+    unicode: 'f050'
+    categories:
+      - Video Player
+
+  - name: 'step-forward'
+    unicode: 'f051'
+    categories:
+      - Video Player
+
+  - name: 'eject'
+    unicode: 'f052'
+    categories:
+      - Video Player
+
+  - name: 'chevron-left'
+    unicode: 'f053'
+    categories:
+      - Directional
+
+  - name: 'chevron-right'
+    unicode: 'f054'
+    categories:
+      - Directional
+
+  - name: 'plus-circle'
+    unicode: 'f055'
+    categories:
+      - Web Application
+
+  - name: 'minus-circle'
+    unicode: 'f056'
+    categories:
+      - Web Application
+
+  - name: 'times-circle'
+    unicode: 'f057'
+    categories:
+      - Web Application
+
+  - name: 'check-circle'
+    unicode: 'f058'
+    categories:
+      - Web Application
+
+  - name: 'question-circle'
+    unicode: 'f059'
+    categories:
+      - Web Application
+
+  - name: 'info-circle'
+    unicode: 'f05a'
+    categories:
+      - Web Application
+
+  - name: 'crosshairs'
+    unicode: 'f05b'
+    categories:
+      - Web Application
+
+  - name: 'times-circle-o'
+    unicode: 'f05c'
+    categories:
+      - Web Application
+
+  - name: 'check-circle-o'
+    unicode: 'f05d'
+    categories:
+      - Web Application
+
+  - name: 'ban'
+    unicode: 'f05e'
+    categories:
+      - Web Application
+
+  - name: 'arrow-left'
+    unicode: 'f060'
+    categories:
+      - Directional
+
+  - name: 'arrow-right'
+    unicode: 'f061'
+    categories:
+      - Directional
+
+  - name: 'arrow-up'
+    unicode: 'f062'
+    categories:
+      - Directional
+
+  - name: 'arrow-down'
+    unicode: 'f063'
+    categories:
+      - Directional
+
+  - name: 'share'
+    unicode: 'f064'
+    aliases:
+      - mail-forward
+    categories:
+      - Web Application
+
+  - name: 'expand'
+    unicode: 'f065'
+    categories:
+      - Video Player
+
+  - name: 'compress'
+    unicode: 'f066'
+    categories:
+      - Video Player
+
+  - name: 'plus'
+    unicode: 'f067'
+    categories:
+      - Web Application
+
+  - name: 'minus'
+    unicode: 'f068'
+    categories:
+      - Web Application
+
+  - name: 'asterisk'
+    unicode: 'f069'
+    categories:
+      - Web Application
+
+  - name: 'exclamation-circle'
+    unicode: 'f06a'
+    categories:
+      - Web Application
+
+  - name: 'gift'
+    unicode: 'f06b'
+    categories:
+      - Web Application
+
+  - name: 'leaf'
+    unicode: 'f06c'
+    categories:
+      - Web Application
+
+  - name: 'fire'
+    unicode: 'f06d'
+    categories:
+      - Web Application
+
+  - name: 'eye'
+    unicode: 'f06e'
+    categories:
+      - Web Application
+
+  - name: 'eye-slash'
+    unicode: 'f070'
+    categories:
+      - Web Application
+
+  - name: 'exclamation-triangle'
+    unicode: 'f071'
+    aliases:
+      - warning
+    categories:
+      - Web Application
+
+  - name: 'plane'
+    unicode: 'f072'
+    categories:
+      - Web Application
+
+  - name: 'calendar'
+    unicode: 'f073'
+    categories:
+      - Web Application
+
+  - name: 'random'
+    unicode: 'f074'
+    categories:
+      - Web Application
+
+  - name: 'comment'
+    unicode: 'f075'
+    categories:
+      - Web Application
+
+  - name: 'magnet'
+    unicode: 'f076'
+    categories:
+      - Web Application
+
+  - name: 'chevron-up'
+    unicode: 'f077'
+    categories:
+      - Directional
+
+  - name: 'chevron-down'
+    unicode: 'f078'
+    categories:
+      - Directional
+
+  - name: 'retweet'
+    unicode: 'f079'
+    categories:
+      - Web Application
+
+  - name: 'shopping-cart'
+    unicode: 'f07a'
+    categories:
+      - Web Application
+
+  - name: 'folder'
+    unicode: 'f07b'
+    categories:
+      - Web Application
+
+  - name: 'folder-open'
+    unicode: 'f07c'
+    categories:
+      - Web Application
+
+  - name: 'arrows-v'
+    unicode: 'f07d'
+    categories:
+      - Web Application
+      - Directional
+
+  - name: 'arrows-h'
+    unicode: 'f07e'
+    categories:
+      - Web Application
+      - Directional
+
+  - name: 'bar-chart'
+    unicode: 'f080'
+    aliases:
+      - bar-chart-o
+    categories:
+      - Web Application
+      - Chart
+
+  - name: 'twitter-square'
+    unicode: 'f081'
+    categories:
+      - Brand
+
+  - name: 'facebook-square'
+    unicode: 'f082'
+    categories:
+      - Brand
+
+  - name: 'camera-retro'
+    unicode: 'f083'
+    categories:
+      - Web Application
+
+  - name: 'key'
+    unicode: 'f084'
+    categories:
+      - Web Application
+
+  - name: 'cogs'
+    unicode: 'f085'
+    aliases:
+      - gears
+    categories:
+      - Web Application
+
+  - name: 'comments'
+    unicode: 'f086'
+    categories:
+      - Web Application
+
+  - name: 'thumbs-o-up'
+    unicode: 'f087'
+    categories:
+      - Web Application
+
+  - name: 'thumbs-o-down'
+    unicode: 'f088'
+    categories:
+      - Web Application
+
+  - name: 'star-half'
+    unicode: 'f089'
+    categories:
+      - Web Application
+
+  - name: 'heart-o'
+    unicode: 'f08a'
+    categories:
+      - Web Application
+
+  - name: 'sign-out'
+    unicode: 'f08b'
+    categories:
+      - Web Application
+
+  - name: 'linkedin-square'
+    unicode: 'f08c'
+    categories:
+      - Brand
+
+  - name: 'thumb-tack'
+    unicode: 'f08d'
+    categories:
+      - Web Application
+
+  - name: 'external-link'
+    unicode: 'f08e'
+    categories:
+      - Web Application
+
+  - name: 'sign-in'
+    unicode: 'f090'
+    categories:
+      - Web Application
+
+  - name: 'trophy'
+    unicode: 'f091'
+    categories:
+      - Web Application
+
+  - name: 'github-square'
+    unicode: 'f092'
+    categories:
+      - Brand
+
+  - name: 'upload'
+    unicode: 'f093'
+    categories:
+      - Web Application
+
+  - name: 'lemon-o'
+    unicode: 'f094'
+    categories:
+      - Web Application
+
+  - name: 'phone'
+    unicode: 'f095'
+    categories:
+      - Web Application
+
+  - name: 'square-o'
+    unicode: 'f096'
+    categories:
+      - Web Application
+      - Form Control
+
+  - name: 'bookmark-o'
+    unicode: 'f097'
+    categories:
+      - Web Application
+
+  - name: 'phone-square'
+    unicode: 'f098'
+    categories:
+      - Web Application
+
+  - name: 'twitter'
+    unicode: 'f099'
+    categories:
+      - Brand
+
+  - name: 'facebook'
+    unicode: 'f09a'
+    categories:
+      - Brand
+
+  - name: 'github'
+    unicode: 'f09b'
+    categories:
+      - Brand
+
+  - name: 'unlock'
+    unicode: 'f09c'
+    categories:
+      - Web Application
+
+  - name: 'credit-card'
+    unicode: 'f09d'
+    categories:
+      - Web Application
+      - Payment
+
+  - name: 'rss'
+    unicode: 'f09e'
+    categories:
+      - Web Application
+
+  - name: 'hdd-o'
+    unicode: 'f0a0'
+    categories:
+      - Web Application
+
+  - name: 'bullhorn'
+    unicode: 'f0a1'
+    categories:
+      - Web Application
+
+  - name: 'bell'
+    unicode: 'f0f3'
+    categories:
+      - Web Application
+
+  - name: 'certificate'
+    unicode: 'f0a3'
+    categories:
+      - Web Application
+
+  - name: 'hand-o-right'
+    unicode: 'f0a4'
+    categories:
+      - Directional
+
+  - name: 'hand-o-left'
+    unicode: 'f0a5'
+    categories:
+      - Directional
+
+  - name: 'hand-o-up'
+    unicode: 'f0a6'
+    categories:
+      - Directional
+
+  - name: 'hand-o-down'
+    unicode: 'f0a7'
+    categories:
+      - Directional
+
+  - name: 'arrow-circle-left'
+    unicode: 'f0a8'
+    categories:
+      - Directional
+
+  - name: 'arrow-circle-right'
+    unicode: 'f0a9'
+    categories:
+      - Directional
+
+  - name: 'arrow-circle-up'
+    unicode: 'f0aa'
+    categories:
+      - Directional
+
+  - name: 'arrow-circle-down'
+    unicode: 'f0ab'
+    categories:
+      - Directional
+
+  - name: 'globe'
+    unicode: 'f0ac'
+    categories:
+      - Web Application
+
+  - name: 'wrench'
+    unicode: 'f0ad'
+    categories:
+      - Web Application
+
+  - name: 'tasks'
+    unicode: 'f0ae'
+    categories:
+      - Web Application
+
+  - name: 'filter'
+    unicode: 'f0b0'
+    categories:
+      - Web Application
+
+  - name: 'briefcase'
+    unicode: 'f0b1'
+    categories:
+      - Web Application
+
+  - name: 'arrows-alt'
+    unicode: 'f0b2'
+    categories:
+      - Video Player
+      - Directional
+
+  - name: 'users'
+    unicode: 'f0c0'
+    aliases:
+      - group
+    categories:
+      - Web Application
+
+  - name: 'link'
+    unicode: 'f0c1'
+    aliases:
+      - chain
+    categories:
+      - Text Editor
+
+  - name: 'cloud'
+    unicode: 'f0c2'
+    categories:
+      - Web Application
+
+  - name: 'flask'
+    unicode: 'f0c3'
+    categories:
+      - Web Application
+
+  - name: 'scissors'
+    unicode: 'f0c4'
+    aliases:
+      - cut
+    categories:
+      - Text Editor
+
+  - name: 'files-o'
+    unicode: 'f0c5'
+    aliases:
+      - copy
+    categories:
+      - Text Editor
+
+  - name: 'paperclip'
+    unicode: 'f0c6'
+    categories:
+      - Text Editor
+
+  - name: 'floppy-o'
+    unicode: 'f0c7'
+    aliases:
+      - save
+    categories:
+      - Text Editor
+
+  - name: 'square'
+    unicode: 'f0c8'
+    categories:
+      - Web Application
+      - Form Control
+
+  - name: 'bars'
+    unicode: 'f0c9'
+    aliases:
+      - navicon
+      - reorder
+    categories:
+      - Web Application
+
+  - name: 'list-ul'
+    unicode: 'f0ca'
+    categories:
+      - Text Editor
+
+  - name: 'list-ol'
+    unicode: 'f0cb'
+    categories:
+      - Text Editor
+
+  - name: 'strikethrough'
+    unicode: 'f0cc'
+    categories:
+      - Text Editor
+
+  - name: 'underline'
+    unicode: 'f0cd'
+    categories:
+      - Text Editor
+
+  - name: 'table'
+    unicode: 'f0ce'
+    categories:
+      - Text Editor
+
+  - name: 'magic'
+    unicode: 'f0d0'
+    categories:
+      - Web Application
+
+  - name: 'truck'
+    unicode: 'f0d1'
+    categories:
+      - Web Application
+
+  - name: 'pinterest'
+    unicode: 'f0d2'
+    categories:
+      - Brand
+
+  - name: 'pinterest-square'
+    unicode: 'f0d3'
+    categories:
+      - Brand
+
+  - name: 'google-plus-square'
+    unicode: 'f0d4'
+    categories:
+      - Brand
+
+  - name: 'google-plus'
+    unicode: 'f0d5'
+    categories:
+      - Brand
+
+  - name: 'money'
+    unicode: 'f0d6'
+    categories:
+      - Web Application
+      - Currency
+
+  - name: 'caret-down'
+    unicode: 'f0d7'
+    categories:
+      - Directional
+
+  - name: 'caret-up'
+    unicode: 'f0d8'
+    categories:
+      - Directional
+
+  - name: 'caret-left'
+    unicode: 'f0d9'
+    categories:
+      - Directional
+
+  - name: 'caret-right'
+    unicode: 'f0da'
+    categories:
+      - Directional
+
+  - name: 'columns'
+    unicode: 'f0db'
+    categories:
+      - Text Editor
+
+  - name: 'sort'
+    unicode: 'f0dc'
+    aliases:
+      - unsorted
+    categories:
+      - Web Application
+
+  - name: 'sort-desc'
+    unicode: 'f0dd'
+    aliases:
+      - sort-down
+    categories:
+      - Web Application
+
+  - name: 'sort-asc'
+    unicode: 'f0de'
+    aliases:
+      - sort-up
+    categories:
+      - Web Application
+
+  - name: 'envelope'
+    unicode: 'f0e0'
+    categories:
+      - Web Application
+
+  - name: 'linkedin'
+    unicode: 'f0e1'
+    categories:
+      - Brand
+
+  - name: 'undo'
+    unicode: 'f0e2'
+    aliases:
+      - rotate-left
+    categories:
+      - Text Editor
+
+  - name: 'gavel'
+    unicode: 'f0e3'
+    aliases:
+      - legal
+    categories:
+      - Web Application
+
+  - name: 'tachometer'
+    unicode: 'f0e4'
+    aliases:
+      - dashboard
+    categories:
+      - Web Application
+
+  - name: 'comment-o'
+    unicode: 'f0e5'
+    categories:
+      - Web Application
+
+  - name: 'comments-o'
+    unicode: 'f0e6'
+    categories:
+      - Web Application
+
+  - name: 'bolt'
+    unicode: 'f0e7'
+    aliases:
+      - flash
+    categories:
+      - Web Application
+
+  - name: 'sitemap'
+    unicode: 'f0e8'
+    categories:
+      - Web Application
+
+  - name: 'umbrella'
+    unicode: 'f0e9'
+    categories:
+      - Web Application
+
+  - name: 'clipboard'
+    unicode: 'f0ea'
+    aliases:
+      - paste
+    categories:
+      - Text Editor
+
+  - name: 'lightbulb-o'
+    unicode: 'f0eb'
+    categories:
+      - Web Application
+
+  - name: 'exchange'
+    unicode: 'f0ec'
+    categories:
+      - Web Application
+
+  - name: 'cloud-download'
+    unicode: 'f0ed'
+    categories:
+      - Web Application
+
+  - name: 'cloud-upload'
+    unicode: 'f0ee'
+    categories:
+      - Web Application
+
+  - name: 'user-md'
+    unicode: 'f0f0'
+    categories:
+      - Medical
+
+  - name: 'stethoscope'
+    unicode: 'f0f1'
+    categories:
+      - Medical
+
+  - name: 'suitcase'
+    unicode: 'f0f2'
+    categories:
+      - Web Application
+
+  - name: 'bell-o'
+    unicode: 'f0a2'
+    categories:
+      - Web Application
+
+  - name: 'coffee'
+    unicode: 'f0f4'
+    categories:
+      - Web Application
+
+  - name: 'cutlery'
+    unicode: 'f0f5'
+    categories:
+      - Web Application
+
+  - name: 'file-text-o'
+    unicode: 'f0f6'
+    categories:
+      - Text Editor
+      - File Type
+
+  - name: 'building-o'
+    unicode: 'f0f7'
+    categories:
+      - Web Application
+
+  - name: 'hospital-o'
+    unicode: 'f0f8'
+    categories:
+      - Medical
+
+  - name: 'ambulance'
+    unicode: 'f0f9'
+    categories:
+      - Medical
+
+  - name: 'medkit'
+    unicode: 'f0fa'
+    categories:
+      - Medical
+
+  - name: 'fighter-jet'
+    unicode: 'f0fb'
+    categories:
+      - Web Application
+
+  - name: 'beer'
+    unicode: 'f0fc'
+    categories:
+      - Web Application
+
+  - name: 'h-square'
+    unicode: 'f0fd'
+    categories:
+      - Medical
+
+  - name: 'plus-square'
+    unicode: 'f0fe'
+    categories:
+      - Medical
+      - Web Application
+      - Form Control
+
+  - name: 'angle-double-left'
+    unicode: 'f100'
+    categories:
+      - Directional
+
+  - name: 'angle-double-right'
+    unicode: 'f101'
+    categories:
+      - Directional
+
+  - name: 'angle-double-up'
+    unicode: 'f102'
+    categories:
+      - Directional
+
+  - name: 'angle-double-down'
+    unicode: 'f103'
+    categories:
+      - Directional
+
+  - name: 'angle-left'
+    unicode: 'f104'
+    categories:
+      - Directional
+
+  - name: 'angle-right'
+    unicode: 'f105'
+    categories:
+      - Directional
+
+  - name: 'angle-up'
+    unicode: 'f106'
+    categories:
+      - Directional
+
+  - name: 'angle-down'
+    unicode: 'f107'
+    categories:
+      - Directional
+
+  - name: 'desktop'
+    unicode: 'f108'
+    categories:
+      - Web Application
+
+  - name: 'laptop'
+    unicode: 'f109'
+    categories:
+      - Web Application
+
+  - name: 'tablet'
+    unicode: 'f10a'
+    categories:
+      - Web Application
+
+  - name: 'mobile'
+    unicode: 'f10b'
+    aliases:
+      - mobile-phone
+    categories:
+      - Web Application
+
+  - name: 'circle-o'
+    unicode: 'f10c'
+    categories:
+      - Web Application
+      - Form Control
+
+  - name: 'quote-left'
+    unicode: 'f10d'
+    categories:
+      - Web Application
+
+  - name: 'quote-right'
+    unicode: 'f10e'
+    categories:
+      - Web Application
+
+  - name: 'spinner'
+    unicode: 'f110'
+    categories:
+      - Web Application
+      - Spinner
+
+  - name: 'circle'
+    unicode: 'f111'
+    categories:
+      - Web Application
+      - Form Control
+
+  - name: 'reply'
+    unicode: 'f112'
+    aliases:
+      - mail-reply
+    categories:
+      - Web Application
+
+  - name: 'github-alt'
+    unicode: 'f113'
+    categories:
+      - Brand
+
+  - name: 'folder-o'
+    unicode: 'f114'
+    categories:
+      - Web Application
+
+  - name: 'folder-open-o'
+    unicode: 'f115'
+    categories:
+      - Web Application
+
+  - name: 'smile-o'
+    unicode: 'f118'
+    categories:
+      - Web Application
+
+  - name: 'frown-o'
+    unicode: 'f119'
+    categories:
+      - Web Application
+
+  - name: 'meh-o'
+    unicode: 'f11a'
+    categories:
+      - Web Application
+
+  - name: 'gamepad'
+    unicode: 'f11b'
+    categories:
+      - Web Application
+
+  - name: 'keyboard-o'
+    unicode: 'f11c'
+    categories:
+      - Web Application
+
+  - name: 'flag-o'
+    unicode: 'f11d'
+    categories:
+      - Web Application
+
+  - name: 'flag-checkered'
+    unicode: 'f11e'
+    categories:
+      - Web Application
+
+  - name: 'terminal'
+    unicode: 'f120'
+    categories:
+      - Web Application
+
+  - name: 'code'
+    unicode: 'f121'
+    categories:
+      - Web Application
+
+  - name: 'reply-all'
+    unicode: 'f122'
+    aliases:
+      - mail-reply-all
+    categories:
+      - Web Application
+
+  - name: 'star-half-o'
+    unicode: 'f123'
+    aliases:
+      - star-half-empty
+      - star-half-full
+    categories:
+      - Web Application
+
+  - name: 'location-arrow'
+    unicode: 'f124'
+    categories:
+      - Web Application
+
+  - name: 'crop'
+    unicode: 'f125'
+    categories:
+      - Web Application
+
+  - name: 'code-fork'
+    unicode: 'f126'
+    categories:
+      - Web Application
+
+  - name: 'chain-broken'
+    unicode: 'f127'
+    aliases:
+      - unlink
+    categories:
+      - Text Editor
+
+  - name: 'question'
+    unicode: 'f128'
+    categories:
+      - Web Application
+
+  - name: 'info'
+    unicode: 'f129'
+    categories:
+      - Web Application
+
+  - name: 'exclamation'
+    unicode: 'f12a'
+    categories:
+      - Web Application
+
+  - name: 'superscript'
+    unicode: 'f12b'
+    categories:
+      - Text Editor
+
+  - name: 'subscript'
+    unicode: 'f12c'
+    categories:
+      - Text Editor
+
+  - name: 'eraser'
+    unicode: 'f12d'
+    categories:
+      - Text Editor
+      - Web Application
+
+  - name: 'puzzle-piece'
+    unicode: 'f12e'
+    categories:
+      - Web Application
+
+  - name: 'microphone'
+    unicode: 'f130'
+    categories:
+      - Web Application
+
+  - name: 'microphone-slash'
+    unicode: 'f131'
+    categories:
+      - Web Application
+
+  - name: 'shield'
+    unicode: 'f132'
+    categories:
+      - Web Application
+
+  - name: 'calendar-o'
+    unicode: 'f133'
+    categories:
+      - Web Application
+
+  - name: 'fire-extinguisher'
+    unicode: 'f134'
+    categories:
+      - Web Application
+
+  - name: 'rocket'
+    unicode: 'f135'
+    categories:
+      - Web Application
+
+  - name: 'maxcdn'
+    unicode: 'f136'
+    categories:
+      - Brand
+
+  - name: 'chevron-circle-left'
+    unicode: 'f137'
+    categories:
+      - Directional
+
+  - name: 'chevron-circle-right'
+    unicode: 'f138'
+    categories:
+      - Directional
+
+  - name: 'chevron-circle-up'
+    unicode: 'f139'
+    categories:
+      - Directional
+
+  - name: 'chevron-circle-down'
+    unicode: 'f13a'
+    categories:
+      - Directional
+
+  - name: 'html5'
+    unicode: 'f13b'
+    categories:
+      - Brand
+
+  - name: 'css3'
+    unicode: 'f13c'
+    categories:
+      - Brand
+
+  - name: 'anchor'
+    unicode: 'f13d'
+    categories:
+      - Web Application
+
+  - name: 'unlock-alt'
+    unicode: 'f13e'
+    categories:
+      - Web Application
+
+  - name: 'bullseye'
+    unicode: 'f140'
+    categories:
+      - Web Application
+
+  - name: 'ellipsis-h'
+    unicode: 'f141'
+    categories:
+      - Web Application
+
+  - name: 'ellipsis-v'
+    unicode: 'f142'
+    categories:
+      - Web Application
+
+  - name: 'rss-square'
+    unicode: 'f143'
+    categories:
+      - Web Application
+
+  - name: 'play-circle'
+    unicode: 'f144'
+    categories:
+      - Video Player
+
+  - name: 'ticket'
+    unicode: 'f145'
+    categories:
+      - Web Application
+
+  - name: 'minus-square'
+    unicode: 'f146'
+    categories:
+      - Web Application
+      - Form Control
+
+  - name: 'minus-square-o'
+    unicode: 'f147'
+    categories:
+      - Web Application
+      - Form Control
+
+  - name: 'level-up'
+    unicode: 'f148'
+    categories:
+      - Web Application
+
+  - name: 'level-down'
+    unicode: 'f149'
+    categories:
+      - Web Application
+
+  - name: 'check-square'
+    unicode: 'f14a'
+    categories:
+      - Web Application
+      - Form Control
+
+  - name: 'pencil-square'
+    unicode: 'f14b'
+    categories:
+      - Web Application
+
+  - name: 'external-link-square'
+    unicode: 'f14c'
+    categories:
+      - Web Application
+
+  - name: 'share-square'
+    unicode: 'f14d'
+    categories:
+      - Web Application
+
+  - name: 'compass'
+    unicode: 'f14e'
+    categories:
+      - Web Application
+
+  - name: 'caret-square-o-down'
+    unicode: 'f150'
+    aliases:
+      - toggle-down
+    categories:
+      - Web Application
+      - Directional
+
+  - name: 'caret-square-o-up'
+    unicode: 'f151'
+    aliases:
+      - toggle-up
+    categories:
+      - Web Application
+      - Directional
+
+  - name: 'caret-square-o-right'
+    unicode: 'f152'
+    aliases:
+      - toggle-right
+    categories:
+      - Web Application
+      - Directional
+
+  - name: 'eur'
+    unicode: 'f153'
+    aliases:
+      - euro
+    categories:
+      - Currency
+
+  - name: 'gbp'
+    unicode: 'f154'
+    categories:
+      - Currency
+
+  - name: 'usd'
+    unicode: 'f155'
+    aliases:
+      - dollar
+    categories:
+      - Currency
+
+  - name: 'inr'
+    unicode: 'f156'
+    aliases:
+      - rupee
+    categories:
+      - Currency
+
+  - name: 'jpy'
+    unicode: 'f157'
+    aliases:
+      - cny
+      - rmb
+      - yen
+    categories:
+      - Currency
+
+  - name: 'rub'
+    unicode: 'f158'
+    aliases:
+      - ruble
+      - rouble
+    categories:
+      - Currency
+
+  - name: 'krw'
+    unicode: 'f159'
+    aliases:
+      - won
+    categories:
+      - Currency
+
+  - name: 'btc'
+    unicode: 'f15a'
+    aliases:
+      - bitcoin
+    categories:
+      - Currency
+      - Brand
+
+  - name: 'file'
+    unicode: 'f15b'
+    categories:
+      - Text Editor
+      - File Type
+
+  - name: 'file-text'
+    unicode: 'f15c'
+    categories:
+      - Text Editor
+      - File Type
+
+  - name: 'sort-alpha-asc'
+    unicode: 'f15d'
+    categories:
+      - Web Application
+
+  - name: 'sort-alpha-desc'
+    unicode: 'f15e'
+    categories:
+      - Web Application
+
+  - name: 'sort-amount-asc'
+    unicode: 'f160'
+    categories:
+      - Web Application
+
+  - name: 'sort-amount-desc'
+    unicode: 'f161'
+    categories:
+      - Web Application
+
+  - name: 'sort-numeric-asc'
+    unicode: 'f162'
+    categories:
+      - Web Application
+
+  - name: 'sort-numeric-desc'
+    unicode: 'f163'
+    categories:
+      - Web Application
+
+  - name: 'thumbs-up'
+    unicode: 'f164'
+    categories:
+      - Web Application
+
+  - name: 'thumbs-down'
+    unicode: 'f165'
+    categories:
+      - Web Application
+
+  - name: 'youtube-square'
+    unicode: 'f166'
+    categories:
+      - Brand
+
+  - name: 'youtube'
+    unicode: 'f167'
+    categories:
+      - Brand
+
+  - name: 'xing'
+    unicode: 'f168'
+    categories:
+      - Brand
+
+  - name: 'xing-square'
+    unicode: 'f169'
+    categories:
+      - Brand
+
+  - name: 'youtube-play'
+    unicode: 'f16a'
+    categories:
+      - Brand
+      - Video Player
+
+  - name: 'dropbox'
+    unicode: 'f16b'
+    categories:
+      - Brand
+
+  - name: 'stack-overflow'
+    unicode: 'f16c'
+    categories:
+      - Brand
+
+  - name: 'instagram'
+    unicode: 'f16d'
+    categories:
+      - Brand
+
+  - name: 'flickr'
+    unicode: 'f16e'
+    categories:
+      - Brand
+
+  - name: 'adn'
+    unicode: 'f170'
+    categories:
+      - Brand
+
+  - name: 'bitbucket'
+    unicode: 'f171'
+    categories:
+      - Brand
+
+  - name: 'bitbucket-square'
+    unicode: 'f172'
+    categories:
+      - Brand
+
+  - name: 'tumblr'
+    unicode: 'f173'
+    categories:
+      - Brand
+
+  - name: 'tumblr-square'
+    unicode: 'f174'
+    categories:
+      - Brand
+
+  - name: 'long-arrow-down'
+    unicode: 'f175'
+    categories:
+      - Directional
+
+  - name: 'long-arrow-up'
+    unicode: 'f176'
+    categories:
+      - Directional
+
+  - name: 'long-arrow-left'
+    unicode: 'f177'
+    categories:
+      - Directional
+
+  - name: 'long-arrow-right'
+    unicode: 'f178'
+    categories:
+      - Directional
+
+  - name: 'apple'
+    unicode: 'f179'
+    categories:
+      - Brand
+
+  - name: 'windows'
+    unicode: 'f17a'
+    categories:
+      - Brand
+
+  - name: 'android'
+    unicode: 'f17b'
+    categories:
+      - Brand
+
+  - name: 'linux'
+    unicode: 'f17c'
+    categories:
+      - Brand
+
+  - name: 'dribbble'
+    unicode: 'f17d'
+    categories:
+      - Brand
+
+  - name: 'skype'
+    unicode: 'f17e'
+    categories:
+      - Brand
+
+  - name: 'foursquare'
+    unicode: 'f180'
+    categories:
+      - Brand
+
+  - name: 'trello'
+    unicode: 'f181'
+    categories:
+      - Brand
+
+  - name: 'female'
+    unicode: 'f182'
+    categories:
+      - Web Application
+
+  - name: 'male'
+    unicode: 'f183'
+    categories:
+      - Web Application
+
+  - name: 'gittip'
+    unicode: 'f184'
+    categories:
+      - Brand
+
+  - name: 'sun-o'
+    unicode: 'f185'
+    categories:
+      - Web Application
+
+  - name: 'moon-o'
+    unicode: 'f186'
+    categories:
+      - Web Application
+
+  - name: 'archive'
+    unicode: 'f187'
+    categories:
+      - Web Application
+
+  - name: 'bug'
+    unicode: 'f188'
+    categories:
+      - Web Application
+
+  - name: 'vk'
+    unicode: 'f189'
+    categories:
+      - Brand
+
+  - name: 'weibo'
+    unicode: 'f18a'
+    categories:
+      - Brand
+
+  - name: 'renren'
+    unicode: 'f18b'
+    categories:
+      - Brand
+
+  - name: 'pagelines'
+    unicode: 'f18c'
+    categories:
+      - Brand
+
+  - name: 'stack-exchange'
+    unicode: 'f18d'
+    categories:
+      - Brand
+
+  - name: 'arrow-circle-o-right'
+    unicode: 'f18e'
+    categories:
+      - Directional
+
+  - name: 'arrow-circle-o-left'
+    unicode: 'f190'
+    categories:
+      - Directional
+
+  - name: 'caret-square-o-left'
+    unicode: 'f191'
+    aliases:
+      - toggle-left
+    categories:
+      - Web Application
+      - Directional
+
+  - name: 'dot-circle-o'
+    unicode: 'f192'
+    categories:
+      - Web Application
+      - Form Control
+
+  - name: 'wheelchair'
+    unicode: 'f193'
+    categories:
+      - Web Application
+      - Medical
+
+  - name: 'vimeo-square'
+    unicode: 'f194'
+    categories:
+      - Brand
+
+  - name: 'try'
+    unicode: 'f195'
+    aliases:
+      - turkish-lira
+    categories:
+      - Currency
+
+  - name: 'plus-square-o'
+    unicode: 'f196'
+    categories:
+      - Web Application
+      - Form Control
+
+  - name: 'space-shuttle'
+    unicode: 'f197'
+    categories:
+      - Web Application
+
+  - name: 'slack'
+    unicode: 'f198'
+    categories:
+      - Brand
+
+  - name: 'envelope-square'
+    unicode: 'f199'
+    categories:
+      - Web Application
+
+  - name: 'wordpress'
+    unicode: 'f19a'
+    categories:
+      - Brand
+
+  - name: 'openid'
+    unicode: 'f19b'
+    categories:
+      - Brand
+
+  - name: 'university'
+    unicode: 'f19c'
+    aliases:
+      - institution
+      - bank
+    categories:
+      - Web Application
+
+  - name: 'graduation-cap'
+    unicode: 'f19d'
+    aliases:
+      - mortar-board
+    categories:
+      - Web Application
+
+  - name: 'yahoo'
+    unicode: 'f19e'
+    categories:
+      - Brand
+
+  - name: 'google'
+    unicode: 'f1a0'
+    categories:
+      - Brand
+
+  - name: 'reddit'
+    unicode: 'f1a1'
+    categories:
+      - Brand
+
+  - name: 'reddit-square'
+    unicode: 'f1a2'
+    categories:
+      - Brand
+
+  - name: 'stumbleupon-circle'
+    unicode: 'f1a3'
+    categories:
+      - Brand
+
+  - name: 'stumbleupon'
+    unicode: 'f1a4'
+    categories:
+      - Brand
+
+  - name: 'delicious'
+    unicode: 'f1a5'
+    categories:
+      - Brand
+
+  - name: 'digg'
+    unicode: 'f1a6'
+    categories:
+      - Brand
+
+  - name: 'pied-piper'
+    unicode: 'f1a7'
+    categories:
+      - Brand
+
+  - name: 'pied-piper-alt'
+    unicode: 'f1a8'
+    categories:
+      - Brand
+
+  - name: 'drupal'
+    unicode: 'f1a9'
+    categories:
+      - Brand
+
+  - name: 'joomla'
+    unicode: 'f1aa'
+    categories:
+      - Brand
+
+  - name: 'language'
+    unicode: 'f1ab'
+    categories:
+      - Web Application
+
+  - name: 'fax'
+    unicode: 'f1ac'
+    categories:
+      - Web Application
+
+  - name: 'building'
+    unicode: 'f1ad'
+    categories:
+      - Web Application
+
+  - name: 'child'
+    unicode: 'f1ae'
+    categories:
+      - Web Application
+
+  - name: 'paw'
+    unicode: 'f1b0'
+    categories:
+      - Web Application
+
+  - name: 'spoon'
+    unicode: 'f1b1'
+    categories:
+      - Web Application
+
+  - name: 'cube'
+    unicode: 'f1b2'
+    categories:
+      - Web Application
+
+  - name: 'cubes'
+    unicode: 'f1b3'
+    categories:
+      - Web Application
+
+  - name: 'behance'
+    unicode: 'f1b4'
+    categories:
+      - Brand
+
+  - name: 'behance-square'
+    unicode: 'f1b5'
+    categories:
+      - Brand
+
+  - name: 'steam'
+    unicode: 'f1b6'
+    categories:
+      - Brand
+
+  - name: 'steam-square'
+    unicode: 'f1b7'
+    categories:
+      - Brand
+
+  - name: 'recycle'
+    unicode: 'f1b8'
+    categories:
+      - Web Application
+
+  - name: 'car'
+    unicode: 'f1b9'
+    categories:
+      - Web Application
+    aliases:
+      - automobile
+
+  - name: 'taxi'
+    unicode: 'f1ba'
+    categories:
+      - Web Application
+    aliases:
+      - cab
+
+  - name: 'tree'
+    unicode: 'f1bb'
+    categories:
+      - Web Application
+
+  - name: 'spotify'
+    unicode: 'f1bc'
+    categories:
+      - Brand
+
+  - name: 'deviantart'
+    unicode: 'f1bd'
+    categories:
+      - Brand
+
+  - name: 'soundcloud'
+    unicode: 'f1be'
+    categories:
+      - Brand
+
+  - name: 'database'
+    unicode: 'f1c0'
+    categories:
+      - Web Application
+
+  - name: 'file-pdf-o'
+    unicode: 'f1c1'
+    categories:
+      - Web Application
+      - File Type
+
+  - name: 'file-word-o'
+    unicode: 'f1c2'
+    categories:
+      - Web Application
+      - File Type
+
+  - name: 'file-excel-o'
+    unicode: 'f1c3'
+    categories:
+      - Web Application
+      - File Type
+
+  - name: 'file-powerpoint-o'
+    unicode: 'f1c4'
+    categories:
+      - Web Application
+      - File Type
+
+  - name: 'file-image-o'
+    unicode: 'f1c5'
+    aliases:
+      - file-photo-o
+      - file-picture-o
+    categories:
+      - Web Application
+      - File Type
+
+  - name: 'file-archive-o'
+    unicode: 'f1c6'
+    aliases:
+      - file-zip-o
+    categories:
+      - Web Application
+      - File Type
+
+  - name: 'file-audio-o'
+    unicode: 'f1c7'
+    aliases:
+      - file-sound-o
+    categories:
+      - Web Application
+      - File Type
+
+  - name: 'file-video-o'
+    unicode: 'f1c8'
+    aliases:
+      - file-movie-o
+    categories:
+      - Web Application
+      - File Type
+
+  - name: 'file-code-o'
+    unicode: 'f1c9'
+    categories:
+      - Web Application
+      - File Type
+
+  - name: 'vine'
+    unicode: 'f1ca'
+    categories:
+      - Brand
+
+  - name: 'codepen'
+    unicode: 'f1cb'
+    categories:
+      - Brand
+
+  - name: 'jsfiddle'
+    unicode: 'f1cc'
+    categories:
+      - Brand
+
+  - name: 'life-ring'
+    unicode: 'f1cd'
+    aliases:
+      - life-bouy
+      - life-saver
+      - support
+    categories:
+      - Web Application
+
+  - name: 'circle-o-notch'
+    unicode: 'f1ce'
+    categories:
+      - Web Application
+      - Spinner
+
+  - name: 'rebel'
+    unicode: 'f1d0'
+    aliases:
+      - ra
+    categories:
+      - Brand
+
+  - name: 'empire'
+    unicode: 'f1d1'
+    aliases:
+      - ge
+    categories:
+      - Brand
+
+  - name: 'git-square'
+    unicode: 'f1d2'
+    categories:
+      - Brand
+
+  - name: 'git'
+    unicode: 'f1d3'
+    categories:
+      - Brand
+
+  - name: 'hacker-news'
+    unicode: 'f1d4'
+    categories:
+      - Brand
+
+  - name: 'tencent-weibo'
+    unicode: 'f1d5'
+    categories:
+      - Brand
+
+  - name: 'qq'
+    unicode: 'f1d6'
+    categories:
+      - Brand
+
+  - name: 'weixin'
+    unicode: 'f1d7'
+    aliases:
+      - wechat
+    categories:
+      - Brand
+
+  - name: 'paper-plane'
+    unicode: 'f1d8'
+    aliases:
+      - send
+    categories:
+      - Web Application
+
+  - name: 'paper-plane-o'
+    unicode: 'f1d9'
+    aliases:
+      - send-o
+    categories:
+      - Web Application
+
+  - name: 'history'
+    unicode: 'f1da'
+    categories:
+      - Web Application
+
+  - name: 'circle-thin'
+    unicode: 'f1db'
+    categories:
+      - Web Application
+
+  - name: 'header'
+    unicode: 'f1dc'
+    categories:
+      - Text Editor
+
+  - name: 'paragraph'
+    unicode: 'f1dd'
+    categories:
+      - Text Editor
+
+  - name: 'sliders'
+    unicode: 'f1de'
+    categories:
+      - Web Application
+
+  - name: 'share-alt'
+    unicode: 'f1e0'
+    categories:
+      - Web Application
+      - Brand
+
+  - name: 'share-alt-square'
+    unicode: 'f1e1'
+    categories:
+      - Web Application
+      - Brand
+
+  - name: 'bomb'
+    unicode: 'f1e2'
+    categories:
+      - Web Application
+
+  - name: 'futbol-o'
+    unicode: 'f1e3'
+    aliases:
+      - soccer-ball-o
+    categories:
+      - Web Application
+
+  - name: 'tty'
+    unicode: 'f1e4'
+    categories:
+      - Web Application
+
+  - name: 'binoculars'
+    unicode: 'f1e5'
+    categories:
+      - Web Application
+
+  - name: 'plug'
+    unicode: 'f1e6'
+    categories:
+      - Web Application
+
+  - name: 'slideshare'
+    unicode: 'f1e7'
+    categories:
+      - Brand
+
+  - name: 'twitch'
+    unicode: 'f1e8'
+    categories:
+      - Brand
+
+  - name: 'yelp'
+    unicode: 'f1e9'
+    categories:
+      - Brand
+
+  - name: 'newspaper-o'
+    unicode: 'f1ea'
+    categories:
+      - Web Application
+
+  - name: 'wifi'
+    unicode: 'f1eb'
+    categories:
+      - Web Application
+
+  - name: 'calculator'
+    unicode: 'f1ec'
+    categories:
+      - Web Application
+
+  - name: 'paypal'
+    unicode: 'f1ed'
+    categories:
+      - Brand
+      - Payment
+
+  - name: 'google-wallet'
+    unicode: 'f1ee'
+    categories:
+      - Brand
+      - Payment
+
+  - name: 'cc-visa'
+    unicode: 'f1f0'
+    categories:
+      - Brand
+      - Payment
+
+  - name: 'cc-mastercard'
+    unicode: 'f1f1'
+    categories:
+      - Brand
+      - Payment
+
+  - name: 'cc-discover'
+    unicode: 'f1f2'
+    categories:
+      - Brand
+      - Payment
+
+  - name: 'cc-amex'
+    unicode: 'f1f3'
+    categories:
+      - Brand
+      - Payment
+
+  - name: 'cc-paypal'
+    unicode: 'f1f4'
+    categories:
+      - Brand
+      - Payment
+
+  - name: 'cc-stripe'
+    unicode: 'f1f5'
+    categories:
+      - Brand
+      - Payment
+
+  - name: 'bell-slash'
+    unicode: 'f1f6'
+    categories:
+      - Web Application
+
+  - name: 'bell-slash-o'
+    unicode: 'f1f7'
+    categories:
+      - Web Application
+
+  - name: 'trash'
+    unicode: 'f1f8'
+    categories:
+      - Web Application
+
+  - name: 'copyright'
+    unicode: 'f1f9'
+    categories:
+      - Web Application
+
+  - name: 'at'
+    unicode: 'f1fa'
+    categories:
+      - Web Application
+
+  - name: 'eyedropper'
+    unicode: 'f1fb'
+    categories:
+      - Web Application
+
+  - name: 'paint-brush'
+    unicode: 'f1fc'
+    categories:
+      - Web Application
+
+  - name: 'birthday-cake'
+    unicode: 'f1fd'
+    categories:
+      - Web Application
+
+  - name: 'area-chart'
+    unicode: 'f1fe'
+    categories:
+      - Web Application
+      - Chart
+
+  - name: 'pie-chart'
+    unicode: 'f200'
+    categories:
+      - Web Application
+      - Chart
+
+  - name: 'line-chart'
+    unicode: 'f201'
+    categories:
+      - Web Application
+      - Chart
+
+  - name: 'lastfm'
+    unicode: 'f202'
+    categories:
+      - Brand
+
+  - name: 'lastfm-square'
+    unicode: 'f203'
+    categories:
+      - Brand
+
+  - name: 'toggle-off'
+    unicode: 'f204'
+    categories:
+      - Web Application
+
+  - name: 'toggle-on'
+    unicode: 'f205'
+    categories:
+      - Web Application
+
+  - name: 'bicycle'
+    unicode: 'f206'
+    categories:
+      - Web Application
+
+  - name: 'bus'
+    unicode: 'f207'
+    categories:
+      - Web Application
+
+  - name: 'ioxhost'
+    unicode: 'f208'
+    categories:
+      - Brand
+
+  - name: 'angellist'
+    unicode: 'f209'
+    categories:
+      - Brand
+
+  - name: 'cc'
+    unicode: 'f20a'
+    categories:
+      - Web Application
+
+  - name: 'ils'
+    unicode: 'f20b'
+    aliases:
+      - shekel
+      - sheqel
+    categories:
+      - Currency
+
+  - name: 'meanpath'
+    unicode: 'f20c'
+    categories:
+      - Brand
+
+  - name: 'buysellads'
+    unicode: 'f20d'
+    categories:
+      - Brand
+
+  - name: 'connectdevelop'
+    unicode: 'f20e'
+    categories:
+      - Brand
+
+  - name: 'dashcube'
+    unicode: 'f210'
+    categories:
+      - Brand
+
+  - name: 'forumbee'
+    unicode: 'f211'
+    categories:
+      - Brand
+
+  - name: 'leanpub'
+    unicode: 'f212'
+    categories:
+      - Brand
+
+  - name: 'sellsy'
+    unicode: 'f213'
+    categories:
+      - Brand
+
+  - name: 'shirtsinbulk'
+    unicode: 'f214'
+    categories:
+      - Brand
+
+  - name: 'simplybuilt'
+    unicode: 'f215'
+    categories:
+      - Brand
+
+  - name: 'skyatlas'
+    unicode: 'f216'
+    categories:
+      - Brand
+
+  - name: 'cart-plus'
+    unicode: 'f217'
+    categories:
+      - Web Application
+
+  - name: 'cart-arrow-down'
+    unicode: 'f218'
+    categories:
+      - Web Application
+
+  - name: 'diamond'
+    unicode: 'f219'
+    categories:
+      - Web Application
+
+  - name: 'ship'
+    unicode: 'f21a'
+    categories:
+      - Web Application
+      - Transportation
+
+  - name: 'user-secret'
+    unicode: 'f21b'
+    categories:
+      - Web Application
+
+  - name: 'motorcycle'
+    unicode: 'f21c'
+    categories:
+      - Web Application
+      - Transportation
+
+  - name: 'street-view'
+    unicode: 'f21d'
+    categories:
+      - Web Application
+
+  - name: 'heartbeat'
+    unicode: 'f21e'
+    categories:
+      - Web Application
+      - Medical
+
+  - name: 'venus'
+    unicode: 'f221'
+    categories:
+      - Gender
+
+  - name: 'mars'
+    unicode: 'f222'
+    categories:
+      - Gender
+
+  - name: 'mercury'
+    unicode: 'f223'
+    categories:
+      - Gender
+
+  - name: 'transgender'
+    unicode: 'f224'
+    categories:
+      - Gender
+
+  - name: 'transgender-alt'
+    unicode: 'f225'
+    categories:
+      - Gender
+
+  - name: 'venus-double'
+    unicode: 'f226'
+    categories:
+      - Gender
+
+  - name: 'mars-double'
+    unicode: 'f227'
+    categories:
+      - Gender
+
+  - name: 'venus-mars'
+    unicode: 'f228'
+    categories:
+      - Gender
+
+  - name: 'mars-stroke'
+    unicode: 'f229'
+    categories:
+      - Gender
+
+  - name: 'mars-stroke-v'
+    unicode: 'f22a'
+    categories:
+      - Gender
+
+  - name: 'mars-stroke-h'
+    unicode: 'f22b'
+    categories:
+      - Gender
+
+  - name: 'neuter'
+    unicode: 'f22c'
+    categories:
+      - Gender
+
+  - name: 'facebook-official'
+    unicode: 'f230'
+    categories:
+      - Brand
+
+  - name: 'pinterest-p'
+    unicode: 'f231'
+    categories:
+      - Brand
+
+  - name: 'whatsapp'
+    unicode: 'f232'
+    categories:
+      - Brand
+
+  - name: 'server'
+    unicode: 'f233'
+    categories:
+      - Web Application
+
+  - name: 'user-plus'
+    unicode: 'f234'
+    categories:
+      - Web Application
+
+  - name: 'user-times'
+    unicode: 'f235'
+    categories:
+      - Web Application
+
+  - name: 'bed'
+    unicode: 'f236'
+    categories:
+      - Web Application
+
+  - name: 'viacoin'
+    unicode: 'f237'
+    categories:
+      - Brand
+
+  - name: 'train'
+    unicode: 'f238'
+    categories:
+      - Transportation
+
+  - name: 'subway'
+    unicode: 'f239'
+    categories:
+      - Transportation
+
+  - name: 'medium'
+    unicode: 'f23a'
+    categories:
+      - Brand
+
+  - name: 'y-combinator'
+    unicode: 'f23b'
+
+  - name: 'optin-monster'
+    unicode: 'f23c'
+
+  - name: 'opencart'
+    unicode: 'f23d'
+
+  - name: 'expeditedssl'
+    unicode: 'f23e'
+
+  - name: 'battery-full'
+    unicode: 'f240'
+
+  - name: 'battery-three-quarters'
+    unicode: 'f241'
+
+  - name: 'battery-half'
+    unicode: 'f242'
+
+  - name: 'battery-quarter'
+    unicode: 'f243'
+
+  - name: 'battery-empty'
+    unicode: 'f244'
+
+  - name: 'mouse-pointer'
+    unicode: 'f245'
+
+  - name: 'i-cursor'
+    unicode: 'f246'
+
+  - name: 'object-group'
+    unicode: 'f247'
+
+  - name: 'object-ungroup'
+    unicode: 'f248'
+
+  - name: 'sticky-note'
+    unicode: 'f249'
+
+  - name: 'sticky-note-o'
+    unicode: 'f24a'
+
+  - name: 'cc-jcb'
+    unicode: 'f24b'
+
+  - name: 'cc-diners-club'
+    unicode: 'f24c'
+
+  - name: 'clone'
+    unicode: 'f24d'
+
+  - name: 'balance-scale'
+    unicode: 'f24e'
+
+  - name: 'hourglass-o'
+    unicode: 'f250'
+
+  - name: 'hourglass-start'
+    unicode: 'f251'
+
+  - name: 'hourglass-half'
+    unicode: 'f252'
+
+  - name: 'hourglass-end'
+    unicode: 'f253'
+
+  - name: 'hourglass'
+    unicode: 'f254'
+
+  - name: 'hand-rock-o'
+    unicode: 'f255'
+
+  - name: 'hand-paper-o'
+    unicode: 'f256'
+
+  - name: 'hand-scissors-o'
+    unicode: 'f257'
+
+  - name: 'hand-lizard-o'
+    unicode: 'f258'
+
+  - name: 'hand-spock-o'
+    unicode: 'f259'
+
+  - name: 'hand-pointer-o'
+    unicode: 'f25a'
+
+  - name: 'hand-peace-o'
+    unicode: 'f25b'
+
+  - name: 'trademark'
+    unicode: 'f25c'
+
+  - name: 'registered'
+    unicode: 'f25d'
+
+  - name: 'creative-commons'
+    unicode: 'f25e'
+
+  - name: 'gg'
+    unicode: 'f260'
+
+  - name: 'gg-circle'
+    unicode: 'f261'
+
+  - name: 'tripadvisor'
+    unicode: 'f262'
+
+  - name: 'odnoklassniki'
+    unicode: 'f263'
+
+  - name: 'odnoklassniki-square'
+    unicode: 'f264'
+
+  - name: 'get-pocket'
+    unicode: 'f265'
+
+  - name: 'wikipedia-w'
+    unicode: 'f266'
+
+  - name: 'safari'
+    unicode: 'f267'
+
+  - name: 'chrome'
+    unicode: 'f268'
+
+  - name: 'firefox'
+    unicode: 'f269'
+
+  - name: 'opera'
+    unicode: 'f26a'
+
+  - name: 'internet-explorer'
+    unicode: 'f26b'
+
+  - name: 'television'
+    unicode: 'f26c'
+
+  - name: 'contao'
+    unicode: 'f26d'
+
+  - name: '500px'
+    unicode: 'f26e'
+
+  - name: 'amazon'
+    unicode: 'f270'
+
+  - name: 'calendar-plus-o'
+    unicode: 'f271'
+
+  - name: 'calendar-minus-o'
+    unicode: 'f272'
+
+  - name: 'calendar-times-o'
+    unicode: 'f273'
+
+  - name: 'calendar-check-o'
+    unicode: 'f274'
+
+  - name: 'industry'
+    unicode: 'f275'
+
+  - name: 'map-pin'
+    unicode: 'f276'
+
+  - name: 'map-signs'
+    unicode: 'f277'
+
+  - name: 'map-o'
+    unicode: 'f278'
+
+  - name: 'map'
+    unicode: 'f279'
+
+  - name: 'commenting'
+    unicode: 'f27a'
+
+  - name: 'commenting-o'
+    unicode: 'f27b'
+
+  - name: 'houzz'
+    unicode: 'f27c'
+
+  - name: 'vimeo'
+    unicode: 'f27d'
+
+  - name: 'black-tie'
+    unicode: 'f27e'
+
+  - name: 'fonticons'
+    unicode: 'f280'
+
+  - name: 'genderless'
+    unicode: 'f22d'
+
+  - name: 'reddit-alien'
+    unicode: 'f281'
+    categories:
+      - Brand Icons
+
+  - name: 'edge'
+    unicode: 'f282'
+    categories:
+      - Brand Icons
+
+  - name: 'credit-card-alt'
+    unicode: 'f283'
+    categories:
+      - Brand Icons
+      - Payment Icons
+
+  - name: 'codiepie'
+    unicode: 'f284'
+    categories:
+      - Brand Icons
+
+  - name: 'modx'
+    unicode: 'f285'
+    categories:
+      - Brand Icons
+
+  - name: 'fort-awesome'
+    unicode: 'f286'
+    categories:
+      - Brand Icons
+
+  - name: 'usb'
+    unicode: 'f287'
+    categories:
+      - Brand Icons
+
+  - name: 'product-hunt'
+    unicode: 'f288'
+    categories:
+      - Brand Icons
+
+  - name: 'mixcloud'
+    unicode: 'f289'
+    categories:
+      - Brand Icons
+
+  - name: 'scribd'
+    unicode: 'f28a'
+    categories:
+      - Brand Icons
+
+  - name: 'pause-circle'
+    unicode: 'f28b'
+    categories:
+      - Video Player Icons
+
+  - name: 'pause-circle-o'
+    unicode: 'f28c'
+    categories:
+      - Video Player Icons
+
+  - name: 'stop-circle'
+    unicode: 'f28d'
+    categories:
+      - Video Player Icons
+
+  - name: 'stop-circle-o'
+    unicode: 'f28e'
+    categories:
+      - Video Player Icons
+
+  - name: 'shopping-bag'
+    unicode: 'f290'
+    categories:
+      - Web Application Icons
+
+  - name: 'shopping-basket'
+    unicode: 'f291'
+    categories:
+      - Web Application Icons
+
+  - name: 'hashtag'
+    unicode: 'f292'
+    categories:
+      - Web Application Icons
+
+  - name: 'bluetooth'
+    unicode: 'f293'
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name: 'bluetooth-b'
+    unicode: 'f294'
+    categories:
+      - Web Application Icons
+      - Brand Icons
+
+  - name: 'percent'
+    unicode: 'f295'
+    categories:
+      - Web Application Icons

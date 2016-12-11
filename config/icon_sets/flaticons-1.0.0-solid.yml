@@ -1,0 +1,1523 @@
+token: ccf7ef60
+name: Flaticons Solid
+family: Flaticons Solid
+style: Solid
+version: 1.0.0
+filename: Flaticons-Solid.ttf
+optimized_for: 16px
+css_prefix: flaticons-solid
+icon_css_prefix: flaticons-solid
+website: http://flaticons.co
+premium: true
+price: 30.00
+download_package: Flaticons-Solid.zip
+
+designer:
+  first_name: Zach
+  last_name: Roszczewski
+  email: zach@flaticons.co
+  website: http://flaticons.co
+
+plans:
+  - owner
+
+icons:
+  - name: 'grid'
+    unicode: 'e000'
+
+  - name: 'grid-2'
+    unicode: 'e001'
+
+  - name: 'window'
+    unicode: 'e002'
+
+  - name: 'window-2'
+    unicode: 'e003'
+
+  - name: 'switch-window'
+    unicode: 'e004'
+
+  - name: 'collection'
+    unicode: 'e005'
+
+  - name: 'add-window'
+    unicode: 'e006'
+
+  - name: 'browser'
+    unicode: 'e007'
+
+  - name: 'minimize-browser'
+    unicode: 'e008'
+
+  - name: 'new-browser'
+    unicode: 'e009'
+
+  - name: 'close-browser'
+    unicode: 'e00a'
+
+  - name: 'browser-2'
+    unicode: 'e00b'
+
+  - name: 'minimize-browser-2'
+    unicode: 'e00c'
+
+  - name: 'new-browser-2'
+    unicode: 'e00d'
+
+  - name: 'close-browser-2'
+    unicode: 'e00e'
+
+  - name: 'multiple-browsers'
+    unicode: 'e00f'
+
+  - name: 'browser-3'
+    unicode: 'e010'
+
+  - name: 'minimize-browser-3'
+    unicode: 'e011'
+
+  - name: 'new-browser-3'
+    unicode: 'e012'
+
+  - name: 'close-browser-3'
+    unicode: 'e013'
+
+  - name: 'folder'
+    unicode: 'e014'
+
+  - name: 'add-folder'
+    unicode: 'e015'
+
+  - name: 'remove-folder'
+    unicode: 'e016'
+
+  - name: 'upload-folder'
+    unicode: 'e017'
+
+  - name: 'download-folder'
+    unicode: 'e018'
+
+  - name: 'open-folder'
+    unicode: 'e019'
+
+  - name: 'open-folder-2'
+    unicode: 'e01a'
+
+  - name: 'open-folder-3'
+    unicode: 'e01b'
+
+  - name: 'document'
+    unicode: 'e01c'
+
+  - name: 'document-2'
+    unicode: 'e01d'
+
+  - name: 'document-3'
+    unicode: 'e01e'
+
+  - name: 'document-4'
+    unicode: 'e01f'
+
+  - name: 'multiple-documents'
+    unicode: 'e020'
+
+  - name: 'remove-document'
+    unicode: 'e021'
+
+  - name: 'add-document'
+    unicode: 'e022'
+
+  - name: 'close-document'
+    unicode: 'e023'
+
+  - name: 'upload-document'
+    unicode: 'e024'
+
+  - name: 'download-document'
+    unicode: 'e025'
+
+  - name: 'import-document'
+    unicode: 'e026'
+
+  - name: 'export-document'
+    unicode: 'e027'
+
+  - name: 'copy'
+    unicode: 'e028'
+
+  - name: 'remove-from-clipboard'
+    unicode: 'e029'
+
+  - name: 'add-to-clipboard'
+    unicode: 'e02a'
+
+  - name: 'delete-from-clipboard'
+    unicode: 'e02b'
+
+  - name: 'clipboard-checkmark'
+    unicode: 'e02c'
+
+  - name: 'upload-to-clipboard'
+    unicode: 'e02d'
+
+  - name: 'copy-2'
+    unicode: 'e02e'
+
+  - name: 'copy-3'
+    unicode: 'e02f'
+
+  - name: 'copy-4'
+    unicode: 'e030'
+
+  - name: 'comment'
+    unicode: 'e031'
+
+  - name: 'thinking-comment'
+    unicode: 'e032'
+
+  - name: 'heart-comment'
+    unicode: 'e033'
+
+  - name: 'post-comment'
+    unicode: 'e034'
+
+  - name: 'comment-2'
+    unicode: 'e035'
+
+  - name: 'thinking-comment-2'
+    unicode: 'e036'
+
+  - name: 'heart-comment-2'
+    unicode: 'e037'
+
+  - name: 'post-comment-2'
+    unicode: 'e038'
+
+  - name: 'chat'
+    unicode: 'e039'
+
+  - name: 'chat-2'
+    unicode: 'e03a'
+
+  - name: 'chat-3'
+    unicode: 'e03b'
+
+  - name: 'lock'
+    unicode: 'e03c'
+
+  - name: 'unlock'
+    unicode: 'e03d'
+
+  - name: 'lock-2'
+    unicode: 'e03e'
+
+  - name: 'lock-3'
+    unicode: 'e03f'
+
+  - name: 'unlock-3'
+    unicode: 'e040'
+
+  - name: 'password'
+    unicode: 'e041'
+
+  - name: 'password-2'
+    unicode: 'e042'
+
+  - name: 'notification'
+    unicode: 'e043'
+
+  - name: 'notification-2'
+    unicode: 'e044'
+
+  - name: 'service'
+    unicode: 'e045'
+
+  - name: 'print'
+    unicode: 'e046'
+
+  - name: 'calculator'
+    unicode: 'e047'
+
+  - name: 'cloud'
+    unicode: 'e048'
+
+  - name: 'cloud-upload'
+    unicode: 'e049'
+
+  - name: 'cloud-add'
+    unicode: 'e04a'
+
+  - name: 'cloud-checkmark'
+    unicode: 'e04b'
+
+  - name: 'cloud-2'
+    unicode: 'e04c'
+
+  - name: 'home'
+    unicode: 'e04d'
+
+  - name: 'home-2'
+    unicode: 'e04e'
+
+  - name: 'home-3'
+    unicode: 'e04f'
+
+  - name: 'open-book'
+    unicode: 'e050'
+
+  - name: 'open-book-2'
+    unicode: 'e051'
+
+  - name: 'open-book-3'
+    unicode: 'e052'
+
+  - name: 'open-book-4'
+    unicode: 'e053'
+
+  - name: 'book'
+    unicode: 'e054'
+
+  - name: 'book-2'
+    unicode: 'e055'
+
+  - name: 'book-3'
+    unicode: 'e056'
+
+  - name: 'book-4'
+    unicode: 'e057'
+
+  - name: 'book-5'
+    unicode: 'e058'
+
+  - name: 'book-6'
+    unicode: 'e059'
+
+  - name: 'newspaper'
+    unicode: 'e05a'
+
+  - name: 'newspaper-2'
+    unicode: 'e05b'
+
+  - name: 'newspaper-3'
+    unicode: 'e05c'
+
+  - name: 'newspaper-4'
+    unicode: 'e05d'
+
+  - name: 'journal'
+    unicode: 'e05e'
+
+  - name: 'journal-2'
+    unicode: 'e05f'
+
+  - name: 'journal-3'
+    unicode: 'e060'
+
+  - name: 'notebook'
+    unicode: 'e061'
+
+  - name: 'notebook-2'
+    unicode: 'e062'
+
+  - name: 'notebook-3'
+    unicode: 'e063'
+
+  - name: 'article'
+    unicode: 'e064'
+
+  - name: 'article-2'
+    unicode: 'e065'
+
+  - name: 'article-3'
+    unicode: 'e066'
+
+  - name: 'notepad'
+    unicode: 'e067'
+
+  - name: 'portfolio'
+    unicode: 'e068'
+
+  - name: 'suitcase-2'
+    unicode: 'e069'
+
+  - name: 'briefcase'
+    unicode: 'e06a'
+
+  - name: 'toolbox'
+    unicode: 'e06b'
+
+  - name: 'shirt'
+    unicode: 'e06c'
+
+  - name: 'umbrella'
+    unicode: 'e06d'
+
+  - name: 'coffee'
+    unicode: 'e06e'
+
+  - name: 'view-5'
+    unicode: 'e06f'
+
+  - name: 'glasses'
+    unicode: 'e070'
+
+  - name: 'zoom'
+    unicode: 'e071'
+
+  - name: 'zoom-2'
+    unicode: 'e072'
+
+  - name: 'zoom-3'
+    unicode: 'e073'
+
+  - name: 'view'
+    unicode: 'e074'
+
+  - name: 'view-2'
+    unicode: 'e075'
+
+  - name: 'view-3'
+    unicode: 'e076'
+
+  - name: 'view-4'
+    unicode: 'e077'
+
+  - name: 'smart-phone-3'
+    unicode: 'e078'
+
+  - name: 'tablet-2'
+    unicode: 'e079'
+
+  - name: 'tablet-3'
+    unicode: 'e07a'
+
+  - name: 'laptop-2'
+    unicode: 'e07b'
+
+  - name: 'computer-2'
+    unicode: 'e07c'
+
+  - name: 'smart-phone'
+    unicode: 'e07d'
+
+  - name: 'tablet'
+    unicode: 'e07e'
+
+  - name: 'laptop'
+    unicode: 'e07f'
+
+  - name: 'computer'
+    unicode: 'e080'
+
+  - name: 'smart-phone-2'
+    unicode: 'e081'
+
+  - name: 'photo'
+    unicode: 'e082'
+
+  - name: 'photo-gallery'
+    unicode: 'e083'
+
+  - name: 'video-gallery'
+    unicode: 'e084'
+
+  - name: 'video-camera'
+    unicode: 'e085'
+
+  - name: 'video-2'
+    unicode: 'e086'
+
+  - name: 'television'
+    unicode: 'e087'
+
+  - name: 'camera'
+    unicode: 'e088'
+
+  - name: 'camera-2'
+    unicode: 'e089'
+
+  - name: 'camera-3'
+    unicode: 'e08a'
+
+  - name: 'camera-4'
+    unicode: 'e08b'
+
+  - name: 'calendar'
+    unicode: 'e08c'
+
+  - name: 'calendar-2'
+    unicode: 'e08d'
+
+  - name: 'calendar-3'
+    unicode: 'e08e'
+
+  - name: 'calendar-4'
+    unicode: 'e08f'
+
+  - name: 'calendar-5'
+    unicode: 'e090'
+
+  - name: 'calendar-6'
+    unicode: 'e091'
+
+  - name: 'inbox'
+    unicode: 'e092'
+
+  - name: 'inbox-2'
+    unicode: 'e093'
+
+  - name: 'inbox-3'
+    unicode: 'e094'
+
+  - name: 'inbox-4'
+    unicode: 'e095'
+
+  - name: 'inbox-5'
+    unicode: 'e096'
+
+  - name: 'inbox-6'
+    unicode: 'e097'
+
+  - name: 'delete'
+    unicode: 'e098'
+
+  - name: 'delete-2'
+    unicode: 'e099'
+
+  - name: 'delete-3'
+    unicode: 'e09a'
+
+  - name: 'delete-4'
+    unicode: 'e09b'
+
+  - name: 'bucket'
+    unicode: 'e09c'
+
+  - name: 'bucket-2'
+    unicode: 'e09d'
+
+  - name: 'attachment'
+    unicode: 'e09e'
+
+  - name: 'attachment-2'
+    unicode: 'e09f'
+
+  - name: 'message'
+    unicode: 'e0a0'
+
+  - name: 'message-2'
+    unicode: 'e0a1'
+
+  - name: 'message-3'
+    unicode: 'e0a2'
+
+  - name: 'message-4'
+    unicode: 'e0a3'
+
+  - name: 'paint'
+    unicode: 'e0a4'
+
+  - name: 'edit'
+    unicode: 'e0a5'
+
+  - name: 'edit-2'
+    unicode: 'e0a6'
+
+  - name: 'edit-3'
+    unicode: 'e0a7'
+
+  - name: 'feather'
+    unicode: 'e0a8'
+
+  - name: 'feather-2'
+    unicode: 'e0a9'
+
+  - name: 'envelope'
+    unicode: 'e0aa'
+
+  - name: 'envelope-2'
+    unicode: 'e0ab'
+
+  - name: 'envelope-3'
+    unicode: 'e0ac'
+
+  - name: 'envelope-4'
+    unicode: 'e0ad'
+
+  - name: 'send'
+    unicode: 'e0ae'
+
+  - name: 'share'
+    unicode: 'e0af'
+
+  - name: 'share-2'
+    unicode: 'e0b0'
+
+  - name: 'reply-to-all'
+    unicode: 'e0b1'
+
+  - name: 'reply'
+    unicode: 'e0b2'
+
+  - name: 'forward'
+    unicode: 'e0b3'
+
+  - name: 'star'
+    unicode: 'e0b4'
+
+  - name: 'star-2'
+    unicode: 'e0b5'
+
+  - name: 'heart'
+    unicode: 'e0b6'
+
+  - name: 'bookmark'
+    unicode: 'e0b7'
+
+  - name: 'bookmark-2'
+    unicode: 'e0b8'
+
+  - name: 'bookmark-3'
+    unicode: 'e0b9'
+
+  - name: 'pin'
+    unicode: 'e0ba'
+
+  - name: 'share-3'
+    unicode: 'e0bb'
+
+  - name: 'share-4'
+    unicode: 'e0bc'
+
+  - name: 'share-5'
+    unicode: 'e0bd'
+
+  - name: 'link'
+    unicode: 'e0be'
+
+  - name: 'link-2'
+    unicode: 'e0bf'
+
+  - name: 'link-3'
+    unicode: 'e0c0'
+
+  - name: 'link-4'
+    unicode: 'e0c1'
+
+  - name: 'help'
+    unicode: 'e0c2'
+
+  - name: 'help-2'
+    unicode: 'e0c3'
+
+  - name: 'warning'
+    unicode: 'e0c4'
+
+  - name: 'warning-2'
+    unicode: 'e0c5'
+
+  - name: 'about'
+    unicode: 'e0c6'
+
+  - name: 'about-2'
+    unicode: 'e0c7'
+
+  - name: 'profile-2'
+    unicode: 'e0c8'
+
+  - name: 'add-user'
+    unicode: 'e0c9'
+
+  - name: 'profile-3'
+    unicode: 'e0ca'
+
+  - name: 'profile-4'
+    unicode: 'e0cb'
+
+  - name: 'profile-5'
+    unicode: 'e0cc'
+
+  - name: 'follow'
+    unicode: 'e0cd'
+
+  - name: 'group-2'
+    unicode: 'e0ce'
+
+  - name: 'profile'
+    unicode: 'e0cf'
+
+  - name: 'id'
+    unicode: 'e0d0'
+
+  - name: 'id-2'
+    unicode: 'e0d1'
+
+  - name: 'contacts'
+    unicode: 'e0d2'
+
+  - name: 'contacts-2'
+    unicode: 'e0d3'
+
+  - name: 'award'
+    unicode: 'e0d4'
+
+  - name: 'like'
+    unicode: 'e0d5'
+
+  - name: 'travel'
+    unicode: 'e0d6'
+
+  - name: 'travel-2'
+    unicode: 'e0d7'
+
+  - name: 'travel-3'
+    unicode: 'e0d8'
+
+  - name: 'travel-4'
+    unicode: 'e0d9'
+
+  - name: 'city'
+    unicode: 'e0da'
+
+  - name: 'building-2'
+    unicode: 'e0db'
+
+  - name: 'shopping-cart'
+    unicode: 'e0dc'
+
+  - name: 'shopping-cart-2'
+    unicode: 'e0dd'
+
+  - name: 'shopping-cart-3'
+    unicode: 'e0de'
+
+  - name: 'tag'
+    unicode: 'e0df'
+
+  - name: 'tag-2'
+    unicode: 'e0e0'
+
+  - name: 'currency'
+    unicode: 'e0e1'
+
+  - name: 'currency-2'
+    unicode: 'e0e2'
+
+  - name: 'shop'
+    unicode: 'e0e3'
+
+  - name: 'shop-2'
+    unicode: 'e0e4'
+
+  - name: 'bag'
+    unicode: 'e0e5'
+
+  - name: 'basket'
+    unicode: 'e0e6'
+
+  - name: 'basket-2'
+    unicode: 'e0e7'
+
+  - name: 'bag-2'
+    unicode: 'e0e8'
+
+  - name: 'present'
+    unicode: 'e0e9'
+
+  - name: 'payment'
+    unicode: 'e0ea'
+
+  - name: 'payment-2'
+    unicode: 'e0eb'
+
+  - name: 'finish'
+    unicode: 'e0ec'
+
+  - name: 'finish-2'
+    unicode: 'e0ed'
+
+  - name: 'finish-3'
+    unicode: 'e0ee'
+
+  - name: 'spaceship'
+    unicode: 'e0ef'
+
+  - name: 'battery-full'
+    unicode: 'e0f0'
+
+  - name: 'battery-ok'
+    unicode: 'e0f1'
+
+  - name: 'battery-low'
+    unicode: 'e0f2'
+
+  - name: 'battery-empty'
+    unicode: 'e0f3'
+
+  - name: 'battery-charging'
+    unicode: 'e0f4'
+
+  - name: 'battery-empty-2'
+    unicode: 'e0f5'
+
+  - name: 'battery-low-2'
+    unicode: 'e0f6'
+
+  - name: 'battery-ok-2'
+    unicode: 'e0f7'
+
+  - name: 'battery-good'
+    unicode: 'e0f8'
+
+  - name: 'battery-full-2'
+    unicode: 'e0f9'
+
+  - name: 'battery-charging-2'
+    unicode: 'e0fa'
+
+  - name: 'lightning-bolt'
+    unicode: 'e0fb'
+
+  - name: 'wireless'
+    unicode: 'e0fc'
+
+  - name: 'wireless-rounded'
+    unicode: 'e0fd'
+
+  - name: 'wireless-2'
+    unicode: 'e0fe'
+
+  - name: 'wireless-rounded-2'
+    unicode: 'e0ff'
+
+  - name: 'wireless-3'
+    unicode: 'e100'
+
+  - name: 'rss'
+    unicode: 'e101'
+
+  - name: 'signal-bars'
+    unicode: 'e102'
+
+  - name: 'stats'
+    unicode: 'e103'
+
+  - name: 'files'
+    unicode: 'e104'
+
+  - name: 'files-2'
+    unicode: 'e105'
+
+  - name: 'bluetooth'
+    unicode: 'e106'
+
+  - name: 'time-machine'
+    unicode: 'e107'
+
+  - name: 'time'
+    unicode: 'e108'
+
+  - name: 'time-2'
+    unicode: 'e109'
+
+  - name: 'stopwatch'
+    unicode: 'e10a'
+
+  - name: 'speedometer'
+    unicode: 'e10b'
+
+  - name: 'gauge-2'
+    unicode: 'e10c'
+
+  - name: 'compass'
+    unicode: 'e10d'
+
+  - name: 'location'
+    unicode: 'e10e'
+
+  - name: 'location-pin'
+    unicode: 'e10f'
+
+  - name: 'location-pin-2'
+    unicode: 'e110'
+
+  - name: 'location-pin-3'
+    unicode: 'e111'
+
+  - name: 'location-pin-4'
+    unicode: 'e112'
+
+  - name: 'location-pin-5'
+    unicode: 'e113'
+
+  - name: 'location-arrow'
+    unicode: 'e114'
+
+  - name: 'world'
+    unicode: 'e115'
+
+  - name: 'aim'
+    unicode: 'e116'
+
+  - name: 'aim-2'
+    unicode: 'e117'
+
+  - name: 'phone'
+    unicode: 'e118'
+
+  - name: 'phone-2'
+    unicode: 'e119'
+
+  - name: 'phone-3'
+    unicode: 'e11a'
+
+  - name: 'phone-4'
+    unicode: 'e11b'
+
+  - name: 'idea'
+    unicode: 'e11c'
+
+  - name: 'lightbulb-2'
+    unicode: 'e11d'
+
+  - name: 'idea-2'
+    unicode: 'e11e'
+
+  - name: 'see-all'
+    unicode: 'e11f'
+
+  - name: 'command'
+    unicode: 'e120'
+
+  - name: 'option'
+    unicode: 'e121'
+
+  - name: 'control'
+    unicode: 'e122'
+
+  - name: 'shift'
+    unicode: 'e123'
+
+  - name: 'eject'
+    unicode: 'e124'
+
+  - name: 'backspace'
+    unicode: 'e125'
+
+  - name: 'nature'
+    unicode: 'e126'
+
+  - name: 'sleep'
+    unicode: 'e127'
+
+  - name: 'water'
+    unicode: 'e128'
+
+  - name: 'nature-2'
+    unicode: 'e129'
+
+  - name: 'whale'
+    unicode: 'e12a'
+
+  - name: 'support'
+    unicode: 'e12b'
+
+  - name: 'gear'
+    unicode: 'e12c'
+
+  - name: 'gear-2'
+    unicode: 'e12d'
+
+  - name: 'tool'
+    unicode: 'e12e'
+
+  - name: 'work'
+    unicode: 'e12f'
+
+  - name: 'cut'
+    unicode: 'e130'
+
+  - name: 'eyedropper'
+    unicode: 'e131'
+
+  - name: 'magic-wand'
+    unicode: 'e132'
+
+  - name: 'type'
+    unicode: 'e133'
+
+  - name: 'graph-2'
+    unicode: 'e134'
+
+  - name: 'running'
+    unicode: 'e135'
+
+  - name: 'graph-3'
+    unicode: 'e136'
+
+  - name: 'slider'
+    unicode: 'e137'
+
+  - name: 'slider-2'
+    unicode: 'e138'
+
+  - name: 'slider-3'
+    unicode: 'e139'
+
+  - name: 'slider-4'
+    unicode: 'e13a'
+
+  - name: 'toggle'
+    unicode: 'e13b'
+
+  - name: 'server'
+    unicode: 'e13c'
+
+  - name: 'network'
+    unicode: 'e13d'
+
+  - name: 'copyright'
+    unicode: 'e13e'
+
+  - name: 'trademark'
+    unicode: 'e13f'
+
+  - name: 'left-text'
+    unicode: 'e140'
+
+  - name: 'centered-text'
+    unicode: 'e141'
+
+  - name: 'right-text'
+    unicode: 'e142'
+
+  - name: 'paragraph-text'
+    unicode: 'e143'
+
+  - name: 'align-top'
+    unicode: 'e144'
+
+  - name: 'align-bottom'
+    unicode: 'e145'
+
+  - name: 'align-horizontally'
+    unicode: 'e146'
+
+  - name: 'align-left'
+    unicode: 'e147'
+
+  - name: 'align-center'
+    unicode: 'e148'
+
+  - name: 'align-right'
+    unicode: 'e149'
+
+  - name: 'align-top-edges'
+    unicode: 'e14a'
+
+  - name: 'distribute-vertical-centers'
+    unicode: 'e14b'
+
+  - name: 'align-bottom-edges'
+    unicode: 'e14c'
+
+  - name: 'align-left-edges'
+    unicode: 'e14d'
+
+  - name: 'distribute-horizontal-centers'
+    unicode: 'e14e'
+
+  - name: 'align-right-edges'
+    unicode: 'e14f'
+
+  - name: 'layout'
+    unicode: 'e150'
+
+  - name: 'layout-2'
+    unicode: 'e151'
+
+  - name: 'layout-3'
+    unicode: 'e152'
+
+  - name: 'layout-4'
+    unicode: 'e153'
+
+  - name: 'menu'
+    unicode: 'e154'
+
+  - name: 'menu-2'
+    unicode: 'e155'
+
+  - name: 'menu-3'
+    unicode: 'e156'
+
+  - name: 'menu-list'
+    unicode: 'e157'
+
+  - name: 'menu-list-2'
+    unicode: 'e158'
+
+  - name: 'menu-list-3'
+    unicode: 'e159'
+
+  - name: 'menu-list-4'
+    unicode: 'e15a'
+
+  - name: 'paragraph-justify'
+    unicode: 'e15b'
+
+  - name: 'paragraph-left-justify'
+    unicode: 'e15c'
+
+  - name: 'paragraph-left'
+    unicode: 'e15d'
+
+  - name: 'paragraph-center'
+    unicode: 'e15e'
+
+  - name: 'paragraph-right'
+    unicode: 'e15f'
+
+  - name: 'paragraph-right-justify'
+    unicode: 'e160'
+
+  - name: 'marquee'
+    unicode: 'e161'
+
+  - name: 'marquee-plus'
+    unicode: 'e162'
+
+  - name: 'marquee-2'
+    unicode: 'e163'
+
+  - name: 'marquee-plus-2'
+    unicode: 'e164'
+
+  - name: 'brightness'
+    unicode: 'e165'
+
+  - name: 'brightness-2'
+    unicode: 'e166'
+
+  - name: 'brightness-3'
+    unicode: 'e167'
+
+  - name: 'turn-page-down'
+    unicode: 'e168'
+
+  - name: 'turn-page-up'
+    unicode: 'e169'
+
+  - name: 'slide-out-left'
+    unicode: 'e16a'
+
+  - name: 'slide-in-right'
+    unicode: 'e16b'
+
+  - name: 'slide-in-left'
+    unicode: 'e16c'
+
+  - name: 'slide-out-right'
+    unicode: 'e16d'
+
+  - name: 'fold-up'
+    unicode: 'e16e'
+
+  - name: 'fold-down'
+    unicode: 'e16f'
+
+  - name: 'fold-left'
+    unicode: 'e170'
+
+  - name: 'fold-right'
+    unicode: 'e171'
+
+  - name: 'move-up'
+    unicode: 'e172'
+
+  - name: 'move-down'
+    unicode: 'e173'
+
+  - name: 'login'
+    unicode: 'e174'
+
+  - name: 'logout'
+    unicode: 'e175'
+
+  - name: 'upload'
+    unicode: 'e176'
+
+  - name: 'download'
+    unicode: 'e177'
+
+  - name: 'upload-inbox-2'
+    unicode: 'e178'
+
+  - name: 'download-inbox-2'
+    unicode: 'e179'
+
+  - name: 'upload-3'
+    unicode: 'e17a'
+
+  - name: 'download-3'
+    unicode: 'e17b'
+
+  - name: 'previous'
+    unicode: 'e17c'
+
+  - name: 'rewind'
+    unicode: 'e17d'
+
+  - name: 'stop'
+    unicode: 'e17e'
+
+  - name: 'pause'
+    unicode: 'e17f'
+
+  - name: 'play'
+    unicode: 'e180'
+
+  - name: 'fast-forward'
+    unicode: 'e181'
+
+  - name: 'next'
+    unicode: 'e182'
+
+  - name: 'previous-2'
+    unicode: 'e183'
+
+  - name: 'rewind-2'
+    unicode: 'e184'
+
+  - name: 'stop-2'
+    unicode: 'e185'
+
+  - name: 'pause-2'
+    unicode: 'e186'
+
+  - name: 'play-2'
+    unicode: 'e187'
+
+  - name: 'fast-forward-2'
+    unicode: 'e188'
+
+  - name: 'next-2'
+    unicode: 'e189'
+
+  - name: 'previous-3'
+    unicode: 'e18a'
+
+  - name: 'rewind-3'
+    unicode: 'e18b'
+
+  - name: 'pause-3'
+    unicode: 'e18c'
+
+  - name: 'play-3'
+    unicode: 'e18d'
+
+  - name: 'fast-forward-3'
+    unicode: 'e18e'
+
+  - name: 'next-3'
+    unicode: 'e18f'
+
+  - name: 'previous-4'
+    unicode: 'e190'
+
+  - name: 'pause-4'
+    unicode: 'e191'
+
+  - name: 'play-4'
+    unicode: 'e192'
+
+  - name: 'next-4'
+    unicode: 'e193'
+
+  - name: 'volume'
+    unicode: 'e194'
+
+  - name: 'volume-2'
+    unicode: 'e195'
+
+  - name: 'mute'
+    unicode: 'e196'
+
+  - name: 'volume-4'
+    unicode: 'e197'
+
+  - name: 'headphones'
+    unicode: 'e198'
+
+  - name: 'microphone'
+    unicode: 'e199'
+
+  - name: 'mute-2'
+    unicode: 'e19a'
+
+  - name: 'music'
+    unicode: 'e19b'
+
+  - name: 'announcement'
+    unicode: 'e19c'
+
+  - name: 'loop'
+    unicode: 'e19d'
+
+  - name: 'shuffle'
+    unicode: 'e19e'
+
+  - name: 'reload'
+    unicode: 'e19f'
+
+  - name: 'refresh-2'
+    unicode: 'e1a0'
+
+  - name: 'reload-3'
+    unicode: 'e1a1'
+
+  - name: 'reload-4'
+    unicode: 'e1a2'
+
+  - name: 'refresh'
+    unicode: 'e1a3'
+
+  - name: 'move'
+    unicode: 'e1a4'
+
+  - name: 'contract'
+    unicode: 'e1a5'
+
+  - name: 'expand'
+    unicode: 'e1a6'
+
+  - name: 'expand-2'
+    unicode: 'e1a7'
+
+  - name: 'expand-3'
+    unicode: 'e1a8'
+
+  - name: 'expand-4'
+    unicode: 'e1a9'
+
+  - name: 'expand-vertically'
+    unicode: 'e1aa'
+
+  - name: 'expand-horizontally'
+    unicode: 'e1ab'
+
+  - name: 'up-arrow'
+    unicode: 'e1ac'
+
+  - name: 'down-arrow'
+    unicode: 'e1ad'
+
+  - name: 'left-arrow'
+    unicode: 'e1ae'
+
+  - name: 'right-arrow'
+    unicode: 'e1af'
+
+  - name: 'up-arrow-2'
+    unicode: 'e1b0'
+
+  - name: 'down-arrow-2'
+    unicode: 'e1b1'
+
+  - name: 'left-arrow-2'
+    unicode: 'e1b2'
+
+  - name: 'right-arrow-2'
+    unicode: 'e1b3'
+
+  - name: 'left-angle-quote'
+    unicode: 'e1b4'
+
+  - name: 'right-angle-quote'
+    unicode: 'e1b5'
+
+  - name: 'left-angle-quote-2'
+    unicode: 'e1b6'
+
+  - name: 'right-angle-quote-2'
+    unicode: 'e1b7'
+
+  - name: 'plus'
+    unicode: 'e1b8'
+
+  - name: 'minus'
+    unicode: 'e1b9'
+
+  - name: 'checkmark'
+    unicode: 'e1ba'
+
+  - name: 'x'
+    unicode: 'e1bb'
+
+  - name: 'up'
+    unicode: 'e1bc'
+
+  - name: 'down'
+    unicode: 'e1bd'
+
+  - name: 'left'
+    unicode: 'e1be'
+
+  - name: 'right'
+    unicode: 'e1bf'
+
+  - name: 'up-2'
+    unicode: 'e1c0'
+
+  - name: 'down-2'
+    unicode: 'e1c1'
+
+  - name: 'left-2'
+    unicode: 'e1c2'
+
+  - name: 'right-2'
+    unicode: 'e1c3'
+
+  - name: 'up-3'
+    unicode: 'e1c4'
+
+  - name: 'down-3'
+    unicode: 'e1c5'
+
+  - name: 'left-3'
+    unicode: 'e1c6'
+
+  - name: 'right-3'
+    unicode: 'e1c7'
+
+  - name: 'up-4'
+    unicode: 'e1c8'
+
+  - name: 'down-4'
+    unicode: 'e1c9'
+
+  - name: 'left-4'
+    unicode: 'e1ca'
+
+  - name: 'right-4'
+    unicode: 'e1cb'
+
+  - name: 'plus-2'
+    unicode: 'e1cc'
+
+  - name: 'minus-2'
+    unicode: 'e1cd'
+
+  - name: 'checkmark-2'
+    unicode: 'e1ce'
+
+  - name: 'x-2'
+    unicode: 'e1cf'
+
+  - name: 'up-circle'
+    unicode: 'e1d0'
+
+  - name: 'down-circle'
+    unicode: 'e1d1'
+
+  - name: 'left-circle'
+    unicode: 'e1d2'
+
+  - name: 'right-circle'
+    unicode: 'e1d3'
+
+  - name: 'up-circle-2'
+    unicode: 'e1d4'
+
+  - name: 'down-circle-2'
+    unicode: 'e1d5'
+
+  - name: 'left-circle-2'
+    unicode: 'e1d6'
+
+  - name: 'right-circle-2'
+    unicode: 'e1d7'
+
+  - name: 'up-circle-3'
+    unicode: 'e1d8'
+
+  - name: 'download-4'
+    unicode: 'e1d9'
+
+  - name: 'left-circle-3'
+    unicode: 'e1da'
+
+  - name: 'right-circle-3'
+    unicode: 'e1db'
+
+  - name: 'up-circle-4'
+    unicode: 'e1dc'
+
+  - name: 'down-circle-4'
+    unicode: 'e1dd'
+
+  - name: 'left-circle-4'
+    unicode: 'e1de'
+
+  - name: 'right-circle-4'
+    unicode: 'e1df'
+
+  - name: 'plus-3'
+    unicode: 'e1e0'
+
+  - name: 'minus-3'
+    unicode: 'e1e1'
+
+  - name: 'checkmark-3'
+    unicode: 'e1e2'
+
+  - name: 'x-3'
+    unicode: 'e1e3'
+
+  - name: 'up-square'
+    unicode: 'e1e4'
+
+  - name: 'down-square'
+    unicode: 'e1e5'
+
+  - name: 'left-square'
+    unicode: 'e1e6'
+
+  - name: 'right-square'
+    unicode: 'e1e7'
+
+  - name: 'up-square-2'
+    unicode: 'e1e8'
+
+  - name: 'down-square-2'
+    unicode: 'e1e9'
+
+  - name: 'left-square-2'
+    unicode: 'e1ea'
+
+  - name: 'right-square-2'
+    unicode: 'e1eb'
+
+  - name: 'up-square-3'
+    unicode: 'e1ec'
+
+  - name: 'download-5'
+    unicode: 'e1ed'
+
+  - name: 'left-square-3'
+    unicode: 'e1ee'
+
+  - name: 'right-square-3'
+    unicode: 'e1ef'
+
+  - name: 'up-square-4'
+    unicode: 'e1f0'
+
+  - name: 'down-square-4'
+    unicode: 'e1f1'
+
+  - name: 'left-square-4'
+    unicode: 'e1f2'
+
+  - name: 'right-square-4'
+    unicode: 'e1f3'

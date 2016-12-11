@@ -1,0 +1,3433 @@
+token: fb1c2c4c
+name: MD Community
+family: MD Community
+style: Regular
+version: 1.1.34
+filename: MDCommunity.otf
+optimized_for: 24px
+css_prefix: mdc
+icon_css_prefix: mdc
+website: http://www.materialdesignicons.com
+premium: false
+
+designer:
+  first_name: Austin
+  last_name: Andrews
+  email: admin@templarian.com
+  website: http://templarian.com
+
+plans:
+  - basic
+  - pro
+  - owner
+  - business10
+  - business10_annual
+  - business20
+  - business20_annual
+  - business50
+  - business50_annual
+  - business100
+  - business100_annual
+
+icons:
+  - name: 'account'
+    unicode: 'f101'
+
+  - name: 'account-alert'
+    unicode: 'f102'
+
+  - name: 'account-box'
+    unicode: 'f103'
+
+  - name: 'account-box-outline'
+    unicode: 'f104'
+
+  - name: 'account-check'
+    unicode: 'f105'
+
+  - name: 'account-circle'
+    unicode: 'f106'
+
+  - name: 'account-key'
+    unicode: 'f107'
+
+  - name: 'account-location'
+    unicode: 'f108'
+
+  - name: 'account-minus'
+    unicode: 'f109'
+
+  - name: 'account-multiple'
+    unicode: 'f10a'
+
+  - name: 'account-multiple-outline'
+    unicode: 'f10b'
+
+  - name: 'account-multiple-plus'
+    unicode: 'f10c'
+
+  - name: 'account-network'
+    unicode: 'f10d'
+
+  - name: 'account-outline'
+    unicode: 'f10e'
+
+  - name: 'account-plus'
+    unicode: 'f10f'
+
+  - name: 'account-remove'
+    unicode: 'f110'
+
+  - name: 'account-search'
+    unicode: 'f111'
+
+  - name: 'account-star'
+    unicode: 'f112'
+
+  - name: 'account-star-variant'
+    unicode: 'f113'
+
+  - name: 'account-switch'
+    unicode: 'f114'
+
+  - name: 'airballoon'
+    unicode: 'f115'
+
+  - name: 'airplane'
+    unicode: 'f116'
+
+  - name: 'airplane-off'
+    unicode: 'f117'
+
+  - name: 'alarm'
+    unicode: 'f118'
+
+  - name: 'alarm-check'
+    unicode: 'f119'
+
+  - name: 'alarm-multiple'
+    unicode: 'f11a'
+
+  - name: 'alarm-off'
+    unicode: 'f11b'
+
+  - name: 'alarm-plus'
+    unicode: 'f11c'
+
+  - name: 'album'
+    unicode: 'f11d'
+
+  - name: 'alert'
+    unicode: 'f11e'
+
+  - name: 'alert-box'
+    unicode: 'f11f'
+
+  - name: 'alert-circle'
+    unicode: 'f120'
+
+  - name: 'alert-octagon'
+    unicode: 'f121'
+
+  - name: 'alpha'
+    unicode: 'f122'
+
+  - name: 'alphabetical'
+    unicode: 'f123'
+
+  - name: 'amazon'
+    unicode: 'f124'
+
+  - name: 'amazon-clouddrive'
+    unicode: 'f125'
+
+  - name: 'ambulance'
+    unicode: 'f126'
+
+  - name: 'android'
+    unicode: 'f127'
+
+  - name: 'android-debug-bridge'
+    unicode: 'f128'
+
+  - name: 'android-studio'
+    unicode: 'f129'
+
+  - name: 'apple'
+    unicode: 'f12a'
+
+  - name: 'apple-finder'
+    unicode: 'f12b'
+
+  - name: 'apple-mobileme'
+    unicode: 'f12c'
+
+  - name: 'apple-safari'
+    unicode: 'f12d'
+
+  - name: 'appnet'
+    unicode: 'f12e'
+
+  - name: 'apps'
+    unicode: 'f12f'
+
+  - name: 'archive'
+    unicode: 'f130'
+
+  - name: 'arrange-bring-forward'
+    unicode: 'f131'
+
+  - name: 'arrange-bring-to-front'
+    unicode: 'f132'
+
+  - name: 'arrange-send-backward'
+    unicode: 'f133'
+
+  - name: 'arrange-send-to-back'
+    unicode: 'f134'
+
+  - name: 'arrow-all'
+    unicode: 'f135'
+
+  - name: 'arrow-collapse'
+    unicode: 'f136'
+
+  - name: 'arrow-down'
+    unicode: 'f137'
+
+  - name: 'arrow-down-bold'
+    unicode: 'f138'
+
+  - name: 'arrow-down-bold-circle'
+    unicode: 'f139'
+
+  - name: 'arrow-down-bold-circle-outline'
+    unicode: 'f13a'
+
+  - name: 'arrow-down-bold-hexagon-outline'
+    unicode: 'f13b'
+
+  - name: 'arrow-expand'
+    unicode: 'f13c'
+
+  - name: 'arrow-left'
+    unicode: 'f13d'
+
+  - name: 'arrow-left-bold'
+    unicode: 'f13e'
+
+  - name: 'arrow-left-bold-circle'
+    unicode: 'f13f'
+
+  - name: 'arrow-left-bold-circle-outline'
+    unicode: 'f140'
+
+  - name: 'arrow-left-bold-hexagon-outline'
+    unicode: 'f141'
+
+  - name: 'arrow-right'
+    unicode: 'f142'
+
+  - name: 'arrow-right-bold'
+    unicode: 'f143'
+
+  - name: 'arrow-right-bold-circle'
+    unicode: 'f144'
+
+  - name: 'arrow-right-bold-circle-outline'
+    unicode: 'f145'
+
+  - name: 'arrow-right-bold-hexagon-outline'
+    unicode: 'f146'
+
+  - name: 'arrow-up'
+    unicode: 'f147'
+
+  - name: 'arrow-up-bold'
+    unicode: 'f148'
+
+  - name: 'arrow-up-bold-circle'
+    unicode: 'f149'
+
+  - name: 'arrow-up-bold-circle-outline'
+    unicode: 'f14a'
+
+  - name: 'arrow-up-bold-hexagon-outline'
+    unicode: 'f14b'
+
+  - name: 'at'
+    unicode: 'f14c'
+
+  - name: 'attachment'
+    unicode: 'f14d'
+
+  - name: 'auto-fix'
+    unicode: 'f14e'
+
+  - name: 'auto-upload'
+    unicode: 'f14f'
+
+  - name: 'backup-restore'
+    unicode: 'f150'
+
+  - name: 'bank'
+    unicode: 'f151'
+
+  - name: 'barcode'
+    unicode: 'f152'
+
+  - name: 'barley'
+    unicode: 'f153'
+
+  - name: 'barrel'
+    unicode: 'f154'
+
+  - name: 'basecamp'
+    unicode: 'f155'
+
+  - name: 'basket'
+    unicode: 'f156'
+
+  - name: 'basket-fill'
+    unicode: 'f157'
+
+  - name: 'basket-unfill'
+    unicode: 'f158'
+
+  - name: 'battery'
+    unicode: 'f159'
+
+  - name: 'battery-20'
+    unicode: 'f15a'
+
+  - name: 'battery-30'
+    unicode: 'f15b'
+
+  - name: 'battery-40'
+    unicode: 'f15c'
+
+  - name: 'battery-60'
+    unicode: 'f15d'
+
+  - name: 'battery-80'
+    unicode: 'f15e'
+
+  - name: 'battery-90'
+    unicode: 'f15f'
+
+  - name: 'battery-alert'
+    unicode: 'f160'
+
+  - name: 'battery-charging-100'
+    unicode: 'f161'
+
+  - name: 'battery-charging-20'
+    unicode: 'f162'
+
+  - name: 'battery-charging-30'
+    unicode: 'f163'
+
+  - name: 'battery-charging-40'
+    unicode: 'f164'
+
+  - name: 'battery-charging-60'
+    unicode: 'f165'
+
+  - name: 'battery-charging-80'
+    unicode: 'f166'
+
+  - name: 'battery-charging-90'
+    unicode: 'f167'
+
+  - name: 'battery-minus'
+    unicode: 'f168'
+
+  - name: 'battery-negative'
+    unicode: 'f169'
+
+  - name: 'battery-outline'
+    unicode: 'f16a'
+
+  - name: 'battery-plus'
+    unicode: 'f16b'
+
+  - name: 'battery-positive'
+    unicode: 'f16c'
+
+  - name: 'battery-unknown'
+    unicode: 'f16d'
+
+  - name: 'beach'
+    unicode: 'f16e'
+
+  - name: 'beaker'
+    unicode: 'f16f'
+
+  - name: 'beaker-empty'
+    unicode: 'f170'
+
+  - name: 'beaker-empty-outline'
+    unicode: 'f171'
+
+  - name: 'beaker-outline'
+    unicode: 'f172'
+
+  - name: 'beats'
+    unicode: 'f173'
+
+  - name: 'beer'
+    unicode: 'f174'
+
+  - name: 'behance'
+    unicode: 'f175'
+
+  - name: 'bell'
+    unicode: 'f176'
+
+  - name: 'bell-off'
+    unicode: 'f177'
+
+  - name: 'bell-outline'
+    unicode: 'f178'
+
+  - name: 'bell-ring'
+    unicode: 'f179'
+
+  - name: 'bell-ring-outline'
+    unicode: 'f17a'
+
+  - name: 'bell-sleep'
+    unicode: 'f17b'
+
+  - name: 'beta'
+    unicode: 'f17c'
+
+  - name: 'bike'
+    unicode: 'f17d'
+
+  - name: 'bing'
+    unicode: 'f17e'
+
+  - name: 'bio'
+    unicode: 'f17f'
+
+  - name: 'biohazard'
+    unicode: 'f180'
+
+  - name: 'black-mesa'
+    unicode: 'f181'
+
+  - name: 'blackberry'
+    unicode: 'f182'
+
+  - name: 'blinds'
+    unicode: 'f183'
+
+  - name: 'block-helper'
+    unicode: 'f184'
+
+  - name: 'blogger'
+    unicode: 'f185'
+
+  - name: 'bluetooth'
+    unicode: 'f186'
+
+  - name: 'bluetooth-audio'
+    unicode: 'f187'
+
+  - name: 'bluetooth-connect'
+    unicode: 'f188'
+
+  - name: 'bluetooth-settings'
+    unicode: 'f189'
+
+  - name: 'blur'
+    unicode: 'f18a'
+
+  - name: 'blur-linear'
+    unicode: 'f18b'
+
+  - name: 'blur-off'
+    unicode: 'f18c'
+
+  - name: 'blur-radial'
+    unicode: 'f18d'
+
+  - name: 'bone'
+    unicode: 'f18e'
+
+  - name: 'book'
+    unicode: 'f18f'
+
+  - name: 'book-multiple'
+    unicode: 'f190'
+
+  - name: 'book-multiple-variant'
+    unicode: 'f191'
+
+  - name: 'book-open'
+    unicode: 'f192'
+
+  - name: 'book-variant'
+    unicode: 'f193'
+
+  - name: 'bookmark'
+    unicode: 'f194'
+
+  - name: 'bookmark-check'
+    unicode: 'f195'
+
+  - name: 'bookmark-outline'
+    unicode: 'f196'
+
+  - name: 'bookmark-outline-plus'
+    unicode: 'f197'
+
+  - name: 'bookmark-plus'
+    unicode: 'f198'
+
+  - name: 'bookmark-remove'
+    unicode: 'f199'
+
+  - name: 'border-all'
+    unicode: 'f19a'
+
+  - name: 'border-bottom'
+    unicode: 'f19b'
+
+  - name: 'border-color'
+    unicode: 'f19c'
+
+  - name: 'border-horizontal'
+    unicode: 'f19d'
+
+  - name: 'border-inside'
+    unicode: 'f19e'
+
+  - name: 'border-left'
+    unicode: 'f19f'
+
+  - name: 'border-none'
+    unicode: 'f1a0'
+
+  - name: 'border-outside'
+    unicode: 'f1a1'
+
+  - name: 'border-right'
+    unicode: 'f1a2'
+
+  - name: 'border-top'
+    unicode: 'f1a3'
+
+  - name: 'border-vertical'
+    unicode: 'f1a4'
+
+  - name: 'bowling'
+    unicode: 'f1a5'
+
+  - name: 'box'
+    unicode: 'f1a6'
+
+  - name: 'briefcase'
+    unicode: 'f1a7'
+
+  - name: 'briefcase-check'
+    unicode: 'f1a8'
+
+  - name: 'briefcase-download'
+    unicode: 'f1a9'
+
+  - name: 'briefcase-upload'
+    unicode: 'f1aa'
+
+  - name: 'brightness-1'
+    unicode: 'f1ab'
+
+  - name: 'brightness-2'
+    unicode: 'f1ac'
+
+  - name: 'brightness-3'
+    unicode: 'f1ad'
+
+  - name: 'brightness-4'
+    unicode: 'f1ae'
+
+  - name: 'brightness-5'
+    unicode: 'f1af'
+
+  - name: 'brightness-6'
+    unicode: 'f1b0'
+
+  - name: 'brightness-7'
+    unicode: 'f1b1'
+
+  - name: 'brightness-auto'
+    unicode: 'f1b2'
+
+  - name: 'broom'
+    unicode: 'f1b3'
+
+  - name: 'brush'
+    unicode: 'f1b4'
+
+  - name: 'bug'
+    unicode: 'f1b5'
+
+  - name: 'bullhorn'
+    unicode: 'f1b6'
+
+  - name: 'bus'
+    unicode: 'f1b7'
+
+  - name: 'cake'
+    unicode: 'f1b8'
+
+  - name: 'cake-variant'
+    unicode: 'f1b9'
+
+  - name: 'calculator'
+    unicode: 'f1ba'
+
+  - name: 'calendar'
+    unicode: 'f1bb'
+
+  - name: 'calendar-blank'
+    unicode: 'f1bc'
+
+  - name: 'calendar-check'
+    unicode: 'f1bd'
+
+  - name: 'calendar-clock'
+    unicode: 'f1be'
+
+  - name: 'calendar-multiple'
+    unicode: 'f1bf'
+
+  - name: 'calendar-multiple-check'
+    unicode: 'f1c0'
+
+  - name: 'calendar-plus'
+    unicode: 'f1c1'
+
+  - name: 'calendar-remove'
+    unicode: 'f1c2'
+
+  - name: 'calendar-text'
+    unicode: 'f1c3'
+
+  - name: 'calendar-today'
+    unicode: 'f1c4'
+
+  - name: 'camcorder'
+    unicode: 'f1c5'
+
+  - name: 'camcorder-box'
+    unicode: 'f1c6'
+
+  - name: 'camcorder-box-off'
+    unicode: 'f1c7'
+
+  - name: 'camcorder-off'
+    unicode: 'f1c8'
+
+  - name: 'camera'
+    unicode: 'f1c9'
+
+  - name: 'camera-iris'
+    unicode: 'f1ca'
+
+  - name: 'camera-party-mode'
+    unicode: 'f1cb'
+
+  - name: 'camera-switch'
+    unicode: 'f1cc'
+
+  - name: 'camera-timer'
+    unicode: 'f1cd'
+
+  - name: 'candycane'
+    unicode: 'f1ce'
+
+  - name: 'car'
+    unicode: 'f1cf'
+
+  - name: 'car-wash'
+    unicode: 'f1d0'
+
+  - name: 'carrot'
+    unicode: 'f1d1'
+
+  - name: 'cart'
+    unicode: 'f1d2'
+
+  - name: 'cart-outline'
+    unicode: 'f1d3'
+
+  - name: 'cash'
+    unicode: 'f1d4'
+
+  - name: 'cash-multiple'
+    unicode: 'f1d5'
+
+  - name: 'cash-usd'
+    unicode: 'f1d6'
+
+  - name: 'cast'
+    unicode: 'f1d7'
+
+  - name: 'cast-connected'
+    unicode: 'f1d8'
+
+  - name: 'castle'
+    unicode: 'f1d9'
+
+  - name: 'cellphone'
+    unicode: 'f1da'
+
+  - name: 'cellphone-android'
+    unicode: 'f1db'
+
+  - name: 'cellphone-dock'
+    unicode: 'f1dc'
+
+  - name: 'cellphone-iphone'
+    unicode: 'f1dd'
+
+  - name: 'cellphone-link'
+    unicode: 'f1de'
+
+  - name: 'cellphone-link-off'
+    unicode: 'f1df'
+
+  - name: 'cellphone-settings'
+    unicode: 'f1e0'
+
+  - name: 'chair-school'
+    unicode: 'f1e1'
+
+  - name: 'chart-arc'
+    unicode: 'f1e2'
+
+  - name: 'chart-bar'
+    unicode: 'f1e3'
+
+  - name: 'chart-histogram'
+    unicode: 'f1e4'
+
+  - name: 'chart-line'
+    unicode: 'f1e5'
+
+  - name: 'chart-pie'
+    unicode: 'f1e6'
+
+  - name: 'check'
+    unicode: 'f1e7'
+
+  - name: 'check-all'
+    unicode: 'f1e8'
+
+  - name: 'checkbox-blank'
+    unicode: 'f1e9'
+
+  - name: 'checkbox-blank-circle'
+    unicode: 'f1ea'
+
+  - name: 'checkbox-blank-circle-outline'
+    unicode: 'f1eb'
+
+  - name: 'checkbox-blank-outline'
+    unicode: 'f1ec'
+
+  - name: 'checkbox-marked'
+    unicode: 'f1ed'
+
+  - name: 'checkbox-marked-circle'
+    unicode: 'f1ee'
+
+  - name: 'checkbox-marked-circle-outline'
+    unicode: 'f1ef'
+
+  - name: 'checkbox-marked-outline'
+    unicode: 'f1f0'
+
+  - name: 'checkbox-multiple-blank'
+    unicode: 'f1f1'
+
+  - name: 'checkbox-multiple-blank-outline'
+    unicode: 'f1f2'
+
+  - name: 'checkbox-multiple-marked'
+    unicode: 'f1f3'
+
+  - name: 'checkbox-multiple-marked-outline'
+    unicode: 'f1f4'
+
+  - name: 'checkerboard'
+    unicode: 'f1f5'
+
+  - name: 'chevron-double-down'
+    unicode: 'f1f6'
+
+  - name: 'chevron-double-left'
+    unicode: 'f1f7'
+
+  - name: 'chevron-double-right'
+    unicode: 'f1f8'
+
+  - name: 'chevron-double-up'
+    unicode: 'f1f9'
+
+  - name: 'chevron-down'
+    unicode: 'f1fa'
+
+  - name: 'chevron-left'
+    unicode: 'f1fb'
+
+  - name: 'chevron-right'
+    unicode: 'f1fc'
+
+  - name: 'chevron-up'
+    unicode: 'f1fd'
+
+  - name: 'church'
+    unicode: 'f1fe'
+
+  - name: 'cisco-webex'
+    unicode: 'f1ff'
+
+  - name: 'city'
+    unicode: 'f200'
+
+  - name: 'clipboard'
+    unicode: 'f201'
+
+  - name: 'clipboard-account'
+    unicode: 'f202'
+
+  - name: 'clipboard-alert'
+    unicode: 'f203'
+
+  - name: 'clipboard-arrow-down'
+    unicode: 'f204'
+
+  - name: 'clipboard-arrow-left'
+    unicode: 'f205'
+
+  - name: 'clipboard-check'
+    unicode: 'f206'
+
+  - name: 'clipboard-outline'
+    unicode: 'f207'
+
+  - name: 'clipboard-text'
+    unicode: 'f208'
+
+  - name: 'clippy'
+    unicode: 'f209'
+
+  - name: 'clock'
+    unicode: 'f20a'
+
+  - name: 'clock-fast'
+    unicode: 'f20b'
+
+  - name: 'close'
+    unicode: 'f20c'
+
+  - name: 'close-box'
+    unicode: 'f20d'
+
+  - name: 'close-box-outline'
+    unicode: 'f20e'
+
+  - name: 'close-circle'
+    unicode: 'f20f'
+
+  - name: 'close-circle-outline'
+    unicode: 'f210'
+
+  - name: 'close-network'
+    unicode: 'f211'
+
+  - name: 'closed-caption'
+    unicode: 'f212'
+
+  - name: 'cloud'
+    unicode: 'f213'
+
+  - name: 'cloud-check'
+    unicode: 'f214'
+
+  - name: 'cloud-circle'
+    unicode: 'f215'
+
+  - name: 'cloud-download'
+    unicode: 'f216'
+
+  - name: 'cloud-outline'
+    unicode: 'f217'
+
+  - name: 'cloud-outline-off'
+    unicode: 'f218'
+
+  - name: 'cloud-upload'
+    unicode: 'f219'
+
+  - name: 'code-array'
+    unicode: 'f21a'
+
+  - name: 'code-string'
+    unicode: 'f21b'
+
+  - name: 'coffee'
+    unicode: 'f21c'
+
+  - name: 'coffee-to-go'
+    unicode: 'f21d'
+
+  - name: 'coin'
+    unicode: 'f21e'
+
+  - name: 'color-helper'
+    unicode: 'f21f'
+
+  - name: 'comment'
+    unicode: 'f220'
+
+  - name: 'comment-account'
+    unicode: 'f221'
+
+  - name: 'comment-account-outline'
+    unicode: 'f222'
+
+  - name: 'comment-alert'
+    unicode: 'f223'
+
+  - name: 'comment-alert-outline'
+    unicode: 'f224'
+
+  - name: 'comment-check'
+    unicode: 'f225'
+
+  - name: 'comment-check-outline'
+    unicode: 'f226'
+
+  - name: 'comment-multiple-outline'
+    unicode: 'f227'
+
+  - name: 'comment-outline'
+    unicode: 'f228'
+
+  - name: 'comment-plus-outline'
+    unicode: 'f229'
+
+  - name: 'comment-processing'
+    unicode: 'f22a'
+
+  - name: 'comment-processing-outline'
+    unicode: 'f22b'
+
+  - name: 'comment-remove-outline'
+    unicode: 'f22c'
+
+  - name: 'comment-text'
+    unicode: 'f22d'
+
+  - name: 'comment-text-outline'
+    unicode: 'f22e'
+
+  - name: 'compare'
+    unicode: 'f22f'
+
+  - name: 'compass'
+    unicode: 'f230'
+
+  - name: 'compass-outline'
+    unicode: 'f231'
+
+  - name: 'console'
+    unicode: 'f232'
+
+  - name: 'content-copy'
+    unicode: 'f233'
+
+  - name: 'content-cut'
+    unicode: 'f234'
+
+  - name: 'content-paste'
+    unicode: 'f235'
+
+  - name: 'content-save'
+    unicode: 'f236'
+
+  - name: 'content-save-all'
+    unicode: 'f237'
+
+  - name: 'contrast'
+    unicode: 'f238'
+
+  - name: 'contrast-box'
+    unicode: 'f239'
+
+  - name: 'contrast-circle'
+    unicode: 'f23a'
+
+  - name: 'cow'
+    unicode: 'f23b'
+
+  - name: 'credit-card'
+    unicode: 'f23c'
+
+  - name: 'credit-card-multiple'
+    unicode: 'f23d'
+
+  - name: 'crop'
+    unicode: 'f23e'
+
+  - name: 'crop-free'
+    unicode: 'f23f'
+
+  - name: 'crop-landscape'
+    unicode: 'f240'
+
+  - name: 'crop-portrait'
+    unicode: 'f241'
+
+  - name: 'crop-square'
+    unicode: 'f242'
+
+  - name: 'crosshairs'
+    unicode: 'f243'
+
+  - name: 'crosshairs-gps'
+    unicode: 'f244'
+
+  - name: 'cube'
+    unicode: 'f245'
+
+  - name: 'cube-outline'
+    unicode: 'f246'
+
+  - name: 'cube-unfolded'
+    unicode: 'f247'
+
+  - name: 'cup'
+    unicode: 'f248'
+
+  - name: 'cup-water'
+    unicode: 'f249'
+
+  - name: 'currency-btc'
+    unicode: 'f24a'
+
+  - name: 'currency-eur'
+    unicode: 'f24b'
+
+  - name: 'currency-gbp'
+    unicode: 'f24c'
+
+  - name: 'currency-try'
+    unicode: 'f24d'
+
+  - name: 'currency-usd'
+    unicode: 'f24e'
+
+  - name: 'cursor-default'
+    unicode: 'f24f'
+
+  - name: 'cursor-default-outline'
+    unicode: 'f250'
+
+  - name: 'cursor-move'
+    unicode: 'f251'
+
+  - name: 'cursor-pointer'
+    unicode: 'f252'
+
+  - name: 'database'
+    unicode: 'f253'
+
+  - name: 'database-minus'
+    unicode: 'f254'
+
+  - name: 'database-outline'
+    unicode: 'f255'
+
+  - name: 'database-plus'
+    unicode: 'f256'
+
+  - name: 'debug-step-into'
+    unicode: 'f257'
+
+  - name: 'debug-step-out'
+    unicode: 'f258'
+
+  - name: 'debug-step-over'
+    unicode: 'f259'
+
+  - name: 'delete'
+    unicode: 'f25a'
+
+  - name: 'delete-variant'
+    unicode: 'f25b'
+
+  - name: 'deskphone'
+    unicode: 'f25c'
+
+  - name: 'desktop-mac'
+    unicode: 'f25d'
+
+  - name: 'desktop-tower'
+    unicode: 'f25e'
+
+  - name: 'details'
+    unicode: 'f25f'
+
+  - name: 'deviantart'
+    unicode: 'f260'
+
+  - name: 'dice'
+    unicode: 'f261'
+
+  - name: 'dice-1'
+    unicode: 'f262'
+
+  - name: 'dice-2'
+    unicode: 'f263'
+
+  - name: 'dice-3'
+    unicode: 'f264'
+
+  - name: 'dice-4'
+    unicode: 'f265'
+
+  - name: 'dice-5'
+    unicode: 'f266'
+
+  - name: 'dice-6'
+    unicode: 'f267'
+
+  - name: 'directions'
+    unicode: 'f268'
+
+  - name: 'disk-alert'
+    unicode: 'f269'
+
+  - name: 'disqus'
+    unicode: 'f26a'
+
+  - name: 'disqus-outline'
+    unicode: 'f26b'
+
+  - name: 'division'
+    unicode: 'f26c'
+
+  - name: 'division-box'
+    unicode: 'f26d'
+
+  - name: 'dns'
+    unicode: 'f26e'
+
+  - name: 'domain'
+    unicode: 'f26f'
+
+  - name: 'dots-horizontal'
+    unicode: 'f270'
+
+  - name: 'dots-vertical'
+    unicode: 'f271'
+
+  - name: 'download'
+    unicode: 'f272'
+
+  - name: 'drag'
+    unicode: 'f273'
+
+  - name: 'drag-horizontal'
+    unicode: 'f274'
+
+  - name: 'drag-vertical'
+    unicode: 'f275'
+
+  - name: 'drawing'
+    unicode: 'f276'
+
+  - name: 'drawing-box'
+    unicode: 'f277'
+
+  - name: 'dribbble'
+    unicode: 'f278'
+
+  - name: 'dribbble-box'
+    unicode: 'f279'
+
+  - name: 'drone'
+    unicode: 'f27a'
+
+  - name: 'dropbox'
+    unicode: 'f27b'
+
+  - name: 'duck'
+    unicode: 'f27c'
+
+  - name: 'dumbbell'
+    unicode: 'f27d'
+
+  - name: 'earth'
+    unicode: 'f27e'
+
+  - name: 'earth-off'
+    unicode: 'f27f'
+
+  - name: 'edge'
+    unicode: 'f280'
+
+  - name: 'elevation-decline'
+    unicode: 'f281'
+
+  - name: 'elevation-rise'
+    unicode: 'f282'
+
+  - name: 'email'
+    unicode: 'f283'
+
+  - name: 'email-open'
+    unicode: 'f284'
+
+  - name: 'email-outline'
+    unicode: 'f285'
+
+  - name: 'emoticon'
+    unicode: 'f286'
+
+  - name: 'emoticon-cool'
+    unicode: 'f287'
+
+  - name: 'emoticon-devil'
+    unicode: 'f288'
+
+  - name: 'emoticon-happy'
+    unicode: 'f289'
+
+  - name: 'emoticon-neutral'
+    unicode: 'f28a'
+
+  - name: 'emoticon-poop'
+    unicode: 'f28b'
+
+  - name: 'emoticon-sad'
+    unicode: 'f28c'
+
+  - name: 'emoticon-tongue'
+    unicode: 'f28d'
+
+  - name: 'equal'
+    unicode: 'f28e'
+
+  - name: 'equal-box'
+    unicode: 'f28f'
+
+  - name: 'eraser'
+    unicode: 'f290'
+
+  - name: 'escalator'
+    unicode: 'f291'
+
+  - name: 'etsy'
+    unicode: 'f292'
+
+  - name: 'evernote'
+    unicode: 'f293'
+
+  - name: 'exclamation'
+    unicode: 'f294'
+
+  - name: 'exit-to-app'
+    unicode: 'f295'
+
+  - name: 'eye'
+    unicode: 'f296'
+
+  - name: 'eye-off'
+    unicode: 'f297'
+
+  - name: 'eyedropper'
+    unicode: 'f298'
+
+  - name: 'eyedropper-variant'
+    unicode: 'f299'
+
+  - name: 'facebook'
+    unicode: 'f29a'
+
+  - name: 'facebook-box'
+    unicode: 'f29b'
+
+  - name: 'facebook-messenger'
+    unicode: 'f29c'
+
+  - name: 'factory'
+    unicode: 'f29d'
+
+  - name: 'fan'
+    unicode: 'f29e'
+
+  - name: 'fast-forward'
+    unicode: 'f29f'
+
+  - name: 'ferry'
+    unicode: 'f2a0'
+
+  - name: 'file'
+    unicode: 'f2a1'
+
+  - name: 'file-cloud'
+    unicode: 'f2a2'
+
+  - name: 'file-delimited'
+    unicode: 'f2a3'
+
+  - name: 'file-document'
+    unicode: 'f2a4'
+
+  - name: 'file-document-box'
+    unicode: 'f2a5'
+
+  - name: 'file-excel'
+    unicode: 'f2a6'
+
+  - name: 'file-excel-box'
+    unicode: 'f2a7'
+
+  - name: 'file-find'
+    unicode: 'f2a8'
+
+  - name: 'file-image'
+    unicode: 'f2a9'
+
+  - name: 'file-image-box'
+    unicode: 'f2aa'
+
+  - name: 'file-music'
+    unicode: 'f2ab'
+
+  - name: 'file-outline'
+    unicode: 'f2ac'
+
+  - name: 'file-pdf'
+    unicode: 'f2ad'
+
+  - name: 'file-pdf-box'
+    unicode: 'f2ae'
+
+  - name: 'file-powerpoint'
+    unicode: 'f2af'
+
+  - name: 'file-powerpoint-box'
+    unicode: 'f2b0'
+
+  - name: 'file-presentation-box'
+    unicode: 'f2b1'
+
+  - name: 'file-video'
+    unicode: 'f2b2'
+
+  - name: 'file-word'
+    unicode: 'f2b3'
+
+  - name: 'file-word-box'
+    unicode: 'f2b4'
+
+  - name: 'file-xml'
+    unicode: 'f2b5'
+
+  - name: 'film'
+    unicode: 'f2b6'
+
+  - name: 'filmstrip'
+    unicode: 'f2b7'
+
+  - name: 'filmstrip-off'
+    unicode: 'f2b8'
+
+  - name: 'filter'
+    unicode: 'f2b9'
+
+  - name: 'filter-outline'
+    unicode: 'f2ba'
+
+  - name: 'filter-remove'
+    unicode: 'f2bb'
+
+  - name: 'filter-remove-outline'
+    unicode: 'f2bc'
+
+  - name: 'filter-variant'
+    unicode: 'f2bd'
+
+  - name: 'fire'
+    unicode: 'f2be'
+
+  - name: 'firefox'
+    unicode: 'f2bf'
+
+  - name: 'fish'
+    unicode: 'f2c0'
+
+  - name: 'flag'
+    unicode: 'f2c1'
+
+  - name: 'flag-checkered'
+    unicode: 'f2c2'
+
+  - name: 'flag-outline'
+    unicode: 'f2c3'
+
+  - name: 'flag-outline-variant'
+    unicode: 'f2c4'
+
+  - name: 'flag-triangle'
+    unicode: 'f2c5'
+
+  - name: 'flag-variant'
+    unicode: 'f2c6'
+
+  - name: 'flash'
+    unicode: 'f2c7'
+
+  - name: 'flash-auto'
+    unicode: 'f2c8'
+
+  - name: 'flash-off'
+    unicode: 'f2c9'
+
+  - name: 'flashlight'
+    unicode: 'f2ca'
+
+  - name: 'flashlight-off'
+    unicode: 'f2cb'
+
+  - name: 'flip-to-back'
+    unicode: 'f2cc'
+
+  - name: 'flip-to-front'
+    unicode: 'f2cd'
+
+  - name: 'floppy'
+    unicode: 'f2ce'
+
+  - name: 'flower'
+    unicode: 'f2cf'
+
+  - name: 'folder'
+    unicode: 'f2d0'
+
+  - name: 'folder-account'
+    unicode: 'f2d1'
+
+  - name: 'folder-download'
+    unicode: 'f2d2'
+
+  - name: 'folder-google-drive'
+    unicode: 'f2d3'
+
+  - name: 'folder-image'
+    unicode: 'f2d4'
+
+  - name: 'folder-lock'
+    unicode: 'f2d5'
+
+  - name: 'folder-lock-open'
+    unicode: 'f2d6'
+
+  - name: 'folder-move'
+    unicode: 'f2d7'
+
+  - name: 'folder-multiple'
+    unicode: 'f2d8'
+
+  - name: 'folder-multiple-image'
+    unicode: 'f2d9'
+
+  - name: 'folder-multiple-outline'
+    unicode: 'f2da'
+
+  - name: 'folder-outline'
+    unicode: 'f2db'
+
+  - name: 'folder-plus'
+    unicode: 'f2dc'
+
+  - name: 'folder-remove'
+    unicode: 'f2dd'
+
+  - name: 'folder-upload'
+    unicode: 'f2de'
+
+  - name: 'food'
+    unicode: 'f2df'
+
+  - name: 'food-apple'
+    unicode: 'f2e0'
+
+  - name: 'food-variant'
+    unicode: 'f2e1'
+
+  - name: 'football'
+    unicode: 'f2e2'
+
+  - name: 'football-helmet'
+    unicode: 'f2e3'
+
+  - name: 'format-align-center'
+    unicode: 'f2e4'
+
+  - name: 'format-align-justify'
+    unicode: 'f2e5'
+
+  - name: 'format-align-left'
+    unicode: 'f2e6'
+
+  - name: 'format-align-right'
+    unicode: 'f2e7'
+
+  - name: 'format-bold'
+    unicode: 'f2e8'
+
+  - name: 'format-clear'
+    unicode: 'f2e9'
+
+  - name: 'format-color-fill'
+    unicode: 'f2ea'
+
+  - name: 'format-header-1'
+    unicode: 'f2eb'
+
+  - name: 'format-header-2'
+    unicode: 'f2ec'
+
+  - name: 'format-header-3'
+    unicode: 'f2ed'
+
+  - name: 'format-header-4'
+    unicode: 'f2ee'
+
+  - name: 'format-header-5'
+    unicode: 'f2ef'
+
+  - name: 'format-header-6'
+    unicode: 'f2f0'
+
+  - name: 'format-header-pound'
+    unicode: 'f2f1'
+
+  - name: 'format-indent-decrease'
+    unicode: 'f2f2'
+
+  - name: 'format-indent-increase'
+    unicode: 'f2f3'
+
+  - name: 'format-italic'
+    unicode: 'f2f4'
+
+  - name: 'format-line-spacing'
+    unicode: 'f2f5'
+
+  - name: 'format-list-bulleted'
+    unicode: 'f2f6'
+
+  - name: 'format-list-numbers'
+    unicode: 'f2f7'
+
+  - name: 'format-paint'
+    unicode: 'f2f8'
+
+  - name: 'format-paragraph'
+    unicode: 'f2f9'
+
+  - name: 'format-quote'
+    unicode: 'f2fa'
+
+  - name: 'format-size'
+    unicode: 'f2fb'
+
+  - name: 'format-strikethrough'
+    unicode: 'f2fc'
+
+  - name: 'format-subscript'
+    unicode: 'f2fd'
+
+  - name: 'format-superscript'
+    unicode: 'f2fe'
+
+  - name: 'format-textdirection-l-to-r'
+    unicode: 'f2ff'
+
+  - name: 'format-textdirection-r-to-l'
+    unicode: 'f300'
+
+  - name: 'format-underline'
+    unicode: 'f301'
+
+  - name: 'forum'
+    unicode: 'f302'
+
+  - name: 'forward'
+    unicode: 'f303'
+
+  - name: 'foursquare'
+    unicode: 'f304'
+
+  - name: 'fridge'
+    unicode: 'f305'
+
+  - name: 'fullscreen'
+    unicode: 'f306'
+
+  - name: 'fullscreen-exit'
+    unicode: 'f307'
+
+  - name: 'function'
+    unicode: 'f308'
+
+  - name: 'gamepad'
+    unicode: 'f309'
+
+  - name: 'gamepad-variant'
+    unicode: 'f30a'
+
+  - name: 'gas-station'
+    unicode: 'f30b'
+
+  - name: 'gavel'
+    unicode: 'f30c'
+
+  - name: 'gender-female'
+    unicode: 'f30d'
+
+  - name: 'gender-male'
+    unicode: 'f30e'
+
+  - name: 'gender-transgender'
+    unicode: 'f30f'
+
+  - name: 'gift'
+    unicode: 'f310'
+
+  - name: 'github-box'
+    unicode: 'f311'
+
+  - name: 'github-circle'
+    unicode: 'f312'
+
+  - name: 'glass-flute'
+    unicode: 'f313'
+
+  - name: 'glass-mug'
+    unicode: 'f314'
+
+  - name: 'glass-stange'
+    unicode: 'f315'
+
+  - name: 'glass-tulip'
+    unicode: 'f316'
+
+  - name: 'gmail'
+    unicode: 'f317'
+
+  - name: 'google'
+    unicode: 'f318'
+
+  - name: 'google-chrome'
+    unicode: 'f319'
+
+  - name: 'google-circles'
+    unicode: 'f31a'
+
+  - name: 'google-circles-communities'
+    unicode: 'f31b'
+
+  - name: 'google-circles-extended'
+    unicode: 'f31c'
+
+  - name: 'google-circles-group'
+    unicode: 'f31d'
+
+  - name: 'google-controller'
+    unicode: 'f31e'
+
+  - name: 'google-controller-off'
+    unicode: 'f31f'
+
+  - name: 'google-drive'
+    unicode: 'f320'
+
+  - name: 'google-earth'
+    unicode: 'f321'
+
+  - name: 'google-glass'
+    unicode: 'f322'
+
+  - name: 'google-maps'
+    unicode: 'f323'
+
+  - name: 'google-pages'
+    unicode: 'f324'
+
+  - name: 'google-play'
+    unicode: 'f325'
+
+  - name: 'google-plus'
+    unicode: 'f326'
+
+  - name: 'google-plus-box'
+    unicode: 'f327'
+
+  - name: 'guitar-pick'
+    unicode: 'f328'
+
+  - name: 'guitar-pick-outline'
+    unicode: 'f329'
+
+  - name: 'hand-pointing-right'
+    unicode: 'f32a'
+
+  - name: 'hanger'
+    unicode: 'f32b'
+
+  - name: 'hangouts'
+    unicode: 'f32c'
+
+  - name: 'harddisk'
+    unicode: 'f32d'
+
+  - name: 'headphones'
+    unicode: 'f32e'
+
+  - name: 'headphones-box'
+    unicode: 'f32f'
+
+  - name: 'headphones-settings'
+    unicode: 'f330'
+
+  - name: 'headset'
+    unicode: 'f331'
+
+  - name: 'headset-dock'
+    unicode: 'f332'
+
+  - name: 'headset-off'
+    unicode: 'f333'
+
+  - name: 'heart'
+    unicode: 'f334'
+
+  - name: 'heart-box'
+    unicode: 'f335'
+
+  - name: 'heart-box-outline'
+    unicode: 'f336'
+
+  - name: 'heart-broken'
+    unicode: 'f337'
+
+  - name: 'heart-outline'
+    unicode: 'f338'
+
+  - name: 'help'
+    unicode: 'f339'
+
+  - name: 'help-circle'
+    unicode: 'f33a'
+
+  - name: 'hexagon'
+    unicode: 'f33b'
+
+  - name: 'hexagon-outline'
+    unicode: 'f33c'
+
+  - name: 'history'
+    unicode: 'f33d'
+
+  - name: 'home'
+    unicode: 'f33e'
+
+  - name: 'home-modern'
+    unicode: 'f33f'
+
+  - name: 'home-variant'
+    unicode: 'f340'
+
+  - name: 'hops'
+    unicode: 'f341'
+
+  - name: 'hospital'
+    unicode: 'f342'
+
+  - name: 'hospital-building'
+    unicode: 'f343'
+
+  - name: 'hospital-marker'
+    unicode: 'f344'
+
+  - name: 'hotel'
+    unicode: 'f345'
+
+  - name: 'houzz'
+    unicode: 'f346'
+
+  - name: 'houzz-box'
+    unicode: 'f347'
+
+  - name: 'human'
+    unicode: 'f348'
+
+  - name: 'human-child'
+    unicode: 'f349'
+
+  - name: 'human-male-female'
+    unicode: 'f34a'
+
+  - name: 'image-album'
+    unicode: 'f34b'
+
+  - name: 'image-area'
+    unicode: 'f34c'
+
+  - name: 'image-area-close'
+    unicode: 'f34d'
+
+  - name: 'image-broken'
+    unicode: 'f34e'
+
+  - name: 'image-filter'
+    unicode: 'f34f'
+
+  - name: 'image-filter-black-white'
+    unicode: 'f350'
+
+  - name: 'image-filter-center-focus'
+    unicode: 'f351'
+
+  - name: 'image-filter-drama'
+    unicode: 'f352'
+
+  - name: 'image-filter-frames'
+    unicode: 'f353'
+
+  - name: 'image-filter-hdr'
+    unicode: 'f354'
+
+  - name: 'image-filter-none'
+    unicode: 'f355'
+
+  - name: 'image-filter-tilt-shift'
+    unicode: 'f356'
+
+  - name: 'image-filter-vintage'
+    unicode: 'f357'
+
+  - name: 'inbox'
+    unicode: 'f358'
+
+  - name: 'information'
+    unicode: 'f359'
+
+  - name: 'information-outline'
+    unicode: 'f35a'
+
+  - name: 'instagram'
+    unicode: 'f35b'
+
+  - name: 'instapaper'
+    unicode: 'f35c'
+
+  - name: 'internet-explorer'
+    unicode: 'f35d'
+
+  - name: 'invert-colors'
+    unicode: 'f35e'
+
+  - name: 'jira'
+    unicode: 'f35f'
+
+  - name: 'keg'
+    unicode: 'f360'
+
+  - name: 'key'
+    unicode: 'f361'
+
+  - name: 'key-change'
+    unicode: 'f362'
+
+  - name: 'key-minus'
+    unicode: 'f363'
+
+  - name: 'key-plus'
+    unicode: 'f364'
+
+  - name: 'key-remove'
+    unicode: 'f365'
+
+  - name: 'key-variant'
+    unicode: 'f366'
+
+  - name: 'keyboard'
+    unicode: 'f367'
+
+  - name: 'keyboard-backspace'
+    unicode: 'f368'
+
+  - name: 'keyboard-caps'
+    unicode: 'f369'
+
+  - name: 'keyboard-close'
+    unicode: 'f36a'
+
+  - name: 'keyboard-off'
+    unicode: 'f36b'
+
+  - name: 'keyboard-return'
+    unicode: 'f36c'
+
+  - name: 'keyboard-tab'
+    unicode: 'f36d'
+
+  - name: 'label'
+    unicode: 'f36e'
+
+  - name: 'label-outline'
+    unicode: 'f36f'
+
+  - name: 'language-csharp'
+    unicode: 'f370'
+
+  - name: 'language-css3'
+    unicode: 'f371'
+
+  - name: 'language-html5'
+    unicode: 'f372'
+
+  - name: 'language-javascript'
+    unicode: 'f373'
+
+  - name: 'language-python'
+    unicode: 'f374'
+
+  - name: 'language-python-text'
+    unicode: 'f375'
+
+  - name: 'laptop'
+    unicode: 'f376'
+
+  - name: 'laptop-chromebook'
+    unicode: 'f377'
+
+  - name: 'laptop-mac'
+    unicode: 'f378'
+
+  - name: 'laptop-windows'
+    unicode: 'f379'
+
+  - name: 'lastfm'
+    unicode: 'f37a'
+
+  - name: 'launch'
+    unicode: 'f37b'
+
+  - name: 'layers'
+    unicode: 'f37c'
+
+  - name: 'layers-off'
+    unicode: 'f37d'
+
+  - name: 'leaf'
+    unicode: 'f37e'
+
+  - name: 'library'
+    unicode: 'f37f'
+
+  - name: 'library-books'
+    unicode: 'f380'
+
+  - name: 'library-music'
+    unicode: 'f381'
+
+  - name: 'library-plus'
+    unicode: 'f382'
+
+  - name: 'lightbulb'
+    unicode: 'f383'
+
+  - name: 'lightbulb-outline'
+    unicode: 'f384'
+
+  - name: 'link'
+    unicode: 'f385'
+
+  - name: 'link-variant'
+    unicode: 'f386'
+
+  - name: 'linkedin'
+    unicode: 'f387'
+
+  - name: 'linkedin-box'
+    unicode: 'f388'
+
+  - name: 'linux'
+    unicode: 'f389'
+
+  - name: 'lock'
+    unicode: 'f38a'
+
+  - name: 'lock-open'
+    unicode: 'f38b'
+
+  - name: 'lock-open-outline'
+    unicode: 'f38c'
+
+  - name: 'lock-outline'
+    unicode: 'f38d'
+
+  - name: 'login'
+    unicode: 'f38e'
+
+  - name: 'logout'
+    unicode: 'f38f'
+
+  - name: 'looks'
+    unicode: 'f390'
+
+  - name: 'loupe'
+    unicode: 'f391'
+
+  - name: 'lumx'
+    unicode: 'f392'
+
+  - name: 'magnify'
+    unicode: 'f393'
+
+  - name: 'magnify-minus'
+    unicode: 'f394'
+
+  - name: 'magnify-plus'
+    unicode: 'f395'
+
+  - name: 'map'
+    unicode: 'f396'
+
+  - name: 'map-marker'
+    unicode: 'f397'
+
+  - name: 'map-marker-circle'
+    unicode: 'f398'
+
+  - name: 'map-marker-multiple'
+    unicode: 'f399'
+
+  - name: 'map-marker-off'
+    unicode: 'f39a'
+
+  - name: 'map-marker-radius'
+    unicode: 'f39b'
+
+  - name: 'margin'
+    unicode: 'f39c'
+
+  - name: 'markdown'
+    unicode: 'f39d'
+
+  - name: 'marker-check'
+    unicode: 'f39e'
+
+  - name: 'martini'
+    unicode: 'f39f'
+
+  - name: 'material-ui'
+    unicode: 'f3a0'
+
+  - name: 'math-compass'
+    unicode: 'f3a1'
+
+  - name: 'memory'
+    unicode: 'f3a2'
+
+  - name: 'menu'
+    unicode: 'f3a3'
+
+  - name: 'menu-down'
+    unicode: 'f3a4'
+
+  - name: 'menu-left'
+    unicode: 'f3a5'
+
+  - name: 'menu-right'
+    unicode: 'f3a6'
+
+  - name: 'menu-up'
+    unicode: 'f3a7'
+
+  - name: 'message'
+    unicode: 'f3a8'
+
+  - name: 'message-alert'
+    unicode: 'f3a9'
+
+  - name: 'message-draw'
+    unicode: 'f3aa'
+
+  - name: 'message-image'
+    unicode: 'f3ab'
+
+  - name: 'message-processing'
+    unicode: 'f3ac'
+
+  - name: 'message-reply'
+    unicode: 'f3ad'
+
+  - name: 'message-text'
+    unicode: 'f3ae'
+
+  - name: 'message-text-outline'
+    unicode: 'f3af'
+
+  - name: 'message-video'
+    unicode: 'f3b0'
+
+  - name: 'microphone'
+    unicode: 'f3b1'
+
+  - name: 'microphone-off'
+    unicode: 'f3b2'
+
+  - name: 'microphone-outline'
+    unicode: 'f3b3'
+
+  - name: 'microphone-settings'
+    unicode: 'f3b4'
+
+  - name: 'microphone-variant'
+    unicode: 'f3b5'
+
+  - name: 'microphone-variant-off'
+    unicode: 'f3b6'
+
+  - name: 'minus'
+    unicode: 'f3b7'
+
+  - name: 'minus-box'
+    unicode: 'f3b8'
+
+  - name: 'minus-circle'
+    unicode: 'f3b9'
+
+  - name: 'minus-circle-outline'
+    unicode: 'f3ba'
+
+  - name: 'minus-network'
+    unicode: 'f3bb'
+
+  - name: 'monitor'
+    unicode: 'f3bc'
+
+  - name: 'monitor-multiple'
+    unicode: 'f3bd'
+
+  - name: 'more'
+    unicode: 'f3be'
+
+  - name: 'motorbike'
+    unicode: 'f3bf'
+
+  - name: 'mouse'
+    unicode: 'f3c0'
+
+  - name: 'mouse-off'
+    unicode: 'f3c1'
+
+  - name: 'mouse-variant'
+    unicode: 'f3c2'
+
+  - name: 'mouse-variant-off'
+    unicode: 'f3c3'
+
+  - name: 'movie'
+    unicode: 'f3c4'
+
+  - name: 'multiplication'
+    unicode: 'f3c5'
+
+  - name: 'multiplication-box'
+    unicode: 'f3c6'
+
+  - name: 'music-box'
+    unicode: 'f3c7'
+
+  - name: 'music-box-outline'
+    unicode: 'f3c8'
+
+  - name: 'music-circle'
+    unicode: 'f3c9'
+
+  - name: 'music-note'
+    unicode: 'f3ca'
+
+  - name: 'music-note-eighth'
+    unicode: 'f3cb'
+
+  - name: 'music-note-half'
+    unicode: 'f3cc'
+
+  - name: 'music-note-off'
+    unicode: 'f3cd'
+
+  - name: 'music-note-quarter'
+    unicode: 'f3ce'
+
+  - name: 'music-note-sixteenth'
+    unicode: 'f3cf'
+
+  - name: 'music-note-whole'
+    unicode: 'f3d0'
+
+  - name: 'nature'
+    unicode: 'f3d1'
+
+  - name: 'nature-people'
+    unicode: 'f3d2'
+
+  - name: 'navigation'
+    unicode: 'f3d3'
+
+  - name: 'needle'
+    unicode: 'f3d4'
+
+  - name: 'nest-protect'
+    unicode: 'f3d5'
+
+  - name: 'nest-thermostat'
+    unicode: 'f3d6'
+
+  - name: 'newspaper'
+    unicode: 'f3d7'
+
+  - name: 'nfc'
+    unicode: 'f3d8'
+
+  - name: 'nfc-tap'
+    unicode: 'f3d9'
+
+  - name: 'nfc-variant'
+    unicode: 'f3da'
+
+  - name: 'numeric'
+    unicode: 'f3db'
+
+  - name: 'numeric-0-box'
+    unicode: 'f3dc'
+
+  - name: 'numeric-0-box-multiple-outline'
+    unicode: 'f3dd'
+
+  - name: 'numeric-0-box-outline'
+    unicode: 'f3de'
+
+  - name: 'numeric-1-box'
+    unicode: 'f3df'
+
+  - name: 'numeric-1-box-multiple-outline'
+    unicode: 'f3e0'
+
+  - name: 'numeric-1-box-outline'
+    unicode: 'f3e1'
+
+  - name: 'numeric-2-box'
+    unicode: 'f3e2'
+
+  - name: 'numeric-2-box-multiple-outline'
+    unicode: 'f3e3'
+
+  - name: 'numeric-2-box-outline'
+    unicode: 'f3e4'
+
+  - name: 'numeric-3-box'
+    unicode: 'f3e5'
+
+  - name: 'numeric-3-box-multiple-outline'
+    unicode: 'f3e6'
+
+  - name: 'numeric-3-box-outline'
+    unicode: 'f3e7'
+
+  - name: 'numeric-4-box'
+    unicode: 'f3e8'
+
+  - name: 'numeric-4-box-multiple-outline'
+    unicode: 'f3e9'
+
+  - name: 'numeric-4-box-outline'
+    unicode: 'f3ea'
+
+  - name: 'numeric-5-box'
+    unicode: 'f3eb'
+
+  - name: 'numeric-5-box-multiple-outline'
+    unicode: 'f3ec'
+
+  - name: 'numeric-5-box-outline'
+    unicode: 'f3ed'
+
+  - name: 'numeric-6-box'
+    unicode: 'f3ee'
+
+  - name: 'numeric-6-box-multiple-outline'
+    unicode: 'f3ef'
+
+  - name: 'numeric-6-box-outline'
+    unicode: 'f3f0'
+
+  - name: 'numeric-7-box'
+    unicode: 'f3f1'
+
+  - name: 'numeric-7-box-multiple-outline'
+    unicode: 'f3f2'
+
+  - name: 'numeric-7-box-outline'
+    unicode: 'f3f3'
+
+  - name: 'numeric-8-box'
+    unicode: 'f3f4'
+
+  - name: 'numeric-8-box-multiple-outline'
+    unicode: 'f3f5'
+
+  - name: 'numeric-8-box-outline'
+    unicode: 'f3f6'
+
+  - name: 'numeric-9-box'
+    unicode: 'f3f7'
+
+  - name: 'numeric-9-box-multiple-outline'
+    unicode: 'f3f8'
+
+  - name: 'numeric-9-box-outline'
+    unicode: 'f3f9'
+
+  - name: 'numeric-9-plus-box'
+    unicode: 'f3fa'
+
+  - name: 'numeric-9-plus-box-multiple-outline'
+    unicode: 'f3fb'
+
+  - name: 'numeric-9-plus-box-outline'
+    unicode: 'f3fc'
+
+  - name: 'nutriton'
+    unicode: 'f3fd'
+
+  - name: 'office'
+    unicode: 'f3fe'
+
+  - name: 'oil'
+    unicode: 'f3ff'
+
+  - name: 'omega'
+    unicode: 'f400'
+
+  - name: 'onedrive'
+    unicode: 'f401'
+
+  - name: 'open-in-app'
+    unicode: 'f402'
+
+  - name: 'open-in-new'
+    unicode: 'f403'
+
+  - name: 'ornament'
+    unicode: 'f404'
+
+  - name: 'ornament-variant'
+    unicode: 'f405'
+
+  - name: 'outbox'
+    unicode: 'f406'
+
+  - name: 'package'
+    unicode: 'f407'
+
+  - name: 'package-down'
+    unicode: 'f408'
+
+  - name: 'package-up'
+    unicode: 'f409'
+
+  - name: 'package-variant'
+    unicode: 'f40a'
+
+  - name: 'package-variant-closed'
+    unicode: 'f40b'
+
+  - name: 'palette'
+    unicode: 'f40c'
+
+  - name: 'palette-advanced'
+    unicode: 'f40d'
+
+  - name: 'panda'
+    unicode: 'f40e'
+
+  - name: 'pandora'
+    unicode: 'f40f'
+
+  - name: 'panorama'
+    unicode: 'f410'
+
+  - name: 'panorama-fisheye'
+    unicode: 'f411'
+
+  - name: 'panorama-horizontal'
+    unicode: 'f412'
+
+  - name: 'panorama-vertical'
+    unicode: 'f413'
+
+  - name: 'panorama-wide-angle'
+    unicode: 'f414'
+
+  - name: 'paper-cut-vertical'
+    unicode: 'f415'
+
+  - name: 'paperclip'
+    unicode: 'f416'
+
+  - name: 'parking'
+    unicode: 'f417'
+
+  - name: 'pause'
+    unicode: 'f418'
+
+  - name: 'pause-circle'
+    unicode: 'f419'
+
+  - name: 'pause-circle-outline'
+    unicode: 'f41a'
+
+  - name: 'pause-octagon'
+    unicode: 'f41b'
+
+  - name: 'pause-octagon-outline'
+    unicode: 'f41c'
+
+  - name: 'pen'
+    unicode: 'f41d'
+
+  - name: 'pencil'
+    unicode: 'f41e'
+
+  - name: 'pencil-box'
+    unicode: 'f41f'
+
+  - name: 'pencil-box-outline'
+    unicode: 'f420'
+
+  - name: 'pharmacy'
+    unicode: 'f421'
+
+  - name: 'phone'
+    unicode: 'f422'
+
+  - name: 'phone-bluetooth'
+    unicode: 'f423'
+
+  - name: 'phone-forward'
+    unicode: 'f424'
+
+  - name: 'phone-hangup'
+    unicode: 'f425'
+
+  - name: 'phone-in-talk'
+    unicode: 'f426'
+
+  - name: 'phone-locked'
+    unicode: 'f427'
+
+  - name: 'phone-missed'
+    unicode: 'f428'
+
+  - name: 'phone-paused'
+    unicode: 'f429'
+
+  - name: 'phone-settings'
+    unicode: 'f42a'
+
+  - name: 'pig'
+    unicode: 'f42b'
+
+  - name: 'pill'
+    unicode: 'f42c'
+
+  - name: 'pin'
+    unicode: 'f42d'
+
+  - name: 'pin-off'
+    unicode: 'f42e'
+
+  - name: 'pine-tree'
+    unicode: 'f42f'
+
+  - name: 'pine-tree-box'
+    unicode: 'f430'
+
+  - name: 'pinterest'
+    unicode: 'f431'
+
+  - name: 'pinterest-box'
+    unicode: 'f432'
+
+  - name: 'pizza'
+    unicode: 'f433'
+
+  - name: 'play'
+    unicode: 'f434'
+
+  - name: 'play-box-outline'
+    unicode: 'f435'
+
+  - name: 'play-circle'
+    unicode: 'f436'
+
+  - name: 'play-circle-outline'
+    unicode: 'f437'
+
+  - name: 'playlist-minus'
+    unicode: 'f438'
+
+  - name: 'playlist-plus'
+    unicode: 'f439'
+
+  - name: 'plus'
+    unicode: 'f43a'
+
+  - name: 'plus-box'
+    unicode: 'f43b'
+
+  - name: 'plus-circle'
+    unicode: 'f43c'
+
+  - name: 'plus-circle-outline'
+    unicode: 'f43d'
+
+  - name: 'plus-network'
+    unicode: 'f43e'
+
+  - name: 'plus-one'
+    unicode: 'f43f'
+
+  - name: 'pocket'
+    unicode: 'f440'
+
+  - name: 'poll'
+    unicode: 'f441'
+
+  - name: 'poll-box'
+    unicode: 'f442'
+
+  - name: 'polymer'
+    unicode: 'f443'
+
+  - name: 'popcorn'
+    unicode: 'f444'
+
+  - name: 'pound'
+    unicode: 'f445'
+
+  - name: 'pound-box'
+    unicode: 'f446'
+
+  - name: 'power'
+    unicode: 'f447'
+
+  - name: 'power-settings'
+    unicode: 'f448'
+
+  - name: 'presentation'
+    unicode: 'f449'
+
+  - name: 'presentation-play'
+    unicode: 'f44a'
+
+  - name: 'printer'
+    unicode: 'f44b'
+
+  - name: 'printer-3d'
+    unicode: 'f44c'
+
+  - name: 'pulse'
+    unicode: 'f44d'
+
+  - name: 'puzzle'
+    unicode: 'f44e'
+
+  - name: 'qrcode'
+    unicode: 'f44f'
+
+  - name: 'quadcopter'
+    unicode: 'f450'
+
+  - name: 'quality-high'
+    unicode: 'f451'
+
+  - name: 'quicktime'
+    unicode: 'f452'
+
+  - name: 'radiator'
+    unicode: 'f453'
+
+  - name: 'radioactive'
+    unicode: 'f454'
+
+  - name: 'radiobox-blank'
+    unicode: 'f455'
+
+  - name: 'radiobox-marked'
+    unicode: 'f456'
+
+  - name: 'rdio'
+    unicode: 'f457'
+
+  - name: 'read'
+    unicode: 'f458'
+
+  - name: 'readability'
+    unicode: 'f459'
+
+  - name: 'receipt'
+    unicode: 'f45a'
+
+  - name: 'recycle'
+    unicode: 'f45b'
+
+  - name: 'redo'
+    unicode: 'f45c'
+
+  - name: 'redo-variant'
+    unicode: 'f45d'
+
+  - name: 'refresh'
+    unicode: 'f45e'
+
+  - name: 'relative-scale'
+    unicode: 'f45f'
+
+  - name: 'reload'
+    unicode: 'f460'
+
+  - name: 'remote'
+    unicode: 'f461'
+
+  - name: 'rename-box'
+    unicode: 'f462'
+
+  - name: 'repeat'
+    unicode: 'f463'
+
+  - name: 'repeat-off'
+    unicode: 'f464'
+
+  - name: 'repeat-once'
+    unicode: 'f465'
+
+  - name: 'replay'
+    unicode: 'f466'
+
+  - name: 'reply'
+    unicode: 'f467'
+
+  - name: 'reply-all'
+    unicode: 'f468'
+
+  - name: 'reproduction'
+    unicode: 'f469'
+
+  - name: 'resize-bottom-right'
+    unicode: 'f46a'
+
+  - name: 'responsive'
+    unicode: 'f46b'
+
+  - name: 'rewind'
+    unicode: 'f46c'
+
+  - name: 'ribbon'
+    unicode: 'f46d'
+
+  - name: 'rocket'
+    unicode: 'f46e'
+
+  - name: 'rotate-3d'
+    unicode: 'f46f'
+
+  - name: 'rotate-left'
+    unicode: 'f470'
+
+  - name: 'rotate-left-variant'
+    unicode: 'f471'
+
+  - name: 'rotate-right'
+    unicode: 'f472'
+
+  - name: 'rotate-right-variant'
+    unicode: 'f473'
+
+  - name: 'routes'
+    unicode: 'f474'
+
+  - name: 'rss'
+    unicode: 'f475'
+
+  - name: 'rss-box'
+    unicode: 'f476'
+
+  - name: 'ruler'
+    unicode: 'f477'
+
+  - name: 'run'
+    unicode: 'f478'
+
+  - name: 'satellite'
+    unicode: 'f479'
+
+  - name: 'satellite-variant'
+    unicode: 'f47a'
+
+  - name: 'scale'
+    unicode: 'f47b'
+
+  - name: 'scale-bathroom'
+    unicode: 'f47c'
+
+  - name: 'school'
+    unicode: 'f47d'
+
+  - name: 'screen-rotation'
+    unicode: 'f47e'
+
+  - name: 'screen-rotation-lock'
+    unicode: 'f47f'
+
+  - name: 'script'
+    unicode: 'f480'
+
+  - name: 'sd'
+    unicode: 'f481'
+
+  - name: 'security'
+    unicode: 'f482'
+
+  - name: 'security-network'
+    unicode: 'f483'
+
+  - name: 'select'
+    unicode: 'f484'
+
+  - name: 'select-all'
+    unicode: 'f485'
+
+  - name: 'select-inverse'
+    unicode: 'f486'
+
+  - name: 'select-off'
+    unicode: 'f487'
+
+  - name: 'send'
+    unicode: 'f488'
+
+  - name: 'server'
+    unicode: 'f489'
+
+  - name: 'server-minus'
+    unicode: 'f48a'
+
+  - name: 'server-network'
+    unicode: 'f48b'
+
+  - name: 'server-network-off'
+    unicode: 'f48c'
+
+  - name: 'server-off'
+    unicode: 'f48d'
+
+  - name: 'server-plus'
+    unicode: 'f48e'
+
+  - name: 'server-remove'
+    unicode: 'f48f'
+
+  - name: 'server-security'
+    unicode: 'f490'
+
+  - name: 'settings'
+    unicode: 'f491'
+
+  - name: 'settings-box'
+    unicode: 'f492'
+
+  - name: 'shape-plus'
+    unicode: 'f493'
+
+  - name: 'share'
+    unicode: 'f494'
+
+  - name: 'share-variant'
+    unicode: 'f495'
+
+  - name: 'shopping'
+    unicode: 'f496'
+
+  - name: 'shopping-music'
+    unicode: 'f497'
+
+  - name: 'shuffle'
+    unicode: 'f498'
+
+  - name: 'sigma'
+    unicode: 'f499'
+
+  - name: 'sign-caution'
+    unicode: 'f49a'
+
+  - name: 'silverware'
+    unicode: 'f49b'
+
+  - name: 'silverware-fork'
+    unicode: 'f49c'
+
+  - name: 'silverware-spoon'
+    unicode: 'f49d'
+
+  - name: 'silverware-variant'
+    unicode: 'f49e'
+
+  - name: 'sim-alert'
+    unicode: 'f49f'
+
+  - name: 'skip-next'
+    unicode: 'f4a0'
+
+  - name: 'skip-previous'
+    unicode: 'f4a1'
+
+  - name: 'snowman'
+    unicode: 'f4a2'
+
+  - name: 'sort'
+    unicode: 'f4a3'
+
+  - name: 'sort-alphabetical'
+    unicode: 'f4a4'
+
+  - name: 'sort-ascending'
+    unicode: 'f4a5'
+
+  - name: 'sort-descending'
+    unicode: 'f4a6'
+
+  - name: 'sort-numeric'
+    unicode: 'f4a7'
+
+  - name: 'sort-variant'
+    unicode: 'f4a8'
+
+  - name: 'soundcloud'
+    unicode: 'f4a9'
+
+  - name: 'source-fork'
+    unicode: 'f4aa'
+
+  - name: 'source-pull'
+    unicode: 'f4ab'
+
+  - name: 'speaker'
+    unicode: 'f4ac'
+
+  - name: 'speaker-off'
+    unicode: 'f4ad'
+
+  - name: 'speedometer'
+    unicode: 'f4ae'
+
+  - name: 'spellcheck'
+    unicode: 'f4af'
+
+  - name: 'spotify'
+    unicode: 'f4b0'
+
+  - name: 'spotlight'
+    unicode: 'f4b1'
+
+  - name: 'spotlight-beam'
+    unicode: 'f4b2'
+
+  - name: 'stackoverflow'
+    unicode: 'f4b3'
+
+  - name: 'star'
+    unicode: 'f4b4'
+
+  - name: 'star-circle'
+    unicode: 'f4b5'
+
+  - name: 'star-half'
+    unicode: 'f4b6'
+
+  - name: 'star-outline'
+    unicode: 'f4b7'
+
+  - name: 'stocking'
+    unicode: 'f4b8'
+
+  - name: 'stop'
+    unicode: 'f4b9'
+
+  - name: 'store'
+    unicode: 'f4ba'
+
+  - name: 'store-24-hour'
+    unicode: 'f4bb'
+
+  - name: 'stove'
+    unicode: 'f4bc'
+
+  - name: 'subway'
+    unicode: 'f4bd'
+
+  - name: 'swap-horizontal'
+    unicode: 'f4be'
+
+  - name: 'swap-vertical'
+    unicode: 'f4bf'
+
+  - name: 'swim'
+    unicode: 'f4c0'
+
+  - name: 'sword'
+    unicode: 'f4c1'
+
+  - name: 'sync'
+    unicode: 'f4c2'
+
+  - name: 'sync-alert'
+    unicode: 'f4c3'
+
+  - name: 'sync-off'
+    unicode: 'f4c4'
+
+  - name: 'tab'
+    unicode: 'f4c5'
+
+  - name: 'tab-unselected'
+    unicode: 'f4c6'
+
+  - name: 'table'
+    unicode: 'f4c7'
+
+  - name: 'table-column-plus-after'
+    unicode: 'f4c8'
+
+  - name: 'table-column-plus-before'
+    unicode: 'f4c9'
+
+  - name: 'table-column-remove'
+    unicode: 'f4ca'
+
+  - name: 'table-column-width'
+    unicode: 'f4cb'
+
+  - name: 'table-edit'
+    unicode: 'f4cc'
+
+  - name: 'table-large'
+    unicode: 'f4cd'
+
+  - name: 'table-row-height'
+    unicode: 'f4ce'
+
+  - name: 'table-row-plus-after'
+    unicode: 'f4cf'
+
+  - name: 'table-row-plus-before'
+    unicode: 'f4d0'
+
+  - name: 'table-row-remove'
+    unicode: 'f4d1'
+
+  - name: 'tablet'
+    unicode: 'f4d2'
+
+  - name: 'tablet-android'
+    unicode: 'f4d3'
+
+  - name: 'tablet-ipad'
+    unicode: 'f4d4'
+
+  - name: 'tag'
+    unicode: 'f4d5'
+
+  - name: 'tag-faces'
+    unicode: 'f4d6'
+
+  - name: 'tag-outline'
+    unicode: 'f4d7'
+
+  - name: 'tag-text-outline'
+    unicode: 'f4d8'
+
+  - name: 'taxi'
+    unicode: 'f4d9'
+
+  - name: 'television'
+    unicode: 'f4da'
+
+  - name: 'television-guide'
+    unicode: 'f4db'
+
+  - name: 'temperature-celsius'
+    unicode: 'f4dc'
+
+  - name: 'temperature-fahrenheit'
+    unicode: 'f4dd'
+
+  - name: 'temperature-kelvin'
+    unicode: 'f4de'
+
+  - name: 'tent'
+    unicode: 'f4df'
+
+  - name: 'terrain'
+    unicode: 'f4e0'
+
+  - name: 'text-to-speech'
+    unicode: 'f4e1'
+
+  - name: 'text-to-speech-off'
+    unicode: 'f4e2'
+
+  - name: 'texture'
+    unicode: 'f4e3'
+
+  - name: 'theater'
+    unicode: 'f4e4'
+
+  - name: 'theme-light-dark'
+    unicode: 'f4e5'
+
+  - name: 'thermometer'
+    unicode: 'f4e6'
+
+  - name: 'thermometer-lines'
+    unicode: 'f4e7'
+
+  - name: 'thumb-down'
+    unicode: 'f4e8'
+
+  - name: 'thumb-down-outline'
+    unicode: 'f4e9'
+
+  - name: 'thumb-up'
+    unicode: 'f4ea'
+
+  - name: 'thumb-up-outline'
+    unicode: 'f4eb'
+
+  - name: 'thumbs-up-down'
+    unicode: 'f4ec'
+
+  - name: 'ticket'
+    unicode: 'f4ed'
+
+  - name: 'ticket-account'
+    unicode: 'f4ee'
+
+  - name: 'tie'
+    unicode: 'f4ef'
+
+  - name: 'timelapse'
+    unicode: 'f4f0'
+
+  - name: 'timer'
+    unicode: 'f4f1'
+
+  - name: 'timer-10'
+    unicode: 'f4f2'
+
+  - name: 'timer-3'
+    unicode: 'f4f3'
+
+  - name: 'timer-off'
+    unicode: 'f4f4'
+
+  - name: 'timer-sand'
+    unicode: 'f4f5'
+
+  - name: 'timetable'
+    unicode: 'f4f6'
+
+  - name: 'toggle-switch'
+    unicode: 'f4f7'
+
+  - name: 'toggle-switch-off'
+    unicode: 'f4f8'
+
+  - name: 'tooltip'
+    unicode: 'f4f9'
+
+  - name: 'tooltip-edit'
+    unicode: 'f4fa'
+
+  - name: 'tooltip-image'
+    unicode: 'f4fb'
+
+  - name: 'tooltip-outline'
+    unicode: 'f4fc'
+
+  - name: 'tooltip-outline-plus'
+    unicode: 'f4fd'
+
+  - name: 'tooltip-text'
+    unicode: 'f4fe'
+
+  - name: 'tor'
+    unicode: 'f4ff'
+
+  - name: 'traffic-light'
+    unicode: 'f500'
+
+  - name: 'train'
+    unicode: 'f501'
+
+  - name: 'tram'
+    unicode: 'f502'
+
+  - name: 'transcribe'
+    unicode: 'f503'
+
+  - name: 'transcribe-close'
+    unicode: 'f504'
+
+  - name: 'transfer'
+    unicode: 'f505'
+
+  - name: 'tree'
+    unicode: 'f506'
+
+  - name: 'trello'
+    unicode: 'f507'
+
+  - name: 'trending-down'
+    unicode: 'f508'
+
+  - name: 'trending-neutral'
+    unicode: 'f509'
+
+  - name: 'trending-up'
+    unicode: 'f50a'
+
+  - name: 'trophy'
+    unicode: 'f50b'
+
+  - name: 'trophy-award'
+    unicode: 'f50c'
+
+  - name: 'trophy-variant'
+    unicode: 'f50d'
+
+  - name: 'truck'
+    unicode: 'f50e'
+
+  - name: 'tshirt-crew'
+    unicode: 'f50f'
+
+  - name: 'tshirt-v'
+    unicode: 'f510'
+
+  - name: 'tumblr'
+    unicode: 'f511'
+
+  - name: 'tumblr-reblog'
+    unicode: 'f512'
+
+  - name: 'twitch'
+    unicode: 'f513'
+
+  - name: 'twitter'
+    unicode: 'f514'
+
+  - name: 'twitter-box'
+    unicode: 'f515'
+
+  - name: 'twitter-retweet'
+    unicode: 'f516'
+
+  - name: 'ubuntu'
+    unicode: 'f517'
+
+  - name: 'undo'
+    unicode: 'f518'
+
+  - name: 'undo-variant'
+    unicode: 'f519'
+
+  - name: 'unfold-less'
+    unicode: 'f51a'
+
+  - name: 'unfold-more'
+    unicode: 'f51b'
+
+  - name: 'untappd'
+    unicode: 'f51c'
+
+  - name: 'upload'
+    unicode: 'f51d'
+
+  - name: 'usb'
+    unicode: 'f51e'
+
+  - name: 'vector-curve'
+    unicode: 'f51f'
+
+  - name: 'vector-point'
+    unicode: 'f520'
+
+  - name: 'vector-square'
+    unicode: 'f521'
+
+  - name: 'verified'
+    unicode: 'f522'
+
+  - name: 'vibrate'
+    unicode: 'f523'
+
+  - name: 'video'
+    unicode: 'f524'
+
+  - name: 'video-off'
+    unicode: 'f525'
+
+  - name: 'video-switch'
+    unicode: 'f526'
+
+  - name: 'view-agenda'
+    unicode: 'f527'
+
+  - name: 'view-array'
+    unicode: 'f528'
+
+  - name: 'view-carousel'
+    unicode: 'f529'
+
+  - name: 'view-column'
+    unicode: 'f52a'
+
+  - name: 'view-dashboard'
+    unicode: 'f52b'
+
+  - name: 'view-day'
+    unicode: 'f52c'
+
+  - name: 'view-headline'
+    unicode: 'f52d'
+
+  - name: 'view-list'
+    unicode: 'f52e'
+
+  - name: 'view-module'
+    unicode: 'f52f'
+
+  - name: 'view-quilt'
+    unicode: 'f530'
+
+  - name: 'view-stream'
+    unicode: 'f531'
+
+  - name: 'view-week'
+    unicode: 'f532'
+
+  - name: 'vimeo'
+    unicode: 'f533'
+
+  - name: 'vk'
+    unicode: 'f534'
+
+  - name: 'voicemail'
+    unicode: 'f535'
+
+  - name: 'volume-high'
+    unicode: 'f536'
+
+  - name: 'volume-low'
+    unicode: 'f537'
+
+  - name: 'volume-medium'
+    unicode: 'f538'
+
+  - name: 'volume-off'
+    unicode: 'f539'
+
+  - name: 'walk'
+    unicode: 'f53a'
+
+  - name: 'wallet'
+    unicode: 'f53b'
+
+  - name: 'wallet-giftcard'
+    unicode: 'f53c'
+
+  - name: 'wallet-membership'
+    unicode: 'f53d'
+
+  - name: 'wallet-travel'
+    unicode: 'f53e'
+
+  - name: 'watch'
+    unicode: 'f53f'
+
+  - name: 'watch-export'
+    unicode: 'f540'
+
+  - name: 'watch-import'
+    unicode: 'f541'
+
+  - name: 'water'
+    unicode: 'f542'
+
+  - name: 'water-off'
+    unicode: 'f543'
+
+  - name: 'water-pump'
+    unicode: 'f544'
+
+  - name: 'weather-cloudy'
+    unicode: 'f545'
+
+  - name: 'weather-hail'
+    unicode: 'f546'
+
+  - name: 'weather-lightning'
+    unicode: 'f547'
+
+  - name: 'weather-night'
+    unicode: 'f548'
+
+  - name: 'weather-partlycloudy'
+    unicode: 'f549'
+
+  - name: 'weather-pouring'
+    unicode: 'f54a'
+
+  - name: 'weather-rainy'
+    unicode: 'f54b'
+
+  - name: 'weather-snowy'
+    unicode: 'f54c'
+
+  - name: 'weather-sunny'
+    unicode: 'f54d'
+
+  - name: 'weather-sunset'
+    unicode: 'f54e'
+
+  - name: 'weather-sunset-down'
+    unicode: 'f54f'
+
+  - name: 'weather-sunset-up'
+    unicode: 'f550'
+
+  - name: 'weather-windy'
+    unicode: 'f551'
+
+  - name: 'weather-windy-variant'
+    unicode: 'f552'
+
+  - name: 'web'
+    unicode: 'f553'
+
+  - name: 'webcam'
+    unicode: 'f554'
+
+  - name: 'weight'
+    unicode: 'f555'
+
+  - name: 'weight-kilogram'
+    unicode: 'f556'
+
+  - name: 'whatsapp'
+    unicode: 'f557'
+
+  - name: 'wheelchair-accessibility'
+    unicode: 'f558'
+
+  - name: 'white-balance-auto'
+    unicode: 'f559'
+
+  - name: 'white-balance-incandescent'
+    unicode: 'f55a'
+
+  - name: 'white-balance-irradescent'
+    unicode: 'f55b'
+
+  - name: 'white-balance-sunny'
+    unicode: 'f55c'
+
+  - name: 'wifi'
+    unicode: 'f55d'
+
+  - name: 'wikipedia'
+    unicode: 'f55e'
+
+  - name: 'window-close'
+    unicode: 'f55f'
+
+  - name: 'window-closed'
+    unicode: 'f560'
+
+  - name: 'window-maximize'
+    unicode: 'f561'
+
+  - name: 'window-minimize'
+    unicode: 'f562'
+
+  - name: 'window-open'
+    unicode: 'f563'
+
+  - name: 'window-restore'
+    unicode: 'f564'
+
+  - name: 'windows'
+    unicode: 'f565'
+
+  - name: 'wordpress'
+    unicode: 'f566'
+
+  - name: 'xbox'
+    unicode: 'f567'
+
+  - name: 'xbox-controller'
+    unicode: 'f568'
+
+  - name: 'xbox-controller-off'
+    unicode: 'f569'
+
+  - name: 'xda'
+    unicode: 'f56a'
+
+  - name: 'xml'
+    unicode: 'f56b'
+
+  - name: 'yeast'
+    unicode: 'f56c'
+
+  - name: 'youtube-play'
+    unicode: 'f56d'
+
+  - name: 'zip-box'
+    unicode: 'f56e'
